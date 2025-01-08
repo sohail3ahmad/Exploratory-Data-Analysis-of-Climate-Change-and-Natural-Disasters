@@ -1,0 +1,6000 @@
+Country,Year,Total_Disasters,Total_Deaths
+Afghanistan,1954,1,2000
+Afghanistan,1956,2,151
+Afghanistan,1963,1,107
+Afghanistan,1969,1,0
+Afghanistan,1971,2,100
+Afghanistan,1972,2,161
+Afghanistan,1976,2,101
+Afghanistan,1978,1,120
+Afghanistan,1980,1,0
+Afghanistan,1982,1,500
+Afghanistan,1983,1,12
+Afghanistan,1984,1,1
+Afghanistan,1987,1,70
+Afghanistan,1988,1,0
+Afghanistan,1990,1,144
+Afghanistan,1991,6,1427
+Afghanistan,1992,3,614
+Afghanistan,1993,4,225
+Afghanistan,1994,1,160
+Afghanistan,1995,3,381
+Afghanistan,1996,2,70
+Afghanistan,1997,4,175
+Afghanistan,1998,7,7308
+Afghanistan,1999,5,205
+Afghanistan,2000,5,594
+Afghanistan,2001,6,485
+Afghanistan,2002,16,4083
+Afghanistan,2003,9,137
+Afghanistan,2004,3,18
+Afghanistan,2005,14,582
+Afghanistan,2006,13,382
+Afghanistan,2007,7,296
+Afghanistan,2008,4,1334
+Afghanistan,2009,5,101
+Afghanistan,2010,5,350
+Afghanistan,2011,4,83
+Afghanistan,2012,11,378
+Afghanistan,2013,6,155
+Afghanistan,2014,3,575
+Afghanistan,2015,7,446
+Afghanistan,2016,4,84
+Afghanistan,2017,5,226
+Afghanistan,2018,6,123
+Afghanistan,2019,7,211
+Afghanistan,2020,7,328
+Afghanistan,2021,4,194
+Albania,1905,1,120
+Albania,1920,1,200
+Albania,1930,2,60
+Albania,1931,1,90
+Albania,1942,1,43
+Albania,1962,1,15
+Albania,1967,1,11
+Albania,1979,1,35
+Albania,1982,1,1
+Albania,1985,2,125
+Albania,1988,1,0
+Albania,1989,1,0
+Albania,1992,1,11
+Albania,1995,2,4
+Albania,1996,1,7
+Albania,1997,1,0
+Albania,1998,1,0
+Albania,2002,3,7
+Albania,2004,2,3
+Albania,2005,2,5
+Albania,2007,2,0
+Albania,2009,2,0
+Albania,2010,1,0
+Albania,2012,1,5
+Albania,2015,3,1
+Albania,2016,1,2
+Albania,2017,2,7
+Albania,2018,1,0
+Albania,2019,3,51
+Albania,2021,1,0
+Algeria,1910,1,12
+Algeria,1927,1,3000
+Algeria,1946,1,276
+Algeria,1952,1,25
+Algeria,1954,1,1250
+Algeria,1960,1,57
+Algeria,1963,1,0
+Algeria,1965,1,2
+Algeria,1966,1,57
+Algeria,1967,2,30
+Algeria,1969,1,76
+Algeria,1973,1,21
+Algeria,1974,1,11
+Algeria,1979,1,0
+Algeria,1980,1,2633
+Algeria,1981,2,43
+Algeria,1982,1,37
+Algeria,1984,1,54
+Algeria,1985,2,56
+Algeria,1987,2,1
+Algeria,1988,3,0
+Algeria,1989,1,22
+Algeria,1991,1,0
+Algeria,1992,2,21
+Algeria,1993,2,37
+Algeria,1994,4,233
+Algeria,1996,1,4
+Algeria,1997,2,5
+Algeria,1999,2,34
+Algeria,2000,5,48
+Algeria,2001,1,921
+Algeria,2002,3,48
+Algeria,2003,7,2369
+Algeria,2004,4,22
+Algeria,2005,3,22
+Algeria,2006,2,5
+Algeria,2007,7,90
+Algeria,2008,1,93
+Algeria,2009,2,48
+Algeria,2011,1,10
+Algeria,2012,2,69
+Algeria,2014,1,6
+Algeria,2015,2,12
+Algeria,2017,1,0
+Algeria,2018,1,6
+Algeria,2019,1,8
+Algeria,2020,1,0
+Algeria,2021,2,100
+American Samoa,1966,1,90
+American Samoa,1989,1,0
+American Samoa,2003,1,6
+American Samoa,2004,1,0
+American Samoa,2005,1,0
+American Samoa,2009,1,34
+Angola,1981,1,0
+Angola,1985,1,0
+Angola,1987,1,59
+Angola,1989,3,766
+Angola,1995,1,0
+Angola,1997,1,0
+Angola,1998,1,115
+Angola,1999,2,188
+Angola,2000,6,77
+Angola,2001,5,154
+Angola,2002,1,8
+Angola,2003,2,15
+Angola,2004,5,357
+Angola,2005,1,0
+Angola,2006,3,2422
+Angola,2007,4,620
+Angola,2008,3,370
+Angola,2009,5,178
+Angola,2010,3,25
+Angola,2011,4,130
+Angola,2012,1,0
+Angola,2013,1,9
+Angola,2015,4,459
+Angola,2016,4,113
+Angola,2017,2,11
+Angola,2018,2,10
+Angola,2019,3,71
+Angola,2020,2,33
+Angola,2021,2,32
+Anguilla,1919,2,0
+Anguilla,1920,1,0
+Anguilla,1921,1,0
+Anguilla,1922,1,0
+Anguilla,1923,1,0
+Anguilla,1955,1,0
+Anguilla,1960,1,5
+Anguilla,1979,1,0
+Anguilla,1983,2,0
+Anguilla,1984,1,0
+Anguilla,1999,1,0
+Anguilla,2017,1,4
+Antigua and Barbuda,1950,1,2
+Antigua and Barbuda,1960,1,2
+Antigua and Barbuda,1966,1,0
+Antigua and Barbuda,1983,1,0
+Antigua and Barbuda,1989,1,2
+Antigua and Barbuda,1990,1,0
+Antigua and Barbuda,1995,1,2
+Antigua and Barbuda,1998,1,2
+Antigua and Barbuda,1999,2,2
+Antigua and Barbuda,2008,1,0
+Antigua and Barbuda,2010,1,0
+Antigua and Barbuda,2017,1,1
+Argentina,1920,1,400
+Argentina,1944,1,10000
+Argentina,1958,1,360
+Argentina,1965,1,45
+Argentina,1966,1,62
+Argentina,1967,1,56
+Argentina,1970,1,36
+Argentina,1972,1,100
+Argentina,1973,1,60
+Argentina,1974,1,100
+Argentina,1975,1,20
+Argentina,1977,2,70
+Argentina,1978,2,5
+Argentina,1979,1,0
+Argentina,1980,2,41
+Argentina,1982,1,0
+Argentina,1983,2,0
+Argentina,1984,1,30
+Argentina,1985,3,43
+Argentina,1986,2,4
+Argentina,1987,3,1
+Argentina,1988,1,25
+Argentina,1990,1,21
+Argentina,1991,1,0
+Argentina,1992,3,112
+Argentina,1993,4,15
+Argentina,1994,1,24
+Argentina,1995,4,6
+Argentina,1997,1,0
+Argentina,1998,2,19
+Argentina,1999,1,0
+Argentina,2000,8,37
+Argentina,2001,7,35
+Argentina,2002,5,11
+Argentina,2003,4,39
+Argentina,2004,3,10
+Argentina,2005,1,11
+Argentina,2006,1,0
+Argentina,2007,3,19
+Argentina,2008,2,0
+Argentina,2009,6,29
+Argentina,2010,1,42
+Argentina,2011,1,0
+Argentina,2012,3,25
+Argentina,2013,2,56
+Argentina,2014,4,27
+Argentina,2015,5,19
+Argentina,2016,2,0
+Argentina,2017,4,1
+Argentina,2018,5,2
+Argentina,2019,4,14
+Argentina,2020,2,3
+Argentina,2021,3,15
+Armenia,1931,1,2890
+Armenia,1997,2,4
+Armenia,1998,1,0
+Armenia,2000,1,0
+Armenia,2004,1,1
+Armenia,2013,2,0
+Armenia,2016,1,0
+Armenia,2018,1,0
+Armenia,2019,1,0
+Armenia,2020,1,0
+Australia,1939,1,71
+Australia,1944,1,49
+Australia,1955,1,70
+Australia,1967,2,662
+Australia,1968,2,12
+Australia,1970,1,13
+Australia,1971,2,30
+Australia,1973,1,12
+Australia,1974,4,90
+Australia,1975,4,0
+Australia,1976,9,0
+Australia,1977,5,3
+Australia,1978,8,12
+Australia,1979,3,15
+Australia,1980,6,0
+Australia,1981,5,2
+Australia,1982,3,1
+Australia,1983,4,75
+Australia,1984,1,36
+Australia,1985,5,38
+Australia,1986,6,15
+Australia,1988,4,17
+Australia,1989,4,25
+Australia,1990,5,12
+Australia,1991,3,0
+Australia,1992,3,2
+Australia,1993,4,18
+Australia,1994,9,36
+Australia,1995,5,9
+Australia,1996,9,21
+Australia,1997,4,21
+Australia,1998,6,20
+Australia,1999,5,8
+Australia,2000,6,1
+Australia,2001,9,6
+Australia,2002,6,2
+Australia,2003,10,6
+Australia,2004,7,6
+Australia,2005,4,16
+Australia,2006,8,4
+Australia,2007,2,11
+Australia,2008,5,8
+Australia,2009,6,535
+Australia,2010,8,36
+Australia,2011,3,1
+Australia,2012,2,4
+Australia,2013,3,9
+Australia,2014,4,141
+Australia,2015,8,16
+Australia,2016,4,8
+Australia,2017,3,12
+Australia,2018,3,0
+Australia,2019,3,35
+Australia,2020,3,1
+Australia,2021,5,3
+Austria,1952,1,28
+Austria,1954,2,210
+Austria,1975,1,15
+Austria,1976,1,0
+Austria,1980,1,0
+Austria,1981,1,0
+Austria,1982,2,12
+Austria,1983,1,0
+Austria,1984,2,42
+Austria,1985,1,12
+Austria,1990,5,3
+Austria,1991,2,5
+Austria,1993,1,0
+Austria,1994,1,0
+Austria,1995,1,2
+Austria,1996,1,0
+Austria,1997,1,3
+Austria,1998,1,0
+Austria,1999,2,53
+Austria,2000,2,13
+Austria,2002,3,12
+Austria,2003,1,345
+Austria,2005,3,4
+Austria,2006,1,0
+Austria,2007,2,5
+Austria,2008,1,4
+Austria,2009,4,3
+Austria,2012,1,5
+Austria,2013,1,4
+Austria,2016,1,0
+Austria,2017,2,5
+Austria,2019,2,12
+Austria,2021,1,1
+Azerbaijan,1902,1,86
+Azerbaijan,1995,3,5
+Azerbaijan,1997,1,11
+Azerbaijan,1998,1,1
+Azerbaijan,1999,1,1
+Azerbaijan,2000,3,42
+Azerbaijan,2003,1,0
+Azerbaijan,2009,1,0
+Azerbaijan,2010,1,3
+Azerbaijan,2012,3,5
+Azores Islands,1946,1,27
+Azores Islands,1964,1,0
+Azores Islands,1980,1,69
+Azores Islands,1996,1,0
+Azores Islands,1997,1,29
+Azores Islands,1998,1,10
+Bahamas (the),1926,1,0
+Bahamas (the),1929,1,0
+Bahamas (the),1935,1,14
+Bahamas (the),1945,1,22
+Bahamas (the),1963,1,0
+Bahamas (the),1965,1,0
+Bahamas (the),1966,2,5
+Bahamas (the),1988,1,0
+Bahamas (the),1990,1,0
+Bahamas (the),1992,1,4
+Bahamas (the),1995,1,0
+Bahamas (the),1999,1,1
+Bahamas (the),2001,1,0
+Bahamas (the),2004,3,12
+Bahamas (the),2005,1,1
+Bahamas (the),2007,1,1
+Bahamas (the),2008,2,0
+Bahamas (the),2011,1,0
+Bahamas (the),2012,1,1
+Bahamas (the),2013,1,0
+Bahamas (the),2015,1,33
+Bahamas (the),2016,1,0
+Bahamas (the),2017,1,0
+Bahamas (the),2019,1,356
+Bahrain,1978,1,111
+Bangladesh,1904,1,0
+Bangladesh,1909,2,172
+Bangladesh,1911,1,0
+Bangladesh,1918,1,393000
+Bangladesh,1919,1,0
+Bangladesh,1922,1,0
+Bangladesh,1923,1,6
+Bangladesh,1926,1,0
+Bangladesh,1937,1,0
+Bangladesh,1941,1,5000
+Bangladesh,1942,1,61000
+Bangladesh,1943,1,1900000
+Bangladesh,1947,2,500
+Bangladesh,1951,1,200
+Bangladesh,1958,2,500
+Bangladesh,1960,3,18149
+Bangladesh,1961,3,11266
+Bangladesh,1963,3,22109
+Bangladesh,1964,2,300
+Bangladesh,1965,3,48921
+Bangladesh,1966,2,889
+Bangladesh,1967,2,91
+Bangladesh,1968,2,339
+Bangladesh,1969,1,849
+Bangladesh,1970,4,300317
+Bangladesh,1971,1,163
+Bangladesh,1972,2,250
+Bangladesh,1973,5,2327
+Bangladesh,1974,5,31500
+Bangladesh,1976,3,215
+Bangladesh,1977,6,907
+Bangladesh,1978,4,1176
+Bangladesh,1979,3,71
+Bangladesh,1980,2,666
+Bangladesh,1981,3,1085
+Bangladesh,1982,3,2696
+Bangladesh,1983,9,1430
+Bangladesh,1984,2,2150
+Bangladesh,1985,7,16055
+Bangladesh,1986,7,379
+Bangladesh,1987,6,3042
+Bangladesh,1988,7,3506
+Bangladesh,1989,8,1186
+Bangladesh,1990,8,1022
+Bangladesh,1991,8,142134
+Bangladesh,1992,6,240
+Bangladesh,1993,12,684
+Bangladesh,1994,9,350
+Bangladesh,1995,11,2014
+Bangladesh,1996,8,901
+Bangladesh,1997,9,624
+Bangladesh,1998,8,1642
+Bangladesh,1999,12,330
+Bangladesh,2000,15,222
+Bangladesh,2001,7,253
+Bangladesh,2002,7,928
+Bangladesh,2003,8,529
+Bangladesh,2004,10,1034
+Bangladesh,2005,12,332
+Bangladesh,2006,7,154
+Bangladesh,2007,7,5721
+Bangladesh,2008,5,68
+Bangladesh,2009,6,348
+Bangladesh,2010,6,107
+Bangladesh,2011,5,102
+Bangladesh,2012,5,344
+Bangladesh,2013,3,50
+Bangladesh,2014,4,79
+Bangladesh,2015,8,159
+Bangladesh,2016,4,198
+Bangladesh,2017,6,338
+Bangladesh,2018,4,102
+Bangladesh,2019,6,260
+Bangladesh,2020,2,283
+Bangladesh,2021,2,24
+Barbados,1955,1,57
+Barbados,1970,1,3
+Barbados,1980,1,0
+Barbados,1984,1,0
+Barbados,1987,1,0
+Barbados,1995,1,0
+Barbados,2002,1,0
+Barbados,2004,1,1
+Barbados,2007,1,0
+Barbados,2010,2,0
+Barbados,2017,1,1
+Barbados,2021,1,0
+Belarus,1993,1,0
+Belarus,1995,1,13
+Belarus,1996,1,0
+Belarus,1997,2,5
+Belarus,1999,1,2
+Belarus,2000,1,0
+Belarus,2005,1,5
+Belarus,2007,1,0
+Belarus,2012,1,0
+Belarus,2013,1,4
+Belarus,2014,1,2
+Belarus,2017,1,43
+Belarus,2018,1,0
+Belgium,1906,2,6
+Belgium,1926,1,0
+Belgium,1928,1,0
+Belgium,1930,2,60
+Belgium,1945,1,0
+Belgium,1953,1,11
+Belgium,1956,1,4
+Belgium,1963,1,12
+Belgium,1966,1,0
+Belgium,1967,1,0
+Belgium,1971,1,0
+Belgium,1972,1,0
+Belgium,1976,2,0
+Belgium,1982,1,0
+Belgium,1983,1,2
+Belgium,1984,2,0
+Belgium,1985,2,0
+Belgium,1987,1,0
+Belgium,1990,6,16
+Belgium,1992,1,0
+Belgium,1993,2,0
+Belgium,1994,1,0
+Belgium,1995,1,6
+Belgium,1998,2,1
+Belgium,1999,2,2
+Belgium,2002,5,7
+Belgium,2003,2,1175
+Belgium,2005,3,2
+Belgium,2006,1,940
+Belgium,2007,1,2
+Belgium,2008,2,1
+Belgium,2010,3,4
+Belgium,2011,2,5
+Belgium,2012,1,3
+Belgium,2013,2,0
+Belgium,2014,1,0
+Belgium,2015,1,410
+Belgium,2016,2,2
+Belgium,2018,2,1
+Belgium,2019,3,716
+Belgium,2020,2,1460
+Belgium,2021,2,43
+Belize,1931,1,1500
+Belize,1955,1,16
+Belize,1961,1,275
+Belize,1974,1,0
+Belize,1978,1,5
+Belize,1979,1,0
+Belize,1990,2,0
+Belize,1995,1,0
+Belize,1998,1,9
+Belize,2000,1,14
+Belize,2001,2,30
+Belize,2005,2,3
+Belize,2007,1,0
+Belize,2008,2,8
+Belize,2010,1,0
+Belize,2015,1,0
+Belize,2016,1,0
+Belize,2020,1,0
+Benin,1969,1,0
+Benin,1970,1,0
+Benin,1976,1,1
+Benin,1978,1,2
+Benin,1980,1,0
+Benin,1982,1,0
+Benin,1984,1,0
+Benin,1985,1,61
+Benin,1987,2,65
+Benin,1988,1,0
+Benin,1989,1,228
+Benin,1991,1,3
+Benin,1994,1,0
+Benin,1995,1,20
+Benin,1996,2,76
+Benin,1997,2,47
+Benin,1998,2,78
+Benin,1999,2,12
+Benin,2000,3,351
+Benin,2001,3,378
+Benin,2002,1,50
+Benin,2003,1,3
+Benin,2005,1,4
+Benin,2007,1,10
+Benin,2008,4,48
+Benin,2009,3,10
+Benin,2010,4,71
+Benin,2011,1,0
+Benin,2012,1,4
+Benin,2013,3,7
+Benin,2016,1,13
+Benin,2019,1,13
+Benin,2020,1,6
+Bermuda,1948,1,0
+Bermuda,1985,1,0
+Bermuda,1986,1,0
+Bermuda,1987,1,0
+Bermuda,1989,1,0
+Bermuda,2003,1,4
+Bhutan,1985,1,41
+Bhutan,1992,1,0
+Bhutan,1994,2,39
+Bhutan,1999,1,0
+Bhutan,2000,1,200
+Bhutan,2004,1,0
+Bhutan,2009,2,23
+Bhutan,2011,1,1
+Bhutan,2021,2,10
+Bolivia (Plurinational State of),1965,1,40
+Bolivia (Plurinational State of),1966,2,14
+Bolivia (Plurinational State of),1968,1,24
+Bolivia (Plurinational State of),1969,2,18
+Bolivia (Plurinational State of),1974,1,31
+Bolivia (Plurinational State of),1977,2,10
+Bolivia (Plurinational State of),1978,2,40
+Bolivia (Plurinational State of),1980,1,0
+Bolivia (Plurinational State of),1982,1,0
+Bolivia (Plurinational State of),1983,3,250
+Bolivia (Plurinational State of),1984,1,0
+Bolivia (Plurinational State of),1985,1,0
+Bolivia (Plurinational State of),1986,1,29
+Bolivia (Plurinational State of),1987,1,25
+Bolivia (Plurinational State of),1988,1,0
+Bolivia (Plurinational State of),1989,1,67
+Bolivia (Plurinational State of),1990,1,0
+Bolivia (Plurinational State of),1991,1,329
+Bolivia (Plurinational State of),1992,3,53
+Bolivia (Plurinational State of),1994,3,5
+Bolivia (Plurinational State of),1996,1,40
+Bolivia (Plurinational State of),1997,4,74
+Bolivia (Plurinational State of),1998,3,160
+Bolivia (Plurinational State of),1999,3,36
+Bolivia (Plurinational State of),2000,4,36
+Bolivia (Plurinational State of),2001,2,50
+Bolivia (Plurinational State of),2002,3,96
+Bolivia (Plurinational State of),2003,4,143
+Bolivia (Plurinational State of),2004,1,0
+Bolivia (Plurinational State of),2005,1,0
+Bolivia (Plurinational State of),2006,2,25
+Bolivia (Plurinational State of),2007,4,116
+Bolivia (Plurinational State of),2008,4,27
+Bolivia (Plurinational State of),2009,1,0
+Bolivia (Plurinational State of),2010,5,59
+Bolivia (Plurinational State of),2011,2,52
+Bolivia (Plurinational State of),2012,1,13
+Bolivia (Plurinational State of),2013,5,136
+Bolivia (Plurinational State of),2014,4,137
+Bolivia (Plurinational State of),2015,1,0
+Bolivia (Plurinational State of),2016,3,4
+Bolivia (Plurinational State of),2018,2,29
+Bolivia (Plurinational State of),2019,5,83
+Bolivia (Plurinational State of),2020,2,25
+Bolivia (Plurinational State of),2021,5,28
+Bosnia and Herzegovina,1999,1,0
+Bosnia and Herzegovina,2000,3,6
+Bosnia and Herzegovina,2001,1,0
+Bosnia and Herzegovina,2003,1,0
+Bosnia and Herzegovina,2004,2,0
+Bosnia and Herzegovina,2005,2,4
+Bosnia and Herzegovina,2007,1,0
+Bosnia and Herzegovina,2009,3,1
+Bosnia and Herzegovina,2010,3,5
+Bosnia and Herzegovina,2012,1,4
+Bosnia and Herzegovina,2014,4,26
+Bosnia and Herzegovina,2015,1,0
+Bosnia and Herzegovina,2019,2,1
+Bosnia and Herzegovina,2020,1,0
+Botswana,1965,1,0
+Botswana,1968,1,0
+Botswana,1970,1,0
+Botswana,1972,1,0
+Botswana,1981,1,0
+Botswana,1986,1,0
+Botswana,1988,2,191
+Botswana,1990,1,0
+Botswana,1995,1,20
+Botswana,2000,1,3
+Botswana,2004,1,0
+Botswana,2006,1,470
+Botswana,2008,1,2
+Botswana,2009,3,0
+Botswana,2011,1,0
+Botswana,2013,1,12
+Botswana,2015,1,0
+Botswana,2017,1,0
+Botswana,2018,1,0
+Botswana,2019,1,0
+Brazil,1948,1,200
+Brazil,1949,1,100
+Brazil,1956,2,66
+Brazil,1957,1,112
+Brazil,1959,2,159
+Brazil,1964,3,100
+Brazil,1965,2,22
+Brazil,1966,5,946
+Brazil,1967,5,1256
+Brazil,1968,1,113
+Brazil,1969,1,316
+Brazil,1970,2,172
+Brazil,1971,2,239
+Brazil,1973,1,20
+Brazil,1974,4,1826
+Brazil,1975,4,244
+Brazil,1977,5,72
+Brazil,1978,2,26
+Brazil,1979,2,300
+Brazil,1980,3,82
+Brazil,1981,2,97
+Brazil,1982,1,33
+Brazil,1983,4,176
+Brazil,1984,7,573
+Brazil,1985,4,123
+Brazil,1986,3,29
+Brazil,1987,3,107
+Brazil,1988,6,732
+Brazil,1989,8,303
+Brazil,1990,2,24
+Brazil,1991,4,240
+Brazil,1992,5,137
+Brazil,1994,4,0
+Brazil,1995,6,240
+Brazil,1996,4,186
+Brazil,1997,5,93
+Brazil,1998,11,27
+Brazil,1999,4,35
+Brazil,2000,6,115
+Brazil,2001,5,98
+Brazil,2002,6,161
+Brazil,2003,5,255
+Brazil,2004,5,39
+Brazil,2005,4,49
+Brazil,2006,2,20
+Brazil,2007,6,70
+Brazil,2008,6,326
+Brazil,2009,10,191
+Brazil,2010,6,395
+Brazil,2011,8,978
+Brazil,2012,3,3
+Brazil,2013,6,121
+Brazil,2014,5,41
+Brazil,2015,6,28
+Brazil,2016,3,294
+Brazil,2017,2,168
+Brazil,2018,3,22
+Brazil,2019,8,47
+Brazil,2020,7,163
+Brazil,2021,7,11
+Brunei Darussalam,1998,1,0
+Bulgaria,1928,1,107
+Bulgaria,1965,1,11
+Bulgaria,1977,1,20
+Bulgaria,1981,1,0
+Bulgaria,1983,1,0
+Bulgaria,1986,1,3
+Bulgaria,1990,1,1
+Bulgaria,1993,1,0
+Bulgaria,1997,1,0
+Bulgaria,1998,1,3
+Bulgaria,1999,1,0
+Bulgaria,2000,4,14
+Bulgaria,2001,2,2
+Bulgaria,2002,1,1
+Bulgaria,2005,7,57
+Bulgaria,2006,3,0
+Bulgaria,2007,6,17
+Bulgaria,2008,1,10
+Bulgaria,2010,2,3
+Bulgaria,2012,4,38
+Bulgaria,2014,5,21
+Bulgaria,2015,1,5
+Bulgaria,2018,1,0
+Bulgaria,2021,2,0
+Burkina Faso,1910,1,0
+Burkina Faso,1940,1,0
+Burkina Faso,1966,1,0
+Burkina Faso,1969,3,434
+Burkina Faso,1976,1,0
+Burkina Faso,1977,1,0
+Burkina Faso,1979,1,241
+Burkina Faso,1980,1,0
+Burkina Faso,1981,2,1091
+Burkina Faso,1983,1,237
+Burkina Faso,1984,2,0
+Burkina Faso,1985,1,0
+Burkina Faso,1986,1,0
+Burkina Faso,1987,1,0
+Burkina Faso,1988,2,16
+Burkina Faso,1990,1,0
+Burkina Faso,1991,1,37
+Burkina Faso,1994,1,22
+Burkina Faso,1995,1,0
+Burkina Faso,1996,2,4135
+Burkina Faso,1997,1,2274
+Burkina Faso,1998,2,26
+Burkina Faso,1999,1,6
+Burkina Faso,2001,4,2978
+Burkina Faso,2003,2,1058
+Burkina Faso,2004,2,527
+Burkina Faso,2005,1,9
+Burkina Faso,2006,3,784
+Burkina Faso,2007,2,1542
+Burkina Faso,2008,4,556
+Burkina Faso,2009,3,398
+Burkina Faso,2010,2,857
+Burkina Faso,2011,1,0
+Burkina Faso,2012,1,18
+Burkina Faso,2013,1,2
+Burkina Faso,2014,1,0
+Burkina Faso,2015,1,8
+Burkina Faso,2016,1,15
+Burkina Faso,2017,2,20
+Burkina Faso,2020,4,13
+Burundi,1978,1,54
+Burundi,1989,1,12
+Burundi,1992,1,220
+Burundi,1997,2,21
+Burundi,1999,4,86
+Burundi,2000,4,308
+Burundi,2002,5,87
+Burundi,2003,2,6
+Burundi,2004,4,3
+Burundi,2005,2,120
+Burundi,2006,7,22
+Burundi,2007,2,5
+Burundi,2008,3,9
+Burundi,2009,2,0
+Burundi,2010,4,9
+Burundi,2011,3,24
+Burundi,2014,1,96
+Burundi,2015,2,63
+Burundi,2016,1,1
+Burundi,2017,1,6
+Burundi,2018,3,0
+Burundi,2019,3,61
+Burundi,2020,3,5
+Burundi,2021,1,0
+Cabo Verde,1900,1,11000
+Cabo Verde,1910,1,0
+Cabo Verde,1920,1,24000
+Cabo Verde,1940,1,20000
+Cabo Verde,1946,1,30000
+Cabo Verde,1969,1,0
+Cabo Verde,1980,1,0
+Cabo Verde,1982,1,3
+Cabo Verde,1984,1,29
+Cabo Verde,1988,1,0
+Cabo Verde,1992,1,0
+Cabo Verde,1994,1,245
+Cabo Verde,1995,1,0
+Cabo Verde,1998,1,0
+Cabo Verde,2002,1,0
+Cabo Verde,2004,1,0
+Cabo Verde,2009,2,9
+Cabo Verde,2014,1,0
+Cabo Verde,2015,1,9
+Cabo Verde,2017,1,0
+Cambodia,1987,1,0
+Cambodia,1991,1,100
+Cambodia,1992,2,50
+Cambodia,1994,2,506
+Cambodia,1996,1,59
+Cambodia,1997,2,28
+Cambodia,1998,2,490
+Cambodia,1999,3,63
+Cambodia,2000,1,347
+Cambodia,2001,2,56
+Cambodia,2002,2,29
+Cambodia,2004,2,7
+Cambodia,2005,2,16
+Cambodia,2006,3,5
+Cambodia,2007,2,184
+Cambodia,2009,2,19
+Cambodia,2010,1,8
+Cambodia,2011,1,247
+Cambodia,2012,1,14
+Cambodia,2013,1,200
+Cambodia,2014,1,45
+Cambodia,2015,2,0
+Cambodia,2016,1,0
+Cambodia,2018,1,0
+Cambodia,2019,1,12
+Cambodia,2020,2,38
+Cameroon,1971,1,0
+Cameroon,1984,1,37
+Cameroon,1986,1,1746
+Cameroon,1987,1,0
+Cameroon,1988,2,41
+Cameroon,1989,1,100
+Cameroon,1990,2,118
+Cameroon,1991,2,310
+Cameroon,1992,1,731
+Cameroon,1993,1,513
+Cameroon,1994,1,6
+Cameroon,1996,1,378
+Cameroon,1997,2,109
+Cameroon,1998,3,239
+Cameroon,1999,3,38
+Cameroon,2000,2,25
+Cameroon,2001,4,61
+Cameroon,2003,1,20
+Cameroon,2004,1,46
+Cameroon,2005,3,44
+Cameroon,2006,1,8
+Cameroon,2007,1,8
+Cameroon,2008,1,9
+Cameroon,2009,1,109
+Cameroon,2010,2,528
+Cameroon,2011,1,639
+Cameroon,2012,3,25
+Cameroon,2013,1,0
+Cameroon,2014,3,111
+Cameroon,2015,2,4
+Cameroon,2017,1,3
+Cameroon,2018,1,57
+Cameroon,2019,1,54
+Cameroon,2020,1,0
+Canada,1903,1,76
+Canada,1905,1,18
+Canada,1908,1,33
+Canada,1910,1,62
+Canada,1911,1,73
+Canada,1912,1,28
+Canada,1915,1,56
+Canada,1918,1,50000
+Canada,1922,1,43
+Canada,1928,1,27
+Canada,1931,1,0
+Canada,1936,1,500
+Canada,1946,1,17
+Canada,1950,2,1
+Canada,1953,1,481
+Canada,1954,1,83
+Canada,1955,1,3
+Canada,1959,1,6
+Canada,1961,1,0
+Canada,1962,1,33
+Canada,1965,1,26
+Canada,1966,1,0
+Canada,1970,1,10
+Canada,1971,2,31
+Canada,1974,2,0
+Canada,1975,2,14
+Canada,1976,1,0
+Canada,1977,2,0
+Canada,1979,1,0
+Canada,1980,1,0
+Canada,1981,1,0
+Canada,1982,1,0
+Canada,1983,1,0
+Canada,1984,1,0
+Canada,1985,2,12
+Canada,1986,4,0
+Canada,1987,3,27
+Canada,1988,2,2
+Canada,1989,2,1
+Canada,1990,1,8
+Canada,1991,2,18
+Canada,1992,3,17
+Canada,1993,1,0
+Canada,1994,3,0
+Canada,1995,4,2
+Canada,1996,2,10
+Canada,1997,3,5
+Canada,1998,3,31
+Canada,1999,3,7
+Canada,2000,1,11
+Canada,2001,3,12
+Canada,2002,4,45
+Canada,2003,7,7
+Canada,2004,4,0
+Canada,2005,5,4
+Canada,2006,5,1
+Canada,2007,3,6
+Canada,2008,2,0
+Canada,2009,3,2
+Canada,2010,1,0
+Canada,2011,4,8
+Canada,2012,3,0
+Canada,2013,3,14
+Canada,2014,2,0
+Canada,2015,1,0
+Canada,2016,2,0
+Canada,2017,3,2
+Canada,2018,4,70
+Canada,2019,2,2
+Canada,2020,2,1
+Canada,2021,3,489
+Canary Is,1957,1,26
+Canary Is,1999,1,0
+Canary Is,2001,1,7
+Canary Is,2002,1,16
+Canary Is,2004,1,13
+Canary Is,2005,1,19
+Canary Is,2007,1,0
+Canary Is,2021,1,0
+Cayman Islands (the),2001,1,0
+Cayman Islands (the),2002,2,0
+Cayman Islands (the),2004,2,2
+Cayman Islands (the),2008,2,0
+Central African Republic,1973,1,0
+Central African Republic,1981,1,0
+Central African Republic,1983,1,0
+Central African Republic,1992,1,56
+Central African Republic,1995,2,0
+Central African Republic,1996,1,7
+Central African Republic,1998,1,0
+Central African Republic,1999,3,14
+Central African Republic,2000,3,448
+Central African Republic,2001,2,346
+Central African Republic,2002,2,7
+Central African Republic,2003,2,23
+Central African Republic,2004,1,3
+Central African Republic,2005,1,1
+Central African Republic,2007,1,1
+Central African Republic,2008,1,0
+Central African Republic,2009,3,4
+Central African Republic,2010,1,3
+Central African Republic,2011,3,17
+Central African Republic,2012,2,0
+Central African Republic,2013,3,0
+Central African Republic,2015,1,1
+Central African Republic,2016,1,21
+Central African Republic,2017,2,0
+Central African Republic,2018,1,1
+Central African Republic,2019,2,53
+Central African Republic,2021,1,0
+Chad,1910,1,0
+Chad,1940,1,0
+Chad,1966,1,0
+Chad,1969,1,0
+Chad,1971,1,2312
+Chad,1977,1,13
+Chad,1980,1,3000
+Chad,1985,1,0
+Chad,1986,1,0
+Chad,1987,2,0
+Chad,1988,4,487
+Chad,1991,2,1301
+Chad,1993,1,0
+Chad,1995,1,2
+Chad,1996,1,94
+Chad,1997,2,239
+Chad,1998,1,0
+Chad,1999,1,0
+Chad,2000,2,1209
+Chad,2001,3,213
+Chad,2003,1,11
+Chad,2004,3,144
+Chad,2005,1,115
+Chad,2006,2,72
+Chad,2007,3,29
+Chad,2008,3,22
+Chad,2009,4,108
+Chad,2010,4,263
+Chad,2011,2,557
+Chad,2012,4,108
+Chad,2017,2,58
+Chad,2018,1,90
+Chad,2019,2,52
+Chad,2020,2,3
+Chad,2021,1,32
+Chile,1906,1,20000
+Chile,1922,1,1000
+Chile,1928,1,220
+Chile,1939,1,30000
+Chile,1943,1,12
+Chile,1946,1,2
+Chile,1948,1,100
+Chile,1949,2,41
+Chile,1953,2,15
+Chile,1958,1,0
+Chile,1960,1,6000
+Chile,1964,1,4
+Chile,1965,4,1084
+Chile,1966,1,4
+Chile,1968,2,0
+Chile,1971,2,85
+Chile,1974,1,32
+Chile,1977,1,15
+Chile,1978,1,4
+Chile,1979,1,30
+Chile,1982,1,0
+Chile,1983,1,4
+Chile,1984,2,127
+Chile,1985,1,180
+Chile,1986,2,39
+Chile,1987,4,164
+Chile,1988,1,0
+Chile,1989,1,21
+Chile,1990,1,0
+Chile,1991,4,142
+Chile,1992,3,0
+Chile,1993,3,115
+Chile,1995,3,33
+Chile,1997,5,44
+Chile,1999,1,0
+Chile,2000,3,16
+Chile,2001,4,6
+Chile,2002,5,19
+Chile,2003,1,0
+Chile,2004,2,3
+Chile,2005,4,61
+Chile,2006,1,18
+Chile,2007,3,18
+Chile,2008,3,9
+Chile,2010,2,562
+Chile,2011,5,1
+Chile,2012,3,8
+Chile,2013,1,0
+Chile,2014,3,18
+Chile,2015,7,204
+Chile,2016,1,12
+Chile,2017,5,42
+Chile,2019,3,8
+Chile,2021,2,0
+China,1902,1,2500
+China,1905,1,0
+China,1906,1,280
+China,1907,1,12000
+China,1909,2,1500021
+China,1910,1,60000
+China,1911,1,100000
+China,1912,1,50000
+China,1913,1,942
+China,1915,2,170
+China,1917,2,1800
+China,1918,1,10000
+China,1920,2,680000
+China,1922,1,100000
+China,1923,1,5000
+China,1924,1,100
+China,1925,2,5012
+China,1927,2,45912
+China,1928,1,3000000
+China,1930,2,242
+China,1931,2,3710000
+China,1933,3,28200
+China,1934,1,500
+China,1935,2,142100
+China,1936,3,145
+China,1937,1,390
+China,1939,1,500000
+China,1940,2,181
+China,1941,2,147
+China,1942,2,120
+China,1945,1,17
+China,1948,5,3040
+China,1949,2,57021
+China,1950,1,500
+China,1951,2,4800
+China,1952,2,54
+China,1954,2,32000
+China,1955,1,39
+China,1956,2,4000
+China,1957,1,560
+China,1959,4,2001971
+China,1964,1,686
+China,1965,1,0
+China,1967,1,0
+China,1969,2,3000
+China,1970,2,10107
+China,1973,1,0
+China,1974,1,20000
+China,1975,2,22000
+China,1976,2,242000
+China,1978,1,0
+China,1979,4,42
+China,1980,5,6491
+China,1981,8,2465
+China,1982,7,551
+China,1983,9,921
+China,1984,6,144
+China,1985,14,1661
+China,1986,11,683
+China,1987,15,881
+China,1988,18,3969
+China,1989,14,3161
+China,1990,18,1324
+China,1991,13,5392
+China,1992,18,1449
+China,1993,18,1565
+China,1994,18,3203
+China,1995,15,2436
+China,1996,20,5612
+China,1997,21,1633
+China,1998,18,4501
+China,1999,21,1727
+China,2000,29,678
+China,2001,33,922
+China,2002,29,1795
+China,2003,27,1092
+China,2004,25,823
+China,2005,31,1058
+China,2006,37,2109
+China,2007,20,1161
+China,2008,30,88450
+China,2009,26,582
+China,2010,26,7186
+China,2011,20,746
+China,2012,28,802
+China,2013,43,1395
+China,2014,41,1575
+China,2015,36,500
+China,2016,33,1287
+China,2017,30,514
+China,2018,22,354
+China,2019,17,572
+China,2020,12,463
+China,2021,11,426
+Colombia,1906,1,400
+Colombia,1923,1,300
+Colombia,1926,1,100
+Colombia,1936,2,18
+Colombia,1949,1,1000
+Colombia,1950,1,211
+Colombia,1954,2,187
+Colombia,1958,1,111
+Colombia,1959,1,184
+Colombia,1962,2,182
+Colombia,1965,1,32
+Colombia,1967,2,81
+Colombia,1968,1,0
+Colombia,1969,1,0
+Colombia,1970,4,407
+Colombia,1971,3,251
+Colombia,1972,1,70
+Colombia,1973,3,225
+Colombia,1974,3,401
+Colombia,1976,2,60
+Colombia,1977,1,0
+Colombia,1979,3,701
+Colombia,1980,1,40
+Colombia,1981,3,225
+Colombia,1982,2,120
+Colombia,1983,3,411
+Colombia,1984,1,0
+Colombia,1985,1,21800
+Colombia,1986,5,278
+Colombia,1987,3,674
+Colombia,1988,3,146
+Colombia,1989,1,16
+Colombia,1990,4,10
+Colombia,1991,6,457
+Colombia,1992,1,11
+Colombia,1993,6,170
+Colombia,1994,4,308
+Colombia,1995,6,141
+Colombia,1996,4,79
+Colombia,1997,1,2
+Colombia,1998,2,104
+Colombia,1999,7,1276
+Colombia,2000,4,115
+Colombia,2001,6,99
+Colombia,2002,5,135
+Colombia,2003,4,115
+Colombia,2004,4,116
+Colombia,2005,5,180
+Colombia,2006,3,150
+Colombia,2007,6,218
+Colombia,2008,8,153
+Colombia,2009,3,53
+Colombia,2010,6,624
+Colombia,2011,3,313
+Colombia,2012,4,77
+Colombia,2013,3,98
+Colombia,2014,5,88
+Colombia,2015,5,104
+Colombia,2016,3,10
+Colombia,2017,7,384
+Colombia,2018,2,26
+Colombia,2019,7,253
+Colombia,2020,6,66
+Colombia,2021,5,3
+Comoros (the),1903,1,17
+Comoros (the),1951,1,500
+Comoros (the),1977,1,1
+Comoros (the),1981,1,0
+Comoros (the),1983,1,33
+Comoros (the),1985,1,2
+Comoros (the),1987,1,24
+Comoros (the),1989,2,3
+Comoros (the),1991,1,0
+Comoros (the),1998,1,40
+Comoros (the),1999,1,14
+Comoros (the),2003,1,0
+Comoros (the),2005,4,1
+Comoros (the),2006,1,0
+Comoros (the),2007,1,29
+Comoros (the),2009,1,2
+Comoros (the),2012,1,4
+Comoros (the),2014,2,0
+Comoros (the),2019,2,8
+Congo (the Democratic Republic of the),1966,1,24
+Congo (the Democratic Republic of the),1968,1,154
+Congo (the Democratic Republic of the),1976,1,245
+Congo (the Democratic Republic of the),1977,1,147
+Congo (the Democratic Republic of the),1978,2,0
+Congo (the Democratic Republic of the),1983,1,0
+Congo (the Democratic Republic of the),1987,2,498
+Congo (the Democratic Republic of the),1989,1,0
+Congo (the Democratic Republic of the),1990,1,23
+Congo (the Democratic Republic of the),1991,1,500
+Congo (the Democratic Republic of the),1992,1,9
+Congo (the Democratic Republic of the),1994,1,39
+Congo (the Democratic Republic of the),1995,1,233
+Congo (the Democratic Republic of the),1996,2,202
+Congo (the Democratic Republic of the),1997,4,54
+Congo (the Democratic Republic of the),1998,5,1002
+Congo (the Democratic Republic of the),1999,2,5
+Congo (the Democratic Republic of the),2000,2,26
+Congo (the Democratic Republic of the),2001,12,900
+Congo (the Democratic Republic of the),2002,11,2742
+Congo (the Democratic Republic of the),2003,7,815
+Congo (the Democratic Republic of the),2004,5,706
+Congo (the Democratic Republic of the),2005,5,115
+Congo (the Democratic Republic of the),2006,11,155
+Congo (the Democratic Republic of the),2007,3,204
+Congo (the Democratic Republic of the),2008,3,36
+Congo (the Democratic Republic of the),2009,6,209
+Congo (the Democratic Republic of the),2010,6,110
+Congo (the Democratic Republic of the),2011,4,636
+Congo (the Democratic Republic of the),2012,5,609
+Congo (the Democratic Republic of the),2014,3,214
+Congo (the Democratic Republic of the),2015,5,55
+Congo (the Democratic Republic of the),2016,4,105
+Congo (the Democratic Republic of the),2017,3,322
+Congo (the Democratic Republic of the),2018,3,2371
+Congo (the Democratic Republic of the),2019,5,4219
+Congo (the Democratic Republic of the),2020,7,138
+Congo (the Democratic Republic of the),2021,2,163
+Congo (the),1967,1,154
+Congo (the),1983,1,0
+Congo (the),1994,1,0
+Congo (the),1997,1,83
+Congo (the),1998,1,0
+Congo (the),1999,2,17
+Congo (the),2000,1,24
+Congo (the),2001,1,19
+Congo (the),2002,2,128
+Congo (the),2003,1,29
+Congo (the),2005,2,11
+Congo (the),2006,2,56
+Congo (the),2007,1,0
+Congo (the),2008,2,26
+Congo (the),2010,1,219
+Congo (the),2011,3,65
+Congo (the),2012,3,24
+Congo (the),2013,1,16
+Congo (the),2019,5,3819
+Congo (the),2020,2,20
+Cook Islands (the),1942,1,0
+Cook Islands (the),1943,1,0
+Cook Islands (the),1946,1,0
+Cook Islands (the),1967,1,0
+Cook Islands (the),1981,1,0
+Cook Islands (the),1987,1,5
+Cook Islands (the),1990,2,8
+Cook Islands (the),1997,2,19
+Cook Islands (the),2001,1,0
+Cook Islands (the),2005,1,0
+Cook Islands (the),2009,1,0
+Cook Islands (the),2010,1,0
+Costa Rica,1910,2,2450
+Costa Rica,1952,1,29
+Costa Rica,1955,1,10
+Costa Rica,1963,1,15
+Costa Rica,1968,1,87
+Costa Rica,1969,1,7
+Costa Rica,1970,2,24
+Costa Rica,1973,2,21
+Costa Rica,1975,1,2
+Costa Rica,1976,2,0
+Costa Rica,1980,1,1
+Costa Rica,1983,2,12
+Costa Rica,1988,2,35
+Costa Rica,1990,2,1
+Costa Rica,1991,5,48
+Costa Rica,1992,1,0
+Costa Rica,1993,2,12
+Costa Rica,1994,2,2
+Costa Rica,1995,2,0
+Costa Rica,1996,3,60
+Costa Rica,1998,3,8
+Costa Rica,1999,1,9
+Costa Rica,2000,1,7
+Costa Rica,2001,1,0
+Costa Rica,2002,2,10
+Costa Rica,2003,2,3
+Costa Rica,2004,3,10
+Costa Rica,2005,3,6
+Costa Rica,2007,2,19
+Costa Rica,2008,4,11
+Costa Rica,2009,1,31
+Costa Rica,2010,2,27
+Costa Rica,2011,1,4
+Costa Rica,2012,2,8
+Costa Rica,2013,1,3
+Costa Rica,2014,1,0
+Costa Rica,2015,2,0
+Costa Rica,2016,1,9
+Costa Rica,2017,1,13
+Costa Rica,2018,2,1
+Costa Rica,2019,1,0
+Costa Rica,2020,1,0
+Costa Rica,2021,1,3
+Croatia,1996,1,0
+Croatia,1997,1,0
+Croatia,2000,3,41
+Croatia,2001,1,0
+Croatia,2003,3,788
+Croatia,2005,3,7
+Croatia,2006,1,0
+Croatia,2007,2,12
+Croatia,2010,3,0
+Croatia,2012,3,7
+Croatia,2014,2,3
+Croatia,2015,1,0
+Croatia,2017,2,0
+Croatia,2018,1,0
+Croatia,2019,1,1
+Croatia,2020,2,9
+Cuba,1926,1,600
+Cuba,1932,1,2500
+Cuba,1935,1,35
+Cuba,1944,1,0
+Cuba,1948,2,14
+Cuba,1963,1,1750
+Cuba,1964,1,0
+Cuba,1966,1,5
+Cuba,1968,1,0
+Cuba,1970,1,20
+Cuba,1976,1,1
+Cuba,1977,1,7
+Cuba,1978,1,6
+Cuba,1980,1,3
+Cuba,1981,1,0
+Cuba,1982,1,24
+Cuba,1983,1,15
+Cuba,1985,2,4
+Cuba,1986,2,0
+Cuba,1987,1,0
+Cuba,1988,3,23
+Cuba,1990,2,4
+Cuba,1992,2,0
+Cuba,1993,5,51
+Cuba,1994,2,14
+Cuba,1995,3,2
+Cuba,1996,3,3
+Cuba,1997,2,3
+Cuba,1998,2,6
+Cuba,1999,2,4
+Cuba,2000,2,2
+Cuba,2001,1,5
+Cuba,2002,3,3
+Cuba,2003,1,0
+Cuba,2004,3,4
+Cuba,2005,2,20
+Cuba,2006,2,2
+Cuba,2007,3,1
+Cuba,2008,5,7
+Cuba,2012,3,14
+Cuba,2013,1,2
+Cuba,2015,2,3
+Cuba,2016,1,0
+Cuba,2017,1,10
+Cuba,2018,2,9
+Cuba,2019,1,6
+Cuba,2020,2,0
+Cuba,2021,2,0
+Cyprus,1953,1,40
+Cyprus,1969,1,3
+Cyprus,1970,1,0
+Cyprus,1983,1,0
+Cyprus,1991,1,0
+Cyprus,1995,1,2
+Cyprus,1996,1,0
+Cyprus,1998,1,52
+Cyprus,2000,3,5
+Cyprus,2003,1,0
+Cyprus,2004,1,0
+Cyprus,2007,1,4
+Cyprus,2021,1,4
+Czech Republic (the),1996,1,1
+Czech Republic (the),1997,1,29
+Czech Republic (the),1998,1,6
+Czech Republic (the),2000,1,0
+Czech Republic (the),2002,3,20
+Czech Republic (the),2003,1,418
+Czech Republic (the),2005,3,16
+Czech Republic (the),2006,2,6
+Czech Republic (the),2007,1,4
+Czech Republic (the),2008,1,2
+Czech Republic (the),2009,2,15
+Czech Republic (the),2010,4,23
+Czech Republic (the),2012,2,32
+Czech Republic (the),2013,1,15
+Czech Republic (the),2017,1,0
+Czech Republic (the),2018,1,3
+Czech Republic (the),2020,1,1
+Czech Republic (the),2021,2,6
+Czechoslovakia,1974,1,14
+Czechoslovakia,1981,2,0
+Czechoslovakia,1982,1,0
+Czechoslovakia,1984,1,0
+Czechoslovakia,1985,2,10
+Czechoslovakia,1987,2,0
+Côte d’Ivoire,1970,1,120
+Côte d’Ivoire,1980,1,0
+Côte d’Ivoire,1989,1,0
+Côte d’Ivoire,1991,1,16
+Côte d’Ivoire,1995,1,150
+Côte d’Ivoire,1996,1,28
+Côte d’Ivoire,2001,2,196
+Côte d’Ivoire,2002,3,77
+Côte d’Ivoire,2005,1,40
+Côte d’Ivoire,2006,2,42
+Côte d’Ivoire,2007,2,30
+Côte d’Ivoire,2008,2,50
+Côte d’Ivoire,2009,1,27
+Côte d’Ivoire,2010,2,18
+Côte d’Ivoire,2014,2,46
+Côte d’Ivoire,2015,1,16
+Côte d’Ivoire,2016,1,20
+Côte d’Ivoire,2017,2,17
+Côte d’Ivoire,2018,1,20
+Côte d’Ivoire,2019,1,12
+Côte d’Ivoire,2020,1,24
+Denmark,1976,1,0
+Denmark,1980,1,0
+Denmark,1981,1,9
+Denmark,1983,1,2
+Denmark,1985,1,0
+Denmark,1990,3,1
+Denmark,1992,1,0
+Denmark,1999,1,7
+Denmark,2002,1,1
+Denmark,2005,1,4
+Denmark,2007,1,0
+Denmark,2010,1,0
+Denmark,2013,2,2
+Djibouti,1977,1,0
+Djibouti,1978,1,0
+Djibouti,1980,1,0
+Djibouti,1981,1,25
+Djibouti,1983,1,0
+Djibouti,1988,1,0
+Djibouti,1989,1,10
+Djibouti,1993,1,0
+Djibouti,1994,2,155
+Djibouti,1995,1,0
+Djibouti,1996,1,0
+Djibouti,1997,1,29
+Djibouti,1998,1,43
+Djibouti,1999,1,0
+Djibouti,2000,1,4
+Djibouti,2004,1,51
+Djibouti,2005,1,0
+Djibouti,2007,2,6
+Djibouti,2008,1,0
+Djibouti,2010,1,0
+Djibouti,2018,1,2
+Djibouti,2019,2,11
+Djibouti,2020,1,8
+Dominica,1930,1,2000
+Dominica,1963,1,0
+Dominica,1970,1,0
+Dominica,1979,1,40
+Dominica,1980,1,0
+Dominica,1984,1,2
+Dominica,1989,1,0
+Dominica,1995,2,2
+Dominica,1999,1,0
+Dominica,2004,1,0
+Dominica,2007,1,2
+Dominica,2011,1,0
+Dominica,2015,1,30
+Dominica,2017,1,64
+Dominican Republic (the),1930,1,2000
+Dominican Republic (the),1946,1,73
+Dominican Republic (the),1963,1,400
+Dominican Republic (the),1964,1,7
+Dominican Republic (the),1965,1,0
+Dominican Republic (the),1966,1,74
+Dominican Republic (the),1968,1,0
+Dominican Republic (the),1978,1,0
+Dominican Republic (the),1979,2,1432
+Dominican Republic (the),1980,1,7
+Dominican Republic (the),1981,1,20
+Dominican Republic (the),1983,1,0
+Dominican Republic (the),1985,1,12
+Dominican Republic (the),1986,1,12
+Dominican Republic (the),1987,1,3
+Dominican Republic (the),1988,1,0
+Dominican Republic (the),1989,1,0
+Dominican Republic (the),1991,1,10
+Dominican Republic (the),1992,1,20
+Dominican Republic (the),1993,2,30
+Dominican Republic (the),1995,3,13
+Dominican Republic (the),1996,2,27
+Dominican Republic (the),1998,1,347
+Dominican Republic (the),1999,1,16
+Dominican Republic (the),2001,1,3
+Dominican Republic (the),2002,1,3
+Dominican Republic (the),2003,4,21
+Dominican Republic (the),2004,4,703
+Dominican Republic (the),2005,3,12
+Dominican Republic (the),2007,5,175
+Dominican Republic (the),2008,3,13
+Dominican Republic (the),2009,3,32
+Dominican Republic (the),2010,4,137
+Dominican Republic (the),2011,4,12
+Dominican Republic (the),2012,5,175
+Dominican Republic (the),2013,1,0
+Dominican Republic (the),2014,1,1
+Dominican Republic (the),2015,3,2
+Dominican Republic (the),2016,3,21
+Dominican Republic (the),2017,3,5
+Dominican Republic (the),2018,2,0
+Dominican Republic (the),2019,1,34
+Dominican Republic (the),2020,2,6
+Dominican Republic (the),2021,1,2
+Ecuador,1924,1,40
+Ecuador,1931,1,190
+Ecuador,1942,1,200
+Ecuador,1949,1,6000
+Ecuador,1950,1,50
+Ecuador,1953,1,71
+Ecuador,1964,1,0
+Ecuador,1965,1,0
+Ecuador,1966,1,50
+Ecuador,1967,2,36
+Ecuador,1969,1,400
+Ecuador,1970,3,49
+Ecuador,1971,2,20
+Ecuador,1973,2,25
+Ecuador,1975,2,0
+Ecuador,1976,4,81
+Ecuador,1977,1,0
+Ecuador,1980,1,8
+Ecuador,1982,1,307
+Ecuador,1983,2,100
+Ecuador,1985,1,0
+Ecuador,1987,4,5102
+Ecuador,1989,1,35
+Ecuador,1990,1,4
+Ecuador,1991,1,343
+Ecuador,1992,2,222
+Ecuador,1993,3,460
+Ecuador,1994,1,0
+Ecuador,1995,3,3
+Ecuador,1996,1,27
+Ecuador,1997,3,245
+Ecuador,1998,3,16
+Ecuador,1999,1,0
+Ecuador,2000,5,86
+Ecuador,2001,3,58
+Ecuador,2002,6,91
+Ecuador,2003,2,0
+Ecuador,2006,3,21
+Ecuador,2008,1,41
+Ecuador,2009,2,3
+Ecuador,2010,4,18
+Ecuador,2011,2,7
+Ecuador,2012,3,45
+Ecuador,2013,4,24
+Ecuador,2014,1,3
+Ecuador,2015,3,12
+Ecuador,2016,4,682
+Ecuador,2019,4,16
+Ecuador,2020,2,0
+Ecuador,2021,3,6
+Egypt,1926,1,12
+Egypt,1947,1,10276
+Egypt,1954,1,0
+Egypt,1955,1,20
+Egypt,1969,1,2
+Egypt,1975,1,15
+Egypt,1979,2,53
+Egypt,1987,1,30
+Egypt,1991,1,1
+Egypt,1992,1,552
+Egypt,1993,1,34
+Egypt,1994,1,600
+Egypt,1995,3,49
+Egypt,1996,2,34
+Egypt,1997,2,22
+Egypt,2000,1,3
+Egypt,2002,3,18
+Egypt,2004,3,28
+Egypt,2008,1,98
+Egypt,2010,3,58
+Egypt,2015,3,141
+Egypt,2016,1,26
+Egypt,2020,1,40
+El Salvador,1934,1,2000
+El Salvador,1936,1,400
+El Salvador,1951,1,1100
+El Salvador,1965,1,125
+El Salvador,1969,2,14
+El Salvador,1982,3,520
+El Salvador,1986,1,1100
+El Salvador,1988,2,55
+El Salvador,1989,1,10
+El Salvador,1991,1,155
+El Salvador,1992,2,2
+El Salvador,1993,1,22
+El Salvador,1994,1,0
+El Salvador,1995,2,13
+El Salvador,1996,1,12
+El Salvador,1997,1,4
+El Salvador,1998,3,475
+El Salvador,1999,1,7
+El Salvador,2000,3,27
+El Salvador,2001,4,1159
+El Salvador,2002,3,7
+El Salvador,2003,1,304
+El Salvador,2005,6,120
+El Salvador,2006,2,1
+El Salvador,2007,2,2
+El Salvador,2008,2,30
+El Salvador,2009,3,282
+El Salvador,2010,3,17
+El Salvador,2011,1,35
+El Salvador,2013,1,0
+El Salvador,2014,2,4
+El Salvador,2015,2,13
+El Salvador,2017,1,10
+El Salvador,2018,3,4
+El Salvador,2019,2,6
+El Salvador,2020,4,75
+El Salvador,2021,1,5
+Equatorial Guinea,2004,1,15
+Eritrea,1993,2,3
+Eritrea,1995,1,0
+Eritrea,1999,1,0
+Eritrea,2003,1,0
+Eritrea,2004,1,0
+Eritrea,2008,1,0
+Eritrea,2019,1,0
+Estonia,2005,2,3
+Estonia,2012,1,1
+Estonia,2018,1,7
+Ethiopia,1961,1,30
+Ethiopia,1965,1,2000
+Ethiopia,1968,1,1
+Ethiopia,1969,2,24
+Ethiopia,1970,1,500
+Ethiopia,1973,1,100000
+Ethiopia,1976,1,0
+Ethiopia,1977,2,71
+Ethiopia,1978,1,9
+Ethiopia,1980,1,157
+Ethiopia,1981,2,990
+Ethiopia,1983,1,300000
+Ethiopia,1985,3,1110
+Ethiopia,1986,1,0
+Ethiopia,1987,2,367
+Ethiopia,1988,5,7445
+Ethiopia,1989,1,0
+Ethiopia,1990,1,0
+Ethiopia,1991,1,13
+Ethiopia,1992,1,0
+Ethiopia,1993,2,2
+Ethiopia,1994,2,26
+Ethiopia,1995,1,27
+Ethiopia,1996,2,40
+Ethiopia,1997,3,326
+Ethiopia,1998,1,0
+Ethiopia,1999,8,57
+Ethiopia,2000,9,495
+Ethiopia,2001,5,434
+Ethiopia,2002,2,34
+Ethiopia,2003,2,119
+Ethiopia,2005,8,285
+Ethiopia,2006,9,1302
+Ethiopia,2007,3,22
+Ethiopia,2008,5,65
+Ethiopia,2009,2,135
+Ethiopia,2010,4,35
+Ethiopia,2011,2,0
+Ethiopia,2013,4,110
+Ethiopia,2015,2,0
+Ethiopia,2016,2,128
+Ethiopia,2018,3,44
+Ethiopia,2019,5,93
+Ethiopia,2020,4,34
+Ethiopia,2021,1,0
+Fiji,1931,1,200
+Fiji,1941,1,6
+Fiji,1952,1,23
+Fiji,1958,1,0
+Fiji,1964,1,1
+Fiji,1965,1,2
+Fiji,1972,1,3
+Fiji,1973,2,59
+Fiji,1975,1,0
+Fiji,1978,1,0
+Fiji,1979,1,53
+Fiji,1980,1,18
+Fiji,1981,1,0
+Fiji,1983,3,9
+Fiji,1985,3,32
+Fiji,1986,2,20
+Fiji,1987,1,1
+Fiji,1989,1,10
+Fiji,1990,3,0
+Fiji,1992,1,1
+Fiji,1993,1,21
+Fiji,1997,1,25
+Fiji,1998,1,0
+Fiji,1999,1,12
+Fiji,2000,1,4
+Fiji,2001,1,1
+Fiji,2003,1,17
+Fiji,2004,2,16
+Fiji,2005,1,0
+Fiji,2006,2,4
+Fiji,2007,4,7
+Fiji,2008,1,7
+Fiji,2009,2,14
+Fiji,2010,1,2
+Fiji,2012,3,17
+Fiji,2015,1,0
+Fiji,2016,2,47
+Fiji,2018,2,7
+Fiji,2019,2,1
+Fiji,2020,3,8
+Fiji,2021,1,6
+Finland,1990,2,0
+Finland,2005,1,0
+France,1909,1,46
+France,1926,1,28
+France,1930,1,40
+France,1932,1,30
+France,1949,1,80
+France,1958,1,35
+France,1961,1,21
+France,1967,2,6
+France,1969,1,23
+France,1970,2,114
+France,1976,1,0
+France,1977,1,26
+France,1978,1,3
+France,1979,1,11
+France,1980,1,6
+France,1981,1,0
+France,1982,6,30
+France,1983,8,55
+France,1984,5,4
+France,1985,3,6
+France,1986,1,5
+France,1987,2,27
+France,1988,1,10
+France,1989,2,9
+France,1990,10,62
+France,1991,3,20
+France,1992,4,71
+France,1993,3,16
+France,1994,3,13
+France,1995,1,16
+France,1996,3,5
+France,1997,3,23
+France,1998,2,15
+France,1999,8,146
+France,2000,7,11
+France,2001,7,17
+France,2002,6,29
+France,2003,6,19511
+France,2004,1,11
+France,2005,5,13
+France,2006,3,1393
+France,2007,3,5
+France,2008,4,7
+France,2009,4,16
+France,2010,4,81
+France,2011,2,6
+France,2012,1,12
+France,2013,3,4
+France,2014,7,22
+France,2015,3,3298
+France,2016,1,5
+France,2017,3,3
+France,2018,7,23
+France,2019,10,1451
+France,2020,7,1944
+France,2021,3,0
+French Guiana,1996,1,0
+French Guiana,2000,1,10
+French Guiana,2020,1,0
+French Polynesia,1958,1,0
+French Polynesia,1983,2,7
+French Polynesia,1987,1,10
+French Polynesia,1998,2,13
+French Polynesia,2010,1,1
+French Polynesia,2017,1,0
+Gabon,1988,2,0
+Gabon,1994,1,20
+Gabon,1996,1,45
+Gabon,2001,1,50
+Gabon,2004,1,1
+Gabon,2007,1,0
+Gabon,2009,1,0
+Gabon,2010,4,0
+Gabon,2012,1,1
+Gambia (the),1910,1,0
+Gambia (the),1940,1,0
+Gambia (the),1968,1,0
+Gambia (the),1969,1,0
+Gambia (the),1973,1,0
+Gambia (the),1976,1,0
+Gambia (the),1978,1,200
+Gambia (the),1980,1,0
+Gambia (the),1986,1,0
+Gambia (the),1987,1,0
+Gambia (the),1988,1,0
+Gambia (the),1996,1,0
+Gambia (the),1997,1,120
+Gambia (the),1999,1,53
+Gambia (the),2000,1,21
+Gambia (the),2001,1,1
+Gambia (the),2002,1,0
+Gambia (the),2003,1,3
+Gambia (the),2004,2,2
+Gambia (the),2007,1,0
+Gambia (the),2008,2,0
+Gambia (the),2009,2,5
+Gambia (the),2010,2,9
+Gambia (the),2012,1,0
+Gambia (the),2013,1,2
+Gambia (the),2014,1,0
+Gambia (the),2015,1,0
+Gambia (the),2017,1,6
+Gambia (the),2019,1,4
+Gambia (the),2021,1,10
+Georgia,1991,1,8
+Georgia,1992,1,1
+Georgia,1995,1,1
+Georgia,1997,3,7
+Georgia,2000,1,0
+Georgia,2001,1,0
+Georgia,2002,1,6
+Georgia,2004,2,1
+Georgia,2005,1,0
+Georgia,2006,1,0
+Georgia,2009,1,0
+Georgia,2011,1,7
+Georgia,2012,2,5
+Georgia,2013,3,0
+Georgia,2014,1,0
+Georgia,2015,1,40
+Georgia,2018,1,0
+Georgia,2019,1,0
+Georgia,2020,1,0
+Germany,1990,6,64
+Germany,1991,1,0
+Germany,1992,2,1
+Germany,1993,3,11
+Germany,1994,4,13
+Germany,1995,2,5
+Germany,1996,1,0
+Germany,1997,2,30
+Germany,1998,1,3
+Germany,1999,4,30
+Germany,2001,1,6
+Germany,2002,6,49
+Germany,2003,3,9370
+Germany,2004,2,2
+Germany,2005,5,14
+Germany,2006,5,13
+Germany,2007,3,19
+Germany,2008,3,9
+Germany,2009,3,15
+Germany,2010,4,8
+Germany,2011,1,4
+Germany,2012,2,6
+Germany,2013,4,11
+Germany,2014,2,8
+Germany,2016,1,7
+Germany,2017,3,5
+Germany,2018,2,5
+Germany,2019,3,5
+Germany,2020,1,0
+Germany,2021,2,205
+Germany Dem Rep,1984,2,0
+Germany Dem Rep,1985,1,0
+Germany Fed Rep,1920,1,0
+Germany Fed Rep,1925,1,0
+Germany Fed Rep,1926,1,0
+Germany Fed Rep,1929,1,0
+Germany Fed Rep,1953,1,0
+Germany Fed Rep,1962,1,347
+Germany Fed Rep,1968,1,2
+Germany Fed Rep,1972,1,54
+Germany Fed Rep,1974,1,0
+Germany Fed Rep,1976,1,82
+Germany Fed Rep,1978,2,2
+Germany Fed Rep,1979,1,0
+Germany Fed Rep,1983,2,0
+Germany Fed Rep,1984,2,3
+Germany Fed Rep,1985,1,0
+Germany Fed Rep,1988,1,6
+Germany Fed Rep,1991,1,5
+Ghana,1939,1,22
+Ghana,1968,1,0
+Ghana,1971,1,0
+Ghana,1977,2,0
+Ghana,1980,1,0
+Ghana,1984,1,103
+Ghana,1985,1,4
+Ghana,1988,1,15
+Ghana,1989,2,7
+Ghana,1991,2,25
+Ghana,1995,1,145
+Ghana,1996,1,411
+Ghana,1997,1,26
+Ghana,1998,1,67
+Ghana,1999,4,76
+Ghana,2001,3,24
+Ghana,2002,2,4
+Ghana,2005,1,40
+Ghana,2007,1,56
+Ghana,2008,1,0
+Ghana,2009,2,40
+Ghana,2010,3,90
+Ghana,2011,3,121
+Ghana,2012,2,76
+Ghana,2013,2,23
+Ghana,2014,1,249
+Ghana,2015,2,110
+Ghana,2016,2,10
+Ghana,2017,2,20
+Ghana,2018,1,34
+Ghana,2019,2,32
+Ghana,2020,2,7
+Ghana,2021,1,5
+Greece,1904,1,4
+Greece,1914,1,14
+Greece,1928,1,103
+Greece,1930,1,22
+Greece,1932,1,151
+Greece,1947,1,3
+Greece,1948,1,2
+Greece,1953,1,476
+Greece,1954,2,56
+Greece,1955,1,8
+Greece,1956,1,53
+Greece,1961,1,43
+Greece,1965,2,70
+Greece,1966,2,2
+Greece,1967,1,9
+Greece,1968,1,19
+Greece,1977,1,27
+Greece,1978,1,50
+Greece,1979,1,15
+Greece,1980,1,1
+Greece,1981,2,24
+Greece,1983,2,12
+Greece,1984,2,0
+Greece,1985,2,23
+Greece,1986,1,20
+Greece,1987,3,1048
+Greece,1988,2,56
+Greece,1990,4,4
+Greece,1991,1,5
+Greece,1993,2,1
+Greece,1994,1,14
+Greece,1995,3,52
+Greece,1996,1,0
+Greece,1997,1,9
+Greece,1998,2,17
+Greece,1999,1,143
+Greece,2000,6,37
+Greece,2001,3,11
+Greece,2002,6,2
+Greece,2003,4,0
+Greece,2004,2,0
+Greece,2006,3,4
+Greece,2007,4,86
+Greece,2008,1,2
+Greece,2009,2,0
+Greece,2010,1,1
+Greece,2012,2,6
+Greece,2014,3,3
+Greece,2015,2,3
+Greece,2016,1,4
+Greece,2017,4,26
+Greece,2018,1,100
+Greece,2019,1,7
+Greece,2020,3,10
+Greece,2021,2,2
+Grenada,1963,1,6
+Grenada,1975,1,0
+Grenada,1980,1,0
+Grenada,1990,1,0
+Grenada,1999,1,0
+Grenada,2004,1,39
+Grenada,2010,1,0
+Guadeloupe,1928,1,2000
+Guadeloupe,1956,1,0
+Guadeloupe,1964,1,14
+Guadeloupe,1966,1,25
+Guadeloupe,1970,1,0
+Guadeloupe,1976,1,0
+Guadeloupe,1979,1,0
+Guadeloupe,1988,1,0
+Guadeloupe,1989,1,5
+Guadeloupe,1990,1,0
+Guadeloupe,1995,1,0
+Guadeloupe,1998,1,0
+Guadeloupe,1999,1,4
+Guadeloupe,2004,1,1
+Guadeloupe,2007,1,0
+Guadeloupe,2010,1,0
+Guadeloupe,2017,1,4
+Guam,1962,1,6
+Guam,1976,1,9
+Guam,1987,1,0
+Guam,1992,1,1
+Guam,1993,1,0
+Guam,1997,1,0
+Guam,2002,2,1
+Guam,2004,2,1
+Guatemala,1902,3,9000
+Guatemala,1917,1,2650
+Guatemala,1949,1,40000
+Guatemala,1969,2,273
+Guatemala,1973,1,5
+Guatemala,1976,1,23000
+Guatemala,1979,1,0
+Guatemala,1982,1,620
+Guatemala,1983,1,0
+Guatemala,1984,1,0
+Guatemala,1985,1,0
+Guatemala,1986,1,0
+Guatemala,1987,4,84
+Guatemala,1988,3,5
+Guatemala,1989,1,10
+Guatemala,1990,1,200
+Guatemala,1991,3,217
+Guatemala,1992,2,206
+Guatemala,1994,2,10
+Guatemala,1995,2,31
+Guatemala,1996,2,0
+Guatemala,1998,4,452
+Guatemala,1999,2,14
+Guatemala,2000,3,36
+Guatemala,2001,4,55
+Guatemala,2002,5,71
+Guatemala,2003,2,22
+Guatemala,2005,4,1583
+Guatemala,2006,1,6
+Guatemala,2007,3,11
+Guatemala,2008,4,74
+Guatemala,2009,3,36
+Guatemala,2010,6,227
+Guatemala,2011,7,83
+Guatemala,2012,3,44
+Guatemala,2013,2,9
+Guatemala,2014,5,6
+Guatemala,2015,4,358
+Guatemala,2016,2,10
+Guatemala,2017,7,20
+Guatemala,2018,4,463
+Guatemala,2019,3,21
+Guatemala,2020,5,167
+Guatemala,2021,4,2
+Guinea,1980,1,0
+Guinea,1981,1,0
+Guinea,1983,1,275
+Guinea,1987,1,18
+Guinea,1993,1,0
+Guinea,1994,1,311
+Guinea,1998,1,12
+Guinea,1999,1,12
+Guinea,2000,2,194
+Guinea,2001,2,21
+Guinea,2002,1,23
+Guinea,2003,1,24
+Guinea,2004,2,100
+Guinea,2005,1,72
+Guinea,2006,3,129
+Guinea,2007,2,90
+Guinea,2008,1,0
+Guinea,2009,1,2
+Guinea,2010,2,8
+Guinea,2011,1,0
+Guinea,2012,1,105
+Guinea,2013,2,0
+Guinea,2014,1,2544
+Guinea,2015,2,16
+Guinea,2017,2,0
+Guinea,2020,1,0
+Guinea,2021,2,6
+Guinea-Bissau,1910,1,0
+Guinea-Bissau,1940,1,0
+Guinea-Bissau,1969,1,0
+Guinea-Bissau,1978,1,0
+Guinea-Bissau,1980,1,0
+Guinea-Bissau,1986,1,0
+Guinea-Bissau,1987,3,69
+Guinea-Bissau,1993,1,0
+Guinea-Bissau,1994,1,195
+Guinea-Bissau,1996,1,961
+Guinea-Bissau,1997,1,781
+Guinea-Bissau,1998,1,3
+Guinea-Bissau,1999,1,404
+Guinea-Bissau,2002,1,0
+Guinea-Bissau,2003,1,0
+Guinea-Bissau,2004,2,6
+Guinea-Bissau,2005,1,399
+Guinea-Bissau,2006,1,0
+Guinea-Bissau,2008,2,221
+Guinea-Bissau,2010,1,2
+Guinea-Bissau,2018,1,3
+Guyana,1971,1,0
+Guyana,1988,1,0
+Guyana,1989,1,0
+Guyana,1996,1,0
+Guyana,1997,1,0
+Guyana,2005,1,34
+Guyana,2006,1,0
+Guyana,2008,1,0
+Guyana,2010,1,0
+Guyana,2015,1,0
+Guyana,2017,1,0
+Guyana,2021,1,0
+Haiti,1909,1,150
+Haiti,1915,1,1600
+Haiti,1935,1,2150
+Haiti,1952,1,6
+Haiti,1954,2,672
+Haiti,1959,1,50
+Haiti,1962,1,26
+Haiti,1963,3,5500
+Haiti,1964,1,100
+Haiti,1966,1,480
+Haiti,1968,1,0
+Haiti,1972,1,78
+Haiti,1974,1,0
+Haiti,1977,1,0
+Haiti,1979,1,8
+Haiti,1980,2,220
+Haiti,1986,2,148
+Haiti,1987,4,33
+Haiti,1988,5,81
+Haiti,1989,3,0
+Haiti,1990,1,0
+Haiti,1992,1,0
+Haiti,1993,2,13
+Haiti,1994,1,1122
+Haiti,1996,4,84
+Haiti,1998,1,190
+Haiti,1999,1,13
+Haiti,2000,2,16
+Haiti,2001,2,26
+Haiti,2002,2,35
+Haiti,2003,6,128
+Haiti,2004,3,5422
+Haiti,2005,8,88
+Haiti,2006,3,16
+Haiti,2007,7,163
+Haiti,2008,4,698
+Haiti,2009,3,21
+Haiti,2010,7,229549
+Haiti,2011,4,39
+Haiti,2012,7,180
+Haiti,2013,1,6
+Haiti,2014,3,12
+Haiti,2015,3,181
+Haiti,2016,9,599
+Haiti,2017,5,35
+Haiti,2018,1,17
+Haiti,2019,2,14
+Haiti,2020,1,39
+Haiti,2021,3,2587
+Honduras,1931,1,1500
+Honduras,1961,1,275
+Honduras,1965,3,7
+Honduras,1969,2,0
+Honduras,1971,1,0
+Honduras,1972,1,0
+Honduras,1973,1,2800
+Honduras,1974,1,8000
+Honduras,1976,1,20
+Honduras,1978,1,0
+Honduras,1979,1,1
+Honduras,1981,1,0
+Honduras,1982,2,130
+Honduras,1984,1,0
+Honduras,1986,1,0
+Honduras,1988,3,19
+Honduras,1989,1,10
+Honduras,1990,1,5
+Honduras,1993,2,413
+Honduras,1994,3,151
+Honduras,1995,3,37
+Honduras,1996,3,8
+Honduras,1997,1,0
+Honduras,1998,3,14617
+Honduras,1999,1,34
+Honduras,2000,2,0
+Honduras,2001,2,21
+Honduras,2002,5,19
+Honduras,2003,2,10
+Honduras,2004,1,0
+Honduras,2005,5,61
+Honduras,2006,1,4
+Honduras,2007,4,7
+Honduras,2008,2,67
+Honduras,2009,3,14
+Honduras,2010,5,211
+Honduras,2011,1,33
+Honduras,2012,1,0
+Honduras,2013,1,27
+Honduras,2014,3,4
+Honduras,2016,3,7
+Honduras,2017,4,21
+Honduras,2018,2,6
+Honduras,2019,1,128
+Honduras,2020,4,132
+Hong Kong,1906,1,10000
+Hong Kong,1923,1,100
+Hong Kong,1937,1,11000
+Hong Kong,1947,1,2000
+Hong Kong,1957,1,8
+Hong Kong,1959,1,43
+Hong Kong,1960,3,60
+Hong Kong,1961,2,7
+Hong Kong,1962,1,183
+Hong Kong,1964,2,70
+Hong Kong,1965,1,5
+Hong Kong,1966,4,144
+Hong Kong,1967,2,0
+Hong Kong,1968,4,22
+Hong Kong,1969,4,0
+Hong Kong,1970,4,0
+Hong Kong,1971,3,115
+Hong Kong,1972,6,238
+Hong Kong,1973,3,1
+Hong Kong,1974,5,1
+Hong Kong,1975,5,3
+Hong Kong,1976,5,38
+Hong Kong,1977,4,1
+Hong Kong,1978,6,11
+Hong Kong,1979,6,13
+Hong Kong,1980,4,2
+Hong Kong,1981,4,0
+Hong Kong,1982,5,31
+Hong Kong,1983,5,23
+Hong Kong,1985,4,2
+Hong Kong,1986,3,5
+Hong Kong,1987,4,10
+Hong Kong,1988,1,0
+Hong Kong,1989,4,12
+Hong Kong,1991,1,22
+Hong Kong,1992,3,7
+Hong Kong,1993,7,8
+Hong Kong,1994,1,1
+Hong Kong,1997,2,81
+Hong Kong,1999,1,2
+Hong Kong,2002,1,299
+Hong Kong,2003,2,4
+Hong Kong,2005,1,0
+Hong Kong,2008,3,2
+Hong Kong,2009,1,0
+Hong Kong,2010,1,1
+Hong Kong,2017,2,0
+Hong Kong,2018,1,0
+Hungary,1970,1,300
+Hungary,1984,1,4
+Hungary,1986,1,0
+Hungary,1992,1,0
+Hungary,1996,1,0
+Hungary,1997,1,0
+Hungary,1999,3,48
+Hungary,2000,1,1
+Hungary,2001,2,81
+Hungary,2002,1,0
+Hungary,2003,2,7
+Hungary,2004,1,0
+Hungary,2005,4,52
+Hungary,2006,2,5
+Hungary,2007,1,500
+Hungary,2008,1,17
+Hungary,2010,1,1
+Hungary,2012,1,16
+Hungary,2013,3,0
+Hungary,2014,1,0
+Hungary,2016,1,0
+Hungary,2017,1,0
+Hungary,2018,1,179
+Hungary,2019,1,0
+Iceland,1973,1,0
+Iceland,1974,1,12
+Iceland,1976,1,1
+Iceland,1983,2,4
+Iceland,1984,1,0
+Iceland,1988,1,0
+Iceland,1995,2,34
+Iceland,1996,1,0
+Iceland,2000,2,0
+Iceland,2010,1,0
+India,1900,1,1250000
+India,1905,1,20000
+India,1907,1,1300000
+India,1916,1,300
+India,1920,2,2500000
+India,1924,2,301242
+India,1925,1,80
+India,1926,2,423000
+India,1927,2,685
+India,1928,1,36
+India,1935,2,60100
+India,1936,1,233
+India,1942,2,1540000
+India,1943,2,5000
+India,1944,1,304
+India,1945,1,0
+India,1948,1,500
+India,1949,1,1000
+India,1950,4,1735
+India,1952,2,750
+India,1953,2,480
+India,1954,1,30
+India,1955,3,2120
+India,1956,6,290
+India,1957,3,187
+India,1958,4,708
+India,1959,3,621
+India,1960,4,237
+India,1961,5,3457
+India,1962,3,173
+India,1963,3,512
+India,1964,7,732
+India,1965,2,1500100
+India,1966,3,80
+India,1967,4,4506
+India,1968,6,7459
+India,1969,4,815
+India,1970,4,1053
+India,1971,5,11041
+India,1972,4,230
+India,1973,2,261
+India,1974,4,280
+India,1975,7,898
+India,1976,6,270
+India,1977,5,14766
+India,1978,13,7841
+India,1979,11,1734
+India,1980,15,3896
+India,1981,7,1658
+India,1982,7,2194
+India,1983,10,1634
+India,1984,14,6084
+India,1985,12,4016
+India,1986,13,1065
+India,1987,11,1970
+India,1988,12,7422
+India,1989,9,2115
+India,1990,14,2509
+India,1991,11,2826
+India,1992,9,1252
+India,1993,12,11251
+India,1994,6,2448
+India,1995,9,2934
+India,1996,13,3230
+India,1997,13,2556
+India,1998,16,9424
+India,1999,13,11459
+India,2000,21,2810
+India,2001,22,21045
+India,2002,19,2991
+India,2003,17,2251
+India,2004,7,17737
+India,2005,31,4997
+India,2006,20,1431
+India,2007,20,2236
+India,2008,11,1808
+India,2009,18,2304
+India,2010,17,1244
+India,2011,13,1038
+India,2012,10,599
+India,2013,12,7119
+India,2014,16,1072
+India,2015,22,3400
+India,2016,16,1129
+India,2017,18,2346
+India,2018,23,1396
+India,2019,14,2428
+India,2020,11,2316
+India,2021,13,877
+Indonesia,1909,1,40
+Indonesia,1913,1,138
+Indonesia,1914,1,20
+Indonesia,1917,1,15000
+Indonesia,1919,1,5000
+Indonesia,1924,2,787
+Indonesia,1927,1,50
+Indonesia,1928,1,128
+Indonesia,1930,1,1369
+Indonesia,1931,1,1300
+Indonesia,1932,2,6
+Indonesia,1936,3,26
+Indonesia,1938,1,0
+Indonesia,1943,1,213
+Indonesia,1950,1,16
+Indonesia,1951,1,1300
+Indonesia,1953,1,114
+Indonesia,1954,1,37
+Indonesia,1955,1,405
+Indonesia,1956,1,300
+Indonesia,1958,1,8
+Indonesia,1963,2,1690
+Indonesia,1965,1,71
+Indonesia,1966,4,9264
+Indonesia,1967,7,299
+Indonesia,1968,3,252
+Indonesia,1969,2,64
+Indonesia,1970,1,82
+Indonesia,1971,1,1
+Indonesia,1972,1,0
+Indonesia,1973,1,1650
+Indonesia,1974,1,10
+Indonesia,1976,6,1354
+Indonesia,1977,8,327
+Indonesia,1978,7,226
+Indonesia,1979,12,1082
+Indonesia,1980,5,253
+Indonesia,1981,6,1007
+Indonesia,1982,12,642
+Indonesia,1983,9,161
+Indonesia,1984,10,363
+Indonesia,1985,6,52
+Indonesia,1986,7,318
+Indonesia,1987,10,459
+Indonesia,1988,5,229
+Indonesia,1989,7,144
+Indonesia,1990,7,280
+Indonesia,1991,12,524
+Indonesia,1992,4,2632
+Indonesia,1993,4,134
+Indonesia,1994,15,609
+Indonesia,1995,8,239
+Indonesia,1996,9,402
+Indonesia,1997,6,1130
+Indonesia,1998,7,1490
+Indonesia,1999,8,162
+Indonesia,2000,15,564
+Indonesia,2001,10,587
+Indonesia,2002,16,290
+Indonesia,2003,16,534
+Indonesia,2004,19,166691
+Indonesia,2005,10,1238
+Indonesia,2006,18,7421
+Indonesia,2007,19,979
+Indonesia,2008,17,144
+Indonesia,2009,12,1485
+Indonesia,2010,12,1294
+Indonesia,2011,12,129
+Indonesia,2012,13,107
+Indonesia,2013,16,173
+Indonesia,2014,10,243
+Indonesia,2015,12,84
+Indonesia,2016,15,270
+Indonesia,2017,12,99
+Indonesia,2018,15,5310
+Indonesia,2019,19,469
+Indonesia,2020,29,210
+Indonesia,2021,16,411
+Iran (Islamic Republic of),1903,1,350
+Iran (Islamic Republic of),1909,1,5000
+Iran (Islamic Republic of),1911,1,700
+Iran (Islamic Republic of),1923,3,2647
+Iran (Islamic Republic of),1925,1,500
+Iran (Islamic Republic of),1929,1,3253
+Iran (Islamic Republic of),1930,1,1360
+Iran (Islamic Republic of),1932,1,1070
+Iran (Islamic Republic of),1935,2,750
+Iran (Islamic Republic of),1936,1,12
+Iran (Islamic Republic of),1941,1,730
+Iran (Islamic Republic of),1944,1,20
+Iran (Islamic Republic of),1945,1,20
+Iran (Islamic Republic of),1947,1,400
+Iran (Islamic Republic of),1948,1,200
+Iran (Islamic Republic of),1950,2,72
+Iran (Islamic Republic of),1951,1,225
+Iran (Islamic Republic of),1953,5,1871
+Iran (Islamic Republic of),1954,1,2000
+Iran (Islamic Republic of),1956,2,1350
+Iran (Islamic Republic of),1957,4,5666
+Iran (Islamic Republic of),1958,1,191
+Iran (Islamic Republic of),1960,1,480
+Iran (Islamic Republic of),1961,1,60
+Iran (Islamic Republic of),1962,1,12000
+Iran (Islamic Republic of),1964,1,0
+Iran (Islamic Republic of),1965,2,308
+Iran (Islamic Republic of),1966,1,42
+Iran (Islamic Republic of),1968,4,10768
+Iran (Islamic Republic of),1969,2,70
+Iran (Islamic Republic of),1970,2,219
+Iran (Islamic Republic of),1972,2,5117
+Iran (Islamic Republic of),1975,1,14
+Iran (Islamic Republic of),1976,1,16
+Iran (Islamic Republic of),1977,5,1114
+Iran (Islamic Republic of),1978,3,25053
+Iran (Islamic Republic of),1979,3,565
+Iran (Islamic Republic of),1980,5,306
+Iran (Islamic Republic of),1981,4,3458
+Iran (Islamic Republic of),1983,2,33
+Iran (Islamic Republic of),1985,1,1
+Iran (Islamic Republic of),1986,4,266
+Iran (Islamic Republic of),1987,7,867
+Iran (Islamic Republic of),1988,3,91
+Iran (Islamic Republic of),1989,3,100
+Iran (Islamic Republic of),1990,4,40042
+Iran (Islamic Republic of),1991,6,78
+Iran (Islamic Republic of),1992,4,68
+Iran (Islamic Republic of),1993,6,805
+Iran (Islamic Republic of),1994,6,53
+Iran (Islamic Republic of),1995,3,27
+Iran (Islamic Republic of),1996,4,58
+Iran (Islamic Republic of),1997,6,2781
+Iran (Islamic Republic of),1998,8,211
+Iran (Islamic Republic of),1999,8,102
+Iran (Islamic Republic of),2000,7,90
+Iran (Islamic Republic of),2001,5,476
+Iran (Islamic Republic of),2002,9,291
+Iran (Islamic Republic of),2003,7,26817
+Iran (Islamic Republic of),2004,4,75
+Iran (Islamic Republic of),2005,9,734
+Iran (Islamic Republic of),2006,4,77
+Iran (Islamic Republic of),2007,2,24
+Iran (Islamic Republic of),2008,5,56
+Iran (Islamic Republic of),2009,1,0
+Iran (Islamic Republic of),2010,6,11
+Iran (Islamic Republic of),2012,4,319
+Iran (Islamic Republic of),2013,3,45
+Iran (Islamic Republic of),2014,3,38
+Iran (Islamic Republic of),2015,5,52
+Iran (Islamic Republic of),2016,1,4
+Iran (Islamic Republic of),2017,5,509
+Iran (Islamic Republic of),2018,4,11
+Iran (Islamic Republic of),2019,5,83
+Iran (Islamic Republic of),2020,9,52
+Iran (Islamic Republic of),2021,6,29
+Iraq,1954,1,0
+Iraq,1967,1,0
+Iraq,1968,1,0
+Iraq,1969,1,0
+Iraq,1978,1,1
+Iraq,1991,1,20
+Iraq,1997,1,0
+Iraq,1998,1,0
+Iraq,2003,1,0
+Iraq,2004,2,2
+Iraq,2006,2,20
+Iraq,2007,1,24
+Iraq,2008,2,15
+Iraq,2009,1,2
+Iraq,2011,1,6
+Iraq,2012,1,4
+Iraq,2013,1,11
+Iraq,2015,2,58
+Iraq,2017,1,10
+Iraq,2018,1,21
+Iraq,2019,1,10
+Iraq,2020,1,8
+Iraq,2021,1,0
+Ireland,1983,1,10
+Ireland,1986,1,11
+Ireland,1987,1,0
+Ireland,1990,4,2
+Ireland,1991,1,0
+Ireland,1993,1,3
+Ireland,1996,1,2
+Ireland,1998,1,2
+Ireland,1999,1,8
+Ireland,2000,2,3
+Ireland,2002,2,0
+Ireland,2004,1,0
+Ireland,2005,1,0
+Ireland,2009,1,0
+Ireland,2011,1,2
+Ireland,2014,1,1
+Ireland,2015,1,1
+Ireland,2017,1,0
+Ireland,2018,1,2
+Ireland,2020,1,0
+Isle of Man,2020,1,0
+Israel,1903,1,20
+Israel,1970,1,20
+Israel,1983,1,0
+Israel,1991,1,5
+Israel,1992,1,0
+Israel,1995,1,0
+Israel,1997,1,15
+Israel,1998,1,0
+Israel,1999,1,0
+Israel,2000,3,15
+Israel,2010,2,46
+Israel,2013,1,4
+Israel,2015,1,0
+Israel,2016,1,0
+Israel,2018,1,12
+Israel,2020,2,7
+Italy,1905,1,557
+Italy,1906,1,700
+Italy,1908,1,75000
+Italy,1914,1,120
+Italy,1915,1,29980
+Italy,1920,1,1400
+Italy,1922,1,100
+Italy,1930,2,1901
+Italy,1933,1,10
+Italy,1939,1,10
+Italy,1944,1,26
+Italy,1948,2,105
+Italy,1951,2,163
+Italy,1953,1,100
+Italy,1954,1,297
+Italy,1960,1,12
+Italy,1962,1,16
+Italy,1963,1,1917
+Italy,1965,2,92
+Italy,1966,1,70
+Italy,1968,2,296
+Italy,1970,2,72
+Italy,1971,1,22
+Italy,1972,2,3
+Italy,1973,3,38
+Italy,1975,1,12
+Italy,1976,3,945
+Italy,1977,2,23
+Italy,1978,2,6
+Italy,1979,2,14
+Italy,1980,1,4689
+Italy,1981,2,12
+Italy,1982,3,0
+Italy,1983,3,7
+Italy,1984,3,4
+Italy,1985,1,329
+Italy,1986,1,2
+Italy,1987,6,90
+Italy,1990,5,27
+Italy,1991,1,0
+Italy,1992,2,2
+Italy,1993,1,8
+Italy,1994,3,72
+Italy,1996,3,17
+Italy,1997,3,36
+Italy,1998,3,170
+Italy,1999,2,1
+Italy,2000,4,46
+Italy,2001,4,2
+Italy,2002,9,37
+Italy,2003,4,20092
+Italy,2004,1,2
+Italy,2005,1,9
+Italy,2006,2,5
+Italy,2007,2,17
+Italy,2008,3,9
+Italy,2009,5,335
+Italy,2010,3,3
+Italy,2011,4,29
+Italy,2012,5,73
+Italy,2013,1,18
+Italy,2014,5,15
+Italy,2015,4,9
+Italy,2016,4,299
+Italy,2017,6,44
+Italy,2018,5,23
+Italy,2019,5,5
+Italy,2020,7,19
+Italy,2021,2,1
+Jamaica,1900,2,330
+Jamaica,1903,1,65
+Jamaica,1907,1,1200
+Jamaica,1909,1,53
+Jamaica,1912,1,142
+Jamaica,1917,1,57
+Jamaica,1923,1,4
+Jamaica,1932,1,16
+Jamaica,1933,2,63
+Jamaica,1935,1,0
+Jamaica,1937,2,151
+Jamaica,1940,1,125
+Jamaica,1944,1,32
+Jamaica,1951,1,154
+Jamaica,1963,1,11
+Jamaica,1968,1,0
+Jamaica,1973,1,6
+Jamaica,1977,1,0
+Jamaica,1979,2,44
+Jamaica,1980,1,6
+Jamaica,1981,1,0
+Jamaica,1985,1,7
+Jamaica,1986,1,54
+Jamaica,1987,1,9
+Jamaica,1988,2,49
+Jamaica,1990,1,0
+Jamaica,1991,1,15
+Jamaica,1993,1,9
+Jamaica,1994,1,4
+Jamaica,1996,1,0
+Jamaica,2000,1,0
+Jamaica,2001,1,1
+Jamaica,2002,3,13
+Jamaica,2004,2,16
+Jamaica,2005,3,6
+Jamaica,2006,2,4
+Jamaica,2007,2,5
+Jamaica,2008,2,13
+Jamaica,2010,1,15
+Jamaica,2012,1,1
+Jamaica,2014,1,0
+Jamaica,2016,1,0
+Jamaica,2017,1,0
+Japan,1900,1,30
+Japan,1901,1,18
+Japan,1902,1,125
+Japan,1905,2,52
+Japan,1909,1,41
+Japan,1910,1,1379
+Japan,1911,1,12
+Japan,1912,1,1000
+Japan,1914,2,234
+Japan,1917,1,4000
+Japan,1922,1,27
+Japan,1923,3,146200
+Japan,1925,1,395
+Japan,1926,1,144
+Japan,1927,1,3022
+Japan,1930,1,259
+Japan,1933,1,3000
+Japan,1934,1,3006
+Japan,1938,1,933
+Japan,1939,1,27
+Japan,1943,2,2390
+Japan,1944,1,1223
+Japan,1945,4,6503
+Japan,1946,1,2000
+Japan,1947,2,3930
+Japan,1948,2,5999
+Japan,1949,3,617
+Japan,1950,3,636
+Japan,1951,2,1249
+Japan,1952,4,238
+Japan,1953,5,4246
+Japan,1954,4,2253
+Japan,1955,3,343
+Japan,1956,3,130
+Japan,1957,2,1101
+Japan,1958,4,1950
+Japan,1959,4,5305
+Japan,1960,2,179
+Japan,1961,4,663
+Japan,1962,1,71
+Japan,1963,3,133
+Japan,1964,4,311
+Japan,1965,5,289
+Japan,1966,2,358
+Japan,1967,4,779
+Japan,1968,4,171
+Japan,1969,1,72
+Japan,1971,1,135
+Japan,1972,3,588
+Japan,1973,2,101
+Japan,1974,5,331
+Japan,1975,2,98
+Japan,1976,2,169
+Japan,1977,6,41
+Japan,1978,5,67
+Japan,1979,2,94
+Japan,1980,3,29
+Japan,1981,5,203
+Japan,1982,6,673
+Japan,1983,7,465
+Japan,1984,3,34
+Japan,1985,2,49
+Japan,1986,6,64
+Japan,1987,2,10
+Japan,1988,2,27
+Japan,1989,4,43
+Japan,1990,3,67
+Japan,1991,6,144
+Japan,1992,4,11
+Japan,1993,9,438
+Japan,1994,5,10
+Japan,1995,4,5300
+Japan,1996,2,20
+Japan,1997,4,28
+Japan,1998,7,57
+Japan,1999,3,86
+Japan,2000,8,32
+Japan,2001,6,25
+Japan,2002,6,7
+Japan,2003,6,46
+Japan,2004,12,271
+Japan,2005,6,136
+Japan,2006,5,62
+Japan,2007,8,87
+Japan,2008,4,76
+Japan,2009,6,77
+Japan,2010,2,180
+Japan,2011,7,19976
+Japan,2012,7,173
+Japan,2013,10,400
+Japan,2014,13,301
+Japan,2015,10,71
+Japan,2016,10,101
+Japan,2017,4,49
+Japan,2018,7,435
+Japan,2019,10,288
+Japan,2020,4,84
+Japan,2021,6,72
+Jordan,1927,1,268
+Jordan,1963,1,25
+Jordan,1965,1,8
+Jordan,1966,1,259
+Jordan,1981,1,4
+Jordan,1987,1,9
+Jordan,1989,1,0
+Jordan,1991,2,10
+Jordan,1992,1,15
+Jordan,1997,1,2
+Jordan,1999,1,0
+Jordan,2000,3,9
+Jordan,2002,1,5
+Jordan,2018,2,34
+Kazakhstan,1911,1,450
+Kazakhstan,1993,1,10
+Kazakhstan,1995,1,112
+Kazakhstan,1997,2,0
+Kazakhstan,1998,1,7
+Kazakhstan,1999,1,0
+Kazakhstan,2000,2,0
+Kazakhstan,2001,2,3
+Kazakhstan,2003,1,3
+Kazakhstan,2004,1,48
+Kazakhstan,2005,1,0
+Kazakhstan,2008,1,1
+Kazakhstan,2010,2,44
+Kazakhstan,2011,1,2
+Kazakhstan,2012,2,0
+Kazakhstan,2014,1,5
+Kazakhstan,2015,1,2
+Kazakhstan,2017,1,0
+Kazakhstan,2018,1,0
+Kazakhstan,2020,1,0
+Kazakhstan,2021,1,0
+Kenya,1964,1,0
+Kenya,1965,1,0
+Kenya,1968,1,0
+Kenya,1971,1,0
+Kenya,1975,1,0
+Kenya,1977,1,100
+Kenya,1979,1,0
+Kenya,1982,1,75
+Kenya,1983,1,0
+Kenya,1988,1,50
+Kenya,1990,2,44
+Kenya,1991,2,26
+Kenya,1994,2,1000
+Kenya,1996,2,0
+Kenya,1997,5,1318
+Kenya,1998,2,67
+Kenya,1999,4,1899
+Kenya,2000,5,50
+Kenya,2001,5,44
+Kenya,2002,5,101
+Kenya,2003,2,40
+Kenya,2004,5,143
+Kenya,2005,6,106
+Kenya,2006,7,395
+Kenya,2007,4,39
+Kenya,2008,9,112
+Kenya,2009,5,307
+Kenya,2010,6,261
+Kenya,2011,4,33
+Kenya,2012,1,73
+Kenya,2013,4,128
+Kenya,2014,2,72
+Kenya,2015,3,138
+Kenya,2016,3,42
+Kenya,2017,4,102
+Kenya,2018,3,134
+Kenya,2019,5,213
+Kenya,2020,1,285
+Kenya,2021,4,11
+Kiribati,1972,1,3
+Kiribati,1977,1,17
+Kiribati,1999,1,0
+Kiribati,2008,1,0
+Kiribati,2014,1,0
+Kiribati,2015,1,0
+Korea (the Democratic People's Republic of),1987,2,315
+Korea (the Democratic People's Republic of),1993,1,6
+Korea (the Democratic People's Republic of),1995,2,68
+Korea (the Democratic People's Republic of),1996,2,116
+Korea (the Democratic People's Republic of),1997,2,0
+Korea (the Democratic People's Republic of),1998,1,50
+Korea (the Democratic People's Republic of),1999,1,42
+Korea (the Democratic People's Republic of),2000,1,46
+Korea (the Democratic People's Republic of),2001,2,124
+Korea (the Democratic People's Republic of),2002,2,3
+Korea (the Democratic People's Republic of),2004,2,24
+Korea (the Democratic People's Republic of),2005,1,193
+Korea (the Democratic People's Republic of),2006,3,282
+Korea (the Democratic People's Republic of),2007,2,610
+Korea (the Democratic People's Republic of),2010,3,20
+Korea (the Democratic People's Republic of),2011,3,74
+Korea (the Democratic People's Republic of),2012,3,147
+Korea (the Democratic People's Republic of),2013,1,51
+Korea (the Democratic People's Republic of),2015,2,33
+Korea (the Democratic People's Republic of),2016,2,552
+Korea (the Democratic People's Republic of),2017,2,0
+Korea (the Democratic People's Republic of),2018,3,234
+Korea (the Democratic People's Republic of),2019,2,5
+Korea (the Democratic People's Republic of),2020,1,22
+Korea (the Democratic People's Republic of),2021,1,0
+Korea (the Republic of),1936,1,1104
+Korea (the Republic of),1956,1,103
+Korea (the Republic of),1957,2,485
+Korea (the Republic of),1959,2,494
+Korea (the Republic of),1961,1,249
+Korea (the Republic of),1962,1,290
+Korea (the Republic of),1963,1,116
+Korea (the Republic of),1964,1,210
+Korea (the Republic of),1965,1,323
+Korea (the Republic of),1966,1,95
+Korea (the Republic of),1967,1,0
+Korea (the Republic of),1968,1,18
+Korea (the Republic of),1969,3,630
+Korea (the Republic of),1970,2,67
+Korea (the Republic of),1971,2,109
+Korea (the Republic of),1972,2,747
+Korea (the Republic of),1976,1,25
+Korea (the Republic of),1977,2,315
+Korea (the Republic of),1978,2,27
+Korea (the Republic of),1979,1,115
+Korea (the Republic of),1980,2,165
+Korea (the Republic of),1981,2,113
+Korea (the Republic of),1982,2,68
+Korea (the Republic of),1984,2,213
+Korea (the Republic of),1985,1,57
+Korea (the Republic of),1986,1,33
+Korea (the Republic of),1987,3,669
+Korea (the Republic of),1988,1,25
+Korea (the Republic of),1989,1,109
+Korea (the Republic of),1990,3,194
+Korea (the Republic of),1991,2,126
+Korea (the Republic of),1992,2,5
+Korea (the Republic of),1993,2,43
+Korea (the Republic of),1994,1,28
+Korea (the Republic of),1995,2,73
+Korea (the Republic of),1996,2,104
+Korea (the Republic of),1997,2,15
+Korea (the Republic of),1998,5,503
+Korea (the Republic of),1999,2,68
+Korea (the Republic of),2000,6,61
+Korea (the Republic of),2001,4,81
+Korea (the Republic of),2002,5,225
+Korea (the Republic of),2003,1,130
+Korea (the Republic of),2004,7,24
+Korea (the Republic of),2005,5,29
+Korea (the Republic of),2006,1,46
+Korea (the Republic of),2007,2,23
+Korea (the Republic of),2008,1,10
+Korea (the Republic of),2010,1,12
+Korea (the Republic of),2011,3,121
+Korea (the Republic of),2012,3,22
+Korea (the Republic of),2014,3,41
+Korea (the Republic of),2015,1,36
+Korea (the Republic of),2016,3,15
+Korea (the Republic of),2017,1,0
+Korea (the Republic of),2018,1,0
+Korea (the Republic of),2019,4,21
+Korea (the Republic of),2020,5,81
+Kuwait,1997,1,2
+Kuwait,2002,1,0
+Kuwait,2018,1,1
+Kyrgyzstan,1992,2,58
+Kyrgyzstan,1994,2,162
+Kyrgyzstan,1997,2,22
+Kyrgyzstan,1998,2,1
+Kyrgyzstan,2000,1,11
+Kyrgyzstan,2002,1,0
+Kyrgyzstan,2003,1,38
+Kyrgyzstan,2004,3,49
+Kyrgyzstan,2005,1,3
+Kyrgyzstan,2006,2,4
+Kyrgyzstan,2007,1,0
+Kyrgyzstan,2008,2,74
+Kyrgyzstan,2009,1,0
+Kyrgyzstan,2010,2,0
+Kyrgyzstan,2011,1,0
+Kyrgyzstan,2012,2,16
+Kyrgyzstan,2014,1,0
+Kyrgyzstan,2015,1,0
+Kyrgyzstan,2017,2,24
+Kyrgyzstan,2021,1,15
+Lao People's Democratic Republic (the),1966,1,300
+Lao People's Democratic Republic (the),1968,1,2
+Lao People's Democratic Republic (the),1969,1,0
+Lao People's Democratic Republic (the),1971,1,14
+Lao People's Democratic Republic (the),1977,1,0
+Lao People's Democratic Republic (the),1978,1,31
+Lao People's Democratic Republic (the),1981,1,0
+Lao People's Democratic Republic (the),1984,1,14
+Lao People's Democratic Republic (the),1985,1,0
+Lao People's Democratic Republic (the),1987,2,63
+Lao People's Democratic Republic (the),1988,1,0
+Lao People's Democratic Republic (the),1991,3,0
+Lao People's Democratic Republic (the),1992,3,175
+Lao People's Democratic Republic (the),1993,1,8
+Lao People's Democratic Republic (the),1994,2,500
+Lao People's Democratic Republic (the),1995,4,60
+Lao People's Democratic Republic (the),1996,1,30
+Lao People's Democratic Republic (the),1999,1,0
+Lao People's Democratic Republic (the),2000,3,59
+Lao People's Democratic Republic (the),2001,1,0
+Lao People's Democratic Republic (the),2002,1,2
+Lao People's Democratic Republic (the),2004,1,2
+Lao People's Democratic Republic (the),2008,1,6
+Lao People's Democratic Republic (the),2009,2,26
+Lao People's Democratic Republic (the),2011,2,48
+Lao People's Democratic Republic (the),2013,3,100
+Lao People's Democratic Republic (the),2014,1,0
+Lao People's Democratic Republic (the),2015,2,4
+Lao People's Democratic Republic (the),2016,1,5
+Lao People's Democratic Republic (the),2017,1,0
+Lao People's Democratic Republic (the),2018,3,136
+Lao People's Democratic Republic (the),2019,2,19
+Lao People's Democratic Republic (the),2020,2,2
+Lao People's Democratic Republic (the),2021,1,0
+Latvia,1999,1,6
+Latvia,2000,1,0
+Latvia,2001,1,21
+Latvia,2003,1,15
+Latvia,2005,3,40
+Latvia,2012,1,10
+Latvia,2018,1,0
+Lebanon,1955,1,440
+Lebanon,1956,1,136
+Lebanon,1983,1,20
+Lebanon,1987,1,0
+Lebanon,1992,1,25
+Lebanon,2002,1,0
+Lebanon,2003,1,0
+Lebanon,2007,1,1
+Lebanon,2015,3,5
+Lebanon,2018,1,15
+Lebanon,2019,1,3
+Lebanon,2020,1,0
+Lesotho,1968,1,0
+Lesotho,1974,1,0
+Lesotho,1983,1,0
+Lesotho,1985,1,0
+Lesotho,1987,1,18
+Lesotho,1989,1,0
+Lesotho,1990,2,22
+Lesotho,1996,2,0
+Lesotho,1999,1,28
+Lesotho,2000,1,28
+Lesotho,2001,2,1
+Lesotho,2002,1,0
+Lesotho,2007,1,0
+Lesotho,2008,1,0
+Lesotho,2011,3,26
+Lesotho,2014,1,0
+Lesotho,2016,1,0
+Lesotho,2019,1,0
+Lesotho,2020,1,0
+Lesotho,2021,1,0
+Liberia,1980,2,466
+Liberia,1982,1,46
+Liberia,1990,1,0
+Liberia,1995,2,9
+Liberia,1996,1,56
+Liberia,1998,2,22
+Liberia,1999,1,39
+Liberia,2000,2,13
+Liberia,2002,1,0
+Liberia,2003,2,0
+Liberia,2005,1,29
+Liberia,2007,2,1
+Liberia,2008,1,0
+Liberia,2009,2,2
+Liberia,2010,1,1
+Liberia,2014,1,4810
+Liberia,2016,1,0
+Libya,1944,1,0
+Libya,1963,1,300
+Libya,1995,1,0
+Libya,2013,1,16
+Libya,2019,1,4
+Lithuania,1992,1,0
+Lithuania,1993,1,6
+Lithuania,1999,2,34
+Lithuania,2001,1,20
+Lithuania,2005,2,0
+Lithuania,2006,1,0
+Lithuania,2010,2,9
+Lithuania,2012,2,30
+Lithuania,2018,2,5
+Luxembourg,1983,1,0
+Luxembourg,1990,6,0
+Luxembourg,1993,1,0
+Luxembourg,1995,1,0
+Luxembourg,2003,1,170
+Luxembourg,2010,1,0
+Luxembourg,2019,1,0
+Luxembourg,2021,1,0
+Macao,1993,4,0
+Macao,2002,1,0
+Macao,2017,2,10
+Macedonia (the former Yugoslav Republic of),1993,1,0
+Macedonia (the former Yugoslav Republic of),1995,1,0
+Macedonia (the former Yugoslav Republic of),2000,1,0
+Macedonia (the former Yugoslav Republic of),2001,1,15
+Macedonia (the former Yugoslav Republic of),2002,2,0
+Macedonia (the former Yugoslav Republic of),2003,2,2
+Macedonia (the former Yugoslav Republic of),2004,2,15
+Macedonia (the former Yugoslav Republic of),2005,2,1
+Macedonia (the former Yugoslav Republic of),2006,1,0
+Macedonia (the former Yugoslav Republic of),2007,2,1
+Macedonia (the former Yugoslav Republic of),2012,1,1
+Macedonia (the former Yugoslav Republic of),2013,1,1
+Macedonia (the former Yugoslav Republic of),2014,1,0
+Macedonia (the former Yugoslav Republic of),2015,2,7
+Macedonia (the former Yugoslav Republic of),2016,2,22
+Macedonia (the former Yugoslav Republic of),2017,1,3
+Macedonia (the former Yugoslav Republic of),2021,1,1
+Madagascar,1968,1,29
+Madagascar,1969,1,81
+Madagascar,1970,1,70
+Madagascar,1972,1,91
+Madagascar,1975,1,7
+Madagascar,1976,1,16
+Madagascar,1977,1,10
+Madagascar,1978,1,70
+Madagascar,1981,2,107
+Madagascar,1982,1,92
+Madagascar,1983,1,42
+Madagascar,1984,1,68
+Madagascar,1986,2,99
+Madagascar,1988,1,200
+Madagascar,1989,1,46
+Madagascar,1991,1,36
+Madagascar,1994,3,212
+Madagascar,1996,1,9
+Madagascar,1997,3,174
+Madagascar,1998,1,0
+Madagascar,1999,2,981
+Madagascar,2000,3,153
+Madagascar,2002,5,694
+Madagascar,2003,4,105
+Madagascar,2004,2,395
+Madagascar,2005,4,107
+Madagascar,2006,2,4
+Madagascar,2007,4,91
+Madagascar,2008,5,125
+Madagascar,2009,4,27
+Madagascar,2010,2,120
+Madagascar,2011,1,35
+Madagascar,2012,3,112
+Madagascar,2013,3,164
+Madagascar,2014,2,17
+Madagascar,2015,3,121
+Madagascar,2016,1,0
+Madagascar,2017,3,288
+Madagascar,2018,3,94
+Madagascar,2019,3,17
+Madagascar,2020,3,44
+Madagascar,2021,2,2
+Malawi,1967,1,0
+Malawi,1969,1,0
+Malawi,1979,1,0
+Malawi,1982,1,0
+Malawi,1987,1,0
+Malawi,1989,3,57
+Malawi,1990,1,0
+Malawi,1991,1,472
+Malawi,1992,2,0
+Malawi,1995,2,1
+Malawi,1997,3,10
+Malawi,1998,1,4
+Malawi,1999,1,0
+Malawi,2000,2,83
+Malawi,2001,5,1190
+Malawi,2002,5,725
+Malawi,2003,2,12
+Malawi,2005,3,12
+Malawi,2006,3,28
+Malawi,2007,5,2
+Malawi,2008,2,113
+Malawi,2009,3,66
+Malawi,2010,1,0
+Malawi,2011,3,4
+Malawi,2012,4,4
+Malawi,2013,1,3
+Malawi,2014,1,11
+Malawi,2015,3,283
+Malawi,2016,1,12
+Malawi,2017,2,6
+Malawi,2018,3,5
+Malawi,2019,3,68
+Malawi,2020,1,1
+Malaysia,1965,1,6
+Malaysia,1967,1,50
+Malaysia,1968,2,23
+Malaysia,1970,1,61
+Malaysia,1977,1,0
+Malaysia,1978,1,0
+Malaysia,1983,1,10
+Malaysia,1986,1,11
+Malaysia,1987,1,3
+Malaysia,1988,1,27
+Malaysia,1991,1,263
+Malaysia,1993,2,102
+Malaysia,1995,2,20
+Malaysia,1996,5,333
+Malaysia,1997,5,97
+Malaysia,1998,4,105
+Malaysia,1999,1,1
+Malaysia,2000,4,16
+Malaysia,2001,4,11
+Malaysia,2002,3,14
+Malaysia,2003,3,8
+Malaysia,2004,6,97
+Malaysia,2005,3,13
+Malaysia,2006,4,6
+Malaysia,2007,3,102
+Malaysia,2008,2,0
+Malaysia,2009,2,0
+Malaysia,2011,2,18
+Malaysia,2013,1,4
+Malaysia,2014,2,17
+Malaysia,2015,2,25
+Malaysia,2016,4,0
+Malaysia,2017,4,9
+Malaysia,2018,2,2
+Malaysia,2019,4,2
+Malaysia,2020,5,0
+Malaysia,2021,6,19
+Maldives,1978,1,219
+Maldives,1987,1,0
+Maldives,1991,1,0
+Maldives,2004,1,102
+Maldives,2007,1,0
+Maldives,2011,1,4
+Maldives,2019,1,0
+Maldives,2021,1,0
+Mali,1910,1,0
+Mali,1940,1,0
+Mali,1966,1,0
+Mali,1969,2,513
+Mali,1976,1,0
+Mali,1979,1,30
+Mali,1980,1,0
+Mali,1981,1,412
+Mali,1984,1,1022
+Mali,1985,1,0
+Mali,1986,1,0
+Mali,1987,3,202
+Mali,1988,3,64
+Mali,1989,1,1
+Mali,1991,1,0
+Mali,1996,2,345
+Mali,1997,1,1098
+Mali,1998,2,3
+Mali,1999,1,2
+Mali,2000,1,15
+Mali,2001,2,2
+Mali,2002,2,35
+Mali,2003,2,106
+Mali,2004,1,0
+Mali,2005,5,43
+Mali,2006,3,10
+Mali,2007,2,18
+Mali,2008,1,0
+Mali,2009,2,35
+Mali,2010,3,0
+Mali,2011,3,50
+Mali,2013,2,37
+Mali,2014,1,6
+Mali,2015,1,5
+Mali,2016,1,13
+Mali,2018,1,0
+Mali,2019,2,15
+Mali,2020,1,0
+Marshall Islands (the),1991,1,0
+Marshall Islands (the),2000,1,6
+Marshall Islands (the),2008,1,0
+Marshall Islands (the),2013,1,0
+Marshall Islands (the),2014,1,0
+Marshall Islands (the),2015,1,0
+Marshall Islands (the),2018,1,0
+Martinique,1902,1,30000
+Martinique,1960,1,0
+Martinique,1963,1,10
+Martinique,1967,1,15
+Martinique,1970,1,45
+Martinique,1979,1,0
+Martinique,1980,1,0
+Martinique,1989,1,0
+Martinique,1990,1,8
+Martinique,1993,1,2
+Martinique,1995,1,0
+Martinique,1996,1,0
+Martinique,1999,1,0
+Martinique,2007,2,2
+Martinique,2010,1,13
+Martinique,2011,1,1
+Martinique,2017,1,0
+Mauritania,1910,1,0
+Mauritania,1940,1,0
+Mauritania,1965,1,0
+Mauritania,1969,1,0
+Mauritania,1976,1,0
+Mauritania,1978,1,0
+Mauritania,1980,1,0
+Mauritania,1982,1,5
+Mauritania,1984,1,0
+Mauritania,1985,2,0
+Mauritania,1987,2,35
+Mauritania,1988,2,38
+Mauritania,1991,1,4
+Mauritania,1993,1,0
+Mauritania,1995,1,0
+Mauritania,1996,1,46
+Mauritania,1997,1,0
+Mauritania,1998,1,6
+Mauritania,1999,3,1
+Mauritania,2001,2,0
+Mauritania,2002,1,25
+Mauritania,2003,1,9
+Mauritania,2004,1,0
+Mauritania,2005,2,55
+Mauritania,2006,2,7
+Mauritania,2007,2,3
+Mauritania,2009,1,1
+Mauritania,2010,2,0
+Mauritania,2011,1,0
+Mauritania,2013,1,8
+Mauritania,2017,2,18
+Mauritania,2018,1,0
+Mauritania,2019,1,3
+Mauritania,2020,3,9
+Mauritius,1960,1,42
+Mauritius,1967,1,0
+Mauritius,1972,1,2
+Mauritius,1975,1,9
+Mauritius,1979,2,5
+Mauritius,1980,1,0
+Mauritius,1982,2,0
+Mauritius,1983,1,1
+Mauritius,1984,1,0
+Mauritius,1985,1,0
+Mauritius,1989,1,1
+Mauritius,1991,1,0
+Mauritius,1994,1,2
+Mauritius,1996,1,3
+Mauritius,1999,2,0
+Mauritius,2002,1,3
+Mauritius,2005,1,0
+Mauritius,2007,1,2
+Mauritius,2013,1,11
+Mauritius,2018,1,0
+Mexico,1911,1,45
+Mexico,1920,1,648
+Mexico,1929,1,60
+Mexico,1932,2,400
+Mexico,1937,1,34
+Mexico,1943,1,0
+Mexico,1949,1,1000
+Mexico,1951,1,50
+Mexico,1952,2,140
+Mexico,1954,1,100
+Mexico,1955,2,800
+Mexico,1957,1,160
+Mexico,1959,3,2985
+Mexico,1961,1,436
+Mexico,1962,1,50
+Mexico,1964,1,45
+Mexico,1965,1,27
+Mexico,1966,1,14
+Mexico,1967,3,111
+Mexico,1968,3,73
+Mexico,1969,2,76
+Mexico,1970,1,35
+Mexico,1971,1,17
+Mexico,1972,1,37
+Mexico,1973,4,686
+Mexico,1974,1,13
+Mexico,1975,1,29
+Mexico,1976,2,720
+Mexico,1977,1,10
+Mexico,1978,3,15
+Mexico,1979,2,5
+Mexico,1980,4,171
+Mexico,1981,2,103
+Mexico,1982,6,369
+Mexico,1983,3,325
+Mexico,1984,2,4
+Mexico,1985,1,9500
+Mexico,1986,1,20
+Mexico,1987,3,18
+Mexico,1988,5,311
+Mexico,1989,3,43
+Mexico,1990,3,463
+Mexico,1991,4,88
+Mexico,1992,3,83
+Mexico,1993,8,103
+Mexico,1994,2,0
+Mexico,1995,11,299
+Mexico,1996,6,16
+Mexico,1997,9,567
+Mexico,1998,10,849
+Mexico,1999,11,724
+Mexico,2000,8,236
+Mexico,2001,6,26
+Mexico,2002,8,103
+Mexico,2003,9,70
+Mexico,2004,3,52
+Mexico,2005,7,88
+Mexico,2006,7,41
+Mexico,2007,7,58
+Mexico,2008,3,36
+Mexico,2009,8,32
+Mexico,2010,9,182
+Mexico,2011,12,125
+Mexico,2012,3,21
+Mexico,2013,5,223
+Mexico,2014,8,22
+Mexico,2015,4,42
+Mexico,2016,7,90
+Mexico,2017,7,498
+Mexico,2018,4,40
+Mexico,2019,6,16
+Mexico,2020,8,82
+Mexico,2021,9,66
+Micronesia (Federated States of),1987,1,5
+Micronesia (Federated States of),1998,1,0
+Micronesia (Federated States of),2000,1,19
+Micronesia (Federated States of),2002,2,47
+Micronesia (Federated States of),2003,1,0
+Micronesia (Federated States of),2004,1,1
+Micronesia (Federated States of),2008,1,0
+Micronesia (Federated States of),2015,1,5
+Micronesia (Federated States of),2016,1,0
+Micronesia (Federated States of),2019,1,0
+Moldova (the Republic of),1994,2,50
+Moldova (the Republic of),1997,1,9
+Moldova (the Republic of),1999,2,0
+Moldova (the Republic of),2000,2,2
+Moldova (the Republic of),2002,1,1
+Moldova (the Republic of),2005,2,13
+Moldova (the Republic of),2007,1,0
+Moldova (the Republic of),2008,1,3
+Moldova (the Republic of),2010,1,1
+Moldova (the Republic of),2012,2,10
+Moldova (the Republic of),2019,1,0
+Mongolia,1957,1,1200
+Mongolia,1966,1,57
+Mongolia,1982,1,0
+Mongolia,1986,1,0
+Mongolia,1990,2,36
+Mongolia,1991,1,6
+Mongolia,1993,1,7
+Mongolia,1994,1,5
+Mongolia,1996,3,74
+Mongolia,2000,3,23
+Mongolia,2001,1,16
+Mongolia,2002,3,3
+Mongolia,2003,1,15
+Mongolia,2008,2,52
+Mongolia,2009,2,31
+Mongolia,2015,1,0
+Mongolia,2016,1,0
+Mongolia,2017,1,17
+Mongolia,2018,3,0
+Mongolia,2019,3,12
+Mongolia,2020,4,10
+Mongolia,2021,2,12
+Montenegro,2007,1,0
+Montenegro,2009,1,0
+Montenegro,2010,2,0
+Montenegro,2012,1,1
+Montenegro,2017,1,0
+Montserrat,1928,1,0
+Montserrat,1989,1,11
+Montserrat,1990,1,0
+Montserrat,1995,2,0
+Montserrat,1996,1,0
+Montserrat,1997,1,32
+Montserrat,2006,1,0
+Morocco,1909,1,100
+Morocco,1951,1,131
+Morocco,1954,1,30
+Morocco,1960,1,12000
+Morocco,1963,2,169
+Morocco,1964,1,76
+Morocco,1965,2,75
+Morocco,1966,2,200
+Morocco,1969,1,11
+Morocco,1970,1,11
+Morocco,1971,1,0
+Morocco,1975,1,10
+Morocco,1977,1,0
+Morocco,1979,1,16
+Morocco,1982,1,1
+Morocco,1983,1,0
+Morocco,1984,1,0
+Morocco,1987,1,0
+Morocco,1988,3,31
+Morocco,1995,3,791
+Morocco,1996,2,39
+Morocco,1997,1,60
+Morocco,1999,1,0
+Morocco,2000,3,6
+Morocco,2001,1,15
+Morocco,2002,1,80
+Morocco,2003,1,35
+Morocco,2004,2,628
+Morocco,2005,1,1
+Morocco,2006,3,17
+Morocco,2008,2,39
+Morocco,2009,2,29
+Morocco,2010,2,42
+Morocco,2012,1,0
+Morocco,2014,3,60
+Morocco,2016,1,0
+Morocco,2017,2,0
+Morocco,2018,1,0
+Morocco,2019,3,39
+Morocco,2021,2,24
+Mozambique,1956,1,107
+Mozambique,1967,1,0
+Mozambique,1971,1,500
+Mozambique,1975,2,1
+Mozambique,1977,2,303
+Mozambique,1978,2,44
+Mozambique,1979,1,0
+Mozambique,1980,1,10
+Mozambique,1981,2,100000
+Mozambique,1983,1,189
+Mozambique,1984,1,109
+Mozambique,1985,2,8
+Mozambique,1987,1,50
+Mozambique,1988,2,100
+Mozambique,1989,1,2
+Mozambique,1990,3,694
+Mozambique,1992,1,587
+Mozambique,1994,1,240
+Mozambique,1996,1,11
+Mozambique,1997,5,672
+Mozambique,1998,4,296
+Mozambique,1999,1,23
+Mozambique,2000,7,843
+Mozambique,2001,5,95
+Mozambique,2002,3,20
+Mozambique,2003,9,217
+Mozambique,2005,3,16
+Mozambique,2006,2,31
+Mozambique,2007,7,142
+Mozambique,2008,5,238
+Mozambique,2009,4,198
+Mozambique,2010,3,49
+Mozambique,2011,4,36
+Mozambique,2012,3,33
+Mozambique,2013,2,121
+Mozambique,2014,3,65
+Mozambique,2015,1,160
+Mozambique,2016,4,75
+Mozambique,2017,2,8
+Mozambique,2018,2,28
+Mozambique,2019,6,704
+Mozambique,2020,3,24
+Mozambique,2021,2,11
+Myanmar,1902,1,600
+Myanmar,1923,1,6
+Myanmar,1926,1,2700
+Myanmar,1930,3,586
+Myanmar,1936,1,1000
+Myanmar,1941,1,15
+Myanmar,1963,2,0
+Myanmar,1965,2,134
+Myanmar,1967,2,278
+Myanmar,1968,1,1070
+Myanmar,1970,1,90
+Myanmar,1974,1,0
+Myanmar,1975,1,200
+Myanmar,1976,1,0
+Myanmar,1977,1,3
+Myanmar,1978,1,0
+Myanmar,1979,2,0
+Myanmar,1981,1,8
+Myanmar,1982,1,11
+Myanmar,1983,1,10
+Myanmar,1991,2,23
+Myanmar,1992,1,5
+Myanmar,1994,1,17
+Myanmar,1995,2,51
+Myanmar,1997,1,68
+Myanmar,1999,1,22
+Myanmar,2001,1,51
+Myanmar,2002,1,21
+Myanmar,2004,2,307
+Myanmar,2005,1,17
+Myanmar,2006,2,59
+Myanmar,2007,5,35
+Myanmar,2008,1,138366
+Myanmar,2009,1,24
+Myanmar,2010,2,113
+Myanmar,2011,2,225
+Myanmar,2012,2,40
+Myanmar,2013,2,23
+Myanmar,2014,2,0
+Myanmar,2015,6,213
+Myanmar,2016,7,131
+Myanmar,2017,2,3
+Myanmar,2018,5,67
+Myanmar,2019,3,128
+Myanmar,2020,2,174
+Myanmar,2021,1,0
+Namibia,1981,1,0
+Namibia,1988,1,100
+Namibia,1990,1,0
+Namibia,1995,1,0
+Namibia,1998,1,0
+Namibia,2000,2,14
+Namibia,2001,2,134
+Namibia,2002,1,0
+Namibia,2003,1,2
+Namibia,2004,2,0
+Namibia,2006,3,15
+Namibia,2007,2,14
+Namibia,2008,2,51
+Namibia,2009,1,92
+Namibia,2010,1,8
+Namibia,2011,1,108
+Namibia,2012,1,0
+Namibia,2013,3,17
+Namibia,2015,1,0
+Namibia,2017,1,0
+Namibia,2018,1,0
+Namibia,2020,1,0
+Namibia,2021,1,0
+Nepal,1954,1,60
+Nepal,1963,2,1150
+Nepal,1964,1,0
+Nepal,1966,1,80
+Nepal,1967,2,17
+Nepal,1968,1,276
+Nepal,1970,2,371
+Nepal,1972,2,105
+Nepal,1975,1,125
+Nepal,1976,1,150
+Nepal,1978,1,130
+Nepal,1979,1,0
+Nepal,1980,1,100
+Nepal,1981,2,750
+Nepal,1982,2,92
+Nepal,1983,2,207
+Nepal,1984,1,200
+Nepal,1985,1,46
+Nepal,1986,4,23
+Nepal,1987,3,188
+Nepal,1988,4,912
+Nepal,1989,1,49
+Nepal,1990,2,180
+Nepal,1991,3,1391
+Nepal,1992,2,696
+Nepal,1993,3,1076
+Nepal,1995,4,446
+Nepal,1996,4,926
+Nepal,1997,2,104
+Nepal,1998,4,495
+Nepal,1999,3,352
+Nepal,2000,3,463
+Nepal,2001,3,170
+Nepal,2002,3,564
+Nepal,2003,2,287
+Nepal,2004,1,185
+Nepal,2005,3,69
+Nepal,2006,4,157
+Nepal,2007,1,214
+Nepal,2008,2,115
+Nepal,2009,6,459
+Nepal,2010,4,223
+Nepal,2011,7,182
+Nepal,2012,3,132
+Nepal,2013,2,195
+Nepal,2014,6,573
+Nepal,2015,4,9034
+Nepal,2016,3,174
+Nepal,2017,3,198
+Nepal,2018,2,65
+Nepal,2019,2,147
+Nepal,2020,1,448
+Nepal,2021,2,120
+Netherlands (the),1953,1,2000
+Netherlands (the),1972,1,0
+Netherlands (the),1976,1,0
+Netherlands (the),1984,1,0
+Netherlands (the),1985,1,0
+Netherlands (the),1986,1,0
+Netherlands (the),1990,6,20
+Netherlands (the),1992,2,0
+Netherlands (the),1993,1,1
+Netherlands (the),1994,1,0
+Netherlands (the),1995,1,1
+Netherlands (the),1997,1,2
+Netherlands (the),1998,2,0
+Netherlands (the),1999,1,13
+Netherlands (the),2002,1,4
+Netherlands (the),2003,1,965
+Netherlands (the),2005,3,0
+Netherlands (the),2006,1,1000
+Netherlands (the),2007,1,7
+Netherlands (the),2008,1,0
+Netherlands (the),2010,1,0
+Netherlands (the),2012,1,1
+Netherlands (the),2013,3,2
+Netherlands (the),2016,1,0
+Netherlands (the),2018,2,3
+Netherlands (the),2019,1,400
+Netherlands (the),2020,1,400
+Netherlands (the),2021,1,0
+Netherlands Antilles,1954,1,0
+Netherlands Antilles,1960,1,0
+Netherlands Antilles,1989,1,11
+Netherlands Antilles,1995,1,2
+New Caledonia,1939,1,3
+New Caledonia,1948,1,2
+New Caledonia,1951,1,2
+New Caledonia,1955,1,1
+New Caledonia,1959,1,1
+New Caledonia,1968,1,0
+New Caledonia,1969,1,0
+New Caledonia,1972,1,3
+New Caledonia,1975,1,0
+New Caledonia,1976,1,0
+New Caledonia,1981,3,4
+New Caledonia,1989,1,2
+New Caledonia,1999,1,0
+New Caledonia,2003,2,2
+New Caledonia,2021,1,0
+New Zealand,1918,1,6700
+New Zealand,1929,1,17
+New Zealand,1931,1,256
+New Zealand,1938,1,21
+New Zealand,1953,1,150
+New Zealand,1968,2,53
+New Zealand,1976,2,0
+New Zealand,1977,1,0
+New Zealand,1978,3,0
+New Zealand,1979,1,0
+New Zealand,1980,2,0
+New Zealand,1981,1,0
+New Zealand,1983,1,0
+New Zealand,1984,1,0
+New Zealand,1985,2,4
+New Zealand,1986,3,1
+New Zealand,1987,3,1
+New Zealand,1988,4,7
+New Zealand,1989,1,0
+New Zealand,1991,3,0
+New Zealand,1992,3,0
+New Zealand,1994,1,0
+New Zealand,1995,1,0
+New Zealand,1996,1,1
+New Zealand,1997,2,3
+New Zealand,1998,1,0
+New Zealand,1999,1,0
+New Zealand,2000,2,0
+New Zealand,2001,1,0
+New Zealand,2002,2,0
+New Zealand,2003,1,2
+New Zealand,2004,2,4
+New Zealand,2005,2,0
+New Zealand,2006,1,0
+New Zealand,2007,1,0
+New Zealand,2010,1,0
+New Zealand,2011,2,182
+New Zealand,2012,1,3
+New Zealand,2013,3,0
+New Zealand,2015,2,1
+New Zealand,2016,2,2
+New Zealand,2017,2,0
+New Zealand,2018,1,0
+New Zealand,2019,1,21
+New Zealand,2020,3,0
+New Zealand,2021,4,1
+Nicaragua,1930,1,1000
+Nicaragua,1931,1,1000
+Nicaragua,1951,1,500
+Nicaragua,1960,1,325
+Nicaragua,1967,1,53
+Nicaragua,1968,2,0
+Nicaragua,1969,1,0
+Nicaragua,1971,2,35
+Nicaragua,1972,1,10000
+Nicaragua,1976,1,16
+Nicaragua,1979,1,0
+Nicaragua,1980,1,0
+Nicaragua,1982,1,71
+Nicaragua,1988,1,130
+Nicaragua,1990,2,4
+Nicaragua,1991,2,2
+Nicaragua,1992,2,180
+Nicaragua,1993,1,37
+Nicaragua,1994,1,0
+Nicaragua,1995,4,56
+Nicaragua,1996,2,44
+Nicaragua,1997,1,0
+Nicaragua,1998,6,3339
+Nicaragua,1999,4,11
+Nicaragua,2000,5,9
+Nicaragua,2001,2,16
+Nicaragua,2002,3,2
+Nicaragua,2004,2,29
+Nicaragua,2005,2,7
+Nicaragua,2007,2,198
+Nicaragua,2008,3,30
+Nicaragua,2009,4,8
+Nicaragua,2010,5,87
+Nicaragua,2011,1,17
+Nicaragua,2012,1,9
+Nicaragua,2013,2,30
+Nicaragua,2014,3,2
+Nicaragua,2015,1,2
+Nicaragua,2016,1,0
+Nicaragua,2017,2,22
+Nicaragua,2018,2,4
+Nicaragua,2019,1,15
+Nicaragua,2020,2,20
+Niger (the),1903,1,0
+Niger (the),1906,1,0
+Niger (the),1910,1,85000
+Niger (the),1913,1,0
+Niger (the),1923,1,100000
+Niger (the),1930,1,0
+Niger (the),1940,1,0
+Niger (the),1966,1,0
+Niger (the),1969,1,2
+Niger (the),1970,1,319
+Niger (the),1974,1,0
+Niger (the),1980,1,0
+Niger (the),1984,1,0
+Niger (the),1986,1,0
+Niger (the),1987,1,0
+Niger (the),1988,3,20
+Niger (the),1989,2,186
+Niger (the),1990,1,0
+Niger (the),1991,2,2842
+Niger (the),1994,1,60
+Niger (the),1995,1,3022
+Niger (the),1996,2,882
+Niger (the),1997,3,262
+Niger (the),1998,1,0
+Niger (the),1999,4,63
+Niger (the),2000,4,192
+Niger (the),2001,5,577
+Niger (the),2002,3,320
+Niger (the),2003,2,202
+Niger (the),2004,3,154
+Niger (the),2005,2,44
+Niger (the),2006,3,66
+Niger (the),2007,1,7
+Niger (the),2008,3,180
+Niger (the),2009,3,172
+Niger (the),2010,4,108
+Niger (the),2011,4,64
+Niger (the),2012,3,188
+Niger (the),2013,2,32
+Niger (the),2014,4,201
+Niger (the),2015,3,33
+Niger (the),2016,3,84
+Niger (the),2017,5,190
+Niger (the),2018,2,114
+Niger (the),2019,2,52
+Niger (the),2020,3,83
+Niger (the),2021,2,214
+Nigeria,1969,1,2000
+Nigeria,1978,1,100
+Nigeria,1981,1,0
+Nigeria,1985,1,0
+Nigeria,1986,3,1073
+Nigeria,1987,5,530
+Nigeria,1988,2,130
+Nigeria,1989,1,29
+Nigeria,1990,1,60
+Nigeria,1991,2,7689
+Nigeria,1992,2,118
+Nigeria,1994,1,30
+Nigeria,1996,2,5539
+Nigeria,1998,3,54
+Nigeria,1999,9,705
+Nigeria,2000,12,135
+Nigeria,2001,8,744
+Nigeria,2002,9,315
+Nigeria,2003,1,16
+Nigeria,2004,9,266
+Nigeria,2005,6,779
+Nigeria,2006,3,40
+Nigeria,2007,4,291
+Nigeria,2008,3,178
+Nigeria,2009,4,1752
+Nigeria,2010,3,1912
+Nigeria,2011,6,879
+Nigeria,2012,3,388
+Nigeria,2013,1,19
+Nigeria,2014,3,778
+Nigeria,2015,2,150
+Nigeria,2016,4,1333
+Nigeria,2017,4,31
+Nigeria,2018,3,390
+Nigeria,2019,6,134
+Nigeria,2020,5,312
+Nigeria,2021,3,2411
+Niue,1959,1,0
+Niue,1960,1,0
+Niue,1968,1,0
+Niue,1990,1,0
+Niue,1999,1,1
+Niue,2004,1,1
+Northern Mariana Islands (the),2002,1,0
+Northern Mariana Islands (the),2003,1,0
+Northern Mariana Islands (the),2004,1,3
+Northern Mariana Islands (the),2015,1,0
+Northern Mariana Islands (the),2018,1,2
+Norway,1936,1,73
+Norway,1990,2,0
+Norway,1992,1,0
+Norway,1993,1,0
+Norway,1995,1,1
+Norway,2000,1,0
+Norway,2001,1,0
+Norway,2005,1,0
+Norway,2008,1,0
+Norway,2011,1,4
+Norway,2019,1,1
+Norway,2020,1,10
+Oman,1977,2,107
+Oman,1981,1,26
+Oman,2002,1,7
+Oman,2003,1,30
+Oman,2007,1,76
+Oman,2010,1,16
+Oman,2011,1,14
+Oman,2015,1,0
+Oman,2016,1,2
+Oman,2017,1,3
+Oman,2018,2,6
+Oman,2019,1,6
+Oman,2020,1,3
+Oman,2021,1,4
+Pakistan,1909,1,231
+Pakistan,1926,1,0
+Pakistan,1935,1,60000
+Pakistan,1939,1,0
+Pakistan,1944,1,0
+Pakistan,1945,1,4000
+Pakistan,1950,1,2900
+Pakistan,1953,1,111
+Pakistan,1954,2,346
+Pakistan,1955,1,12
+Pakistan,1956,1,270
+Pakistan,1957,1,75
+Pakistan,1959,2,148
+Pakistan,1964,2,450
+Pakistan,1965,1,10000
+Pakistan,1967,1,32
+Pakistan,1968,1,37
+Pakistan,1972,1,100
+Pakistan,1973,1,474
+Pakistan,1974,1,4700
+Pakistan,1975,1,14
+Pakistan,1976,1,338
+Pakistan,1977,1,848
+Pakistan,1978,1,393
+Pakistan,1979,2,83
+Pakistan,1980,2,93
+Pakistan,1981,4,394
+Pakistan,1982,1,68
+Pakistan,1983,4,158
+Pakistan,1984,2,43
+Pakistan,1985,1,5
+Pakistan,1986,2,11
+Pakistan,1988,3,282
+Pakistan,1989,1,20
+Pakistan,1990,4,40
+Pakistan,1991,4,872
+Pakistan,1992,5,1541
+Pakistan,1993,5,682
+Pakistan,1994,3,352
+Pakistan,1995,3,1063
+Pakistan,1996,3,187
+Pakistan,1997,6,362
+Pakistan,1998,5,1109
+Pakistan,1999,6,446
+Pakistan,2000,4,133
+Pakistan,2001,7,257
+Pakistan,2002,10,213
+Pakistan,2003,6,529
+Pakistan,2004,4,31
+Pakistan,2005,11,74204
+Pakistan,2006,9,513
+Pakistan,2007,10,911
+Pakistan,2008,4,249
+Pakistan,2009,3,102
+Pakistan,2010,7,2186
+Pakistan,2011,2,511
+Pakistan,2012,5,671
+Pakistan,2013,5,730
+Pakistan,2014,3,410
+Pakistan,2015,10,1892
+Pakistan,2016,9,409
+Pakistan,2017,6,240
+Pakistan,2018,2,240
+Pakistan,2019,12,456
+Pakistan,2020,7,630
+Pakistan,2021,4,53
+Palau,2012,1,0
+Palau,2013,1,0
+Palau,2015,1,0
+Palau,2018,1,0
+Palau,2021,1,0
+"Palestine, State of",1983,1,0
+"Palestine, State of",2008,1,0
+"Palestine, State of",2010,1,0
+"Palestine, State of",2012,1,0
+"Palestine, State of",2013,2,6
+"Palestine, State of",2015,2,4
+"Palestine, State of",2020,1,3
+Panama,1964,2,1
+Panama,1966,1,20
+Panama,1970,2,48
+Panama,1972,1,0
+Panama,1973,1,7
+Panama,1978,1,19
+Panama,1983,1,0
+Panama,1984,1,1
+Panama,1986,1,2
+Panama,1988,1,30
+Panama,1991,4,85
+Panama,1992,2,69
+Panama,1995,2,2
+Panama,1998,1,3
+Panama,1999,2,1
+Panama,2000,1,1
+Panama,2001,1,0
+Panama,2002,3,5
+Panama,2003,3,2
+Panama,2004,3,16
+Panama,2005,1,3
+Panama,2006,3,11
+Panama,2007,1,2
+Panama,2008,2,28
+Panama,2009,1,0
+Panama,2010,4,15
+Panama,2011,2,0
+Panama,2012,2,6
+Panama,2013,1,0
+Panama,2014,1,9
+Panama,2015,2,0
+Panama,2016,1,7
+Panama,2017,1,7
+Panama,2018,1,0
+Panama,2020,3,94
+Panama,2021,2,1
+Papua New Guinea,1937,1,506
+Papua New Guinea,1951,2,6000
+Papua New Guinea,1957,1,0
+Papua New Guinea,1960,1,0
+Papua New Guinea,1970,1,15
+Papua New Guinea,1971,1,100
+Papua New Guinea,1972,1,0
+Papua New Guinea,1979,1,13
+Papua New Guinea,1980,1,0
+Papua New Guinea,1983,4,66
+Papua New Guinea,1985,1,0
+Papua New Guinea,1986,1,0
+Papua New Guinea,1987,1,1
+Papua New Guinea,1988,1,76
+Papua New Guinea,1990,1,0
+Papua New Guinea,1991,1,200
+Papua New Guinea,1992,2,0
+Papua New Guinea,1993,3,68
+Papua New Guinea,1994,1,5
+Papua New Guinea,1996,3,42
+Papua New Guinea,1997,3,92
+Papua New Guinea,1998,2,2296
+Papua New Guinea,1999,1,2
+Papua New Guinea,2000,1,2
+Papua New Guinea,2001,2,0
+Papua New Guinea,2002,6,183
+Papua New Guinea,2003,2,13
+Papua New Guinea,2004,2,0
+Papua New Guinea,2005,3,2
+Papua New Guinea,2006,6,16
+Papua New Guinea,2007,1,172
+Papua New Guinea,2008,3,10
+Papua New Guinea,2009,4,211
+Papua New Guinea,2011,1,0
+Papua New Guinea,2012,2,65
+Papua New Guinea,2013,1,0
+Papua New Guinea,2014,3,0
+Papua New Guinea,2015,3,24
+Papua New Guinea,2016,1,0
+Papua New Guinea,2018,4,181
+Papua New Guinea,2019,4,12
+Papua New Guinea,2020,5,42
+Paraguay,1963,1,0
+Paraguay,1965,1,6
+Paraguay,1966,1,0
+Paraguay,1971,1,0
+Paraguay,1979,1,0
+Paraguay,1982,1,0
+Paraguay,1983,2,76
+Paraguay,1988,1,0
+Paraguay,1990,1,0
+Paraguay,1992,1,0
+Paraguay,1995,2,0
+Paraguay,1997,2,33
+Paraguay,1998,1,55
+Paraguay,1999,2,12
+Paraguay,2000,1,8
+Paraguay,2002,2,0
+Paraguay,2004,1,0
+Paraguay,2005,1,0
+Paraguay,2006,1,17
+Paraguay,2007,1,8
+Paraguay,2008,5,12
+Paraguay,2009,4,8
+Paraguay,2010,2,12
+Paraguay,2011,2,44
+Paraguay,2012,3,5
+Paraguay,2013,3,0
+Paraguay,2014,2,0
+Paraguay,2015,3,14
+Paraguay,2016,1,0
+Paraguay,2018,2,0
+Paraguay,2019,4,40
+Paraguay,2020,1,20
+Paraguay,2021,2,10
+Peru,1913,1,150
+Peru,1914,1,34
+Peru,1939,1,37
+Peru,1940,1,179
+Peru,1941,1,5000
+Peru,1942,1,30
+Peru,1943,1,200
+Peru,1946,1,1400
+Peru,1947,1,233
+Peru,1950,2,213
+Peru,1953,1,9
+Peru,1958,1,28
+Peru,1960,1,63
+Peru,1962,3,2101
+Peru,1965,1,60
+Peru,1966,2,120
+Peru,1967,1,25
+Peru,1968,1,11
+Peru,1969,2,150
+Peru,1970,4,66838
+Peru,1971,2,850
+Peru,1972,1,12
+Peru,1973,1,500
+Peru,1974,3,398
+Peru,1977,3,47
+Peru,1978,1,2
+Peru,1979,1,13
+Peru,1980,2,77
+Peru,1981,4,158
+Peru,1982,4,535
+Peru,1983,5,623
+Peru,1984,1,7
+Peru,1985,4,150
+Peru,1986,4,118
+Peru,1987,4,268
+Peru,1988,4,348
+Peru,1989,1,38
+Peru,1990,7,294
+Peru,1991,5,9815
+Peru,1992,3,690
+Peru,1993,2,86
+Peru,1994,2,85
+Peru,1995,1,20
+Peru,1996,2,21
+Peru,1997,4,819
+Peru,1998,5,61
+Peru,1999,5,115
+Peru,2000,3,33
+Peru,2001,7,186
+Peru,2002,5,82
+Peru,2003,3,361
+Peru,2004,4,101
+Peru,2005,2,5
+Peru,2006,3,0
+Peru,2007,3,677
+Peru,2008,1,40
+Peru,2009,7,577
+Peru,2010,4,510
+Peru,2011,6,109
+Peru,2012,5,299
+Peru,2013,5,69
+Peru,2014,5,554
+Peru,2015,3,30
+Peru,2016,4,33
+Peru,2017,3,200
+Peru,2018,1,2
+Peru,2019,7,78
+Peru,2020,4,30
+Peru,2021,8,22
+Philippines (the),1905,1,240
+Philippines (the),1911,1,1335
+Philippines (the),1912,1,0
+Philippines (the),1918,1,100
+Philippines (the),1925,1,17
+Philippines (the),1931,1,0
+Philippines (the),1932,1,147
+Philippines (the),1934,2,85
+Philippines (the),1936,1,517
+Philippines (the),1937,2,232
+Philippines (the),1938,1,305
+Philippines (the),1940,1,73
+Philippines (the),1946,1,260
+Philippines (the),1948,1,72
+Philippines (the),1949,1,1000
+Philippines (the),1950,1,84
+Philippines (the),1951,4,1312
+Philippines (the),1952,2,1014
+Philippines (the),1954,1,13
+Philippines (the),1955,3,544
+Philippines (the),1956,2,129
+Philippines (the),1957,1,89
+Philippines (the),1959,1,29
+Philippines (the),1960,8,703
+Philippines (the),1962,2,197
+Philippines (the),1963,1,1
+Philippines (the),1964,2,636
+Philippines (the),1965,2,392
+Philippines (the),1966,1,18
+Philippines (the),1967,1,107
+Philippines (the),1968,5,353
+Philippines (the),1969,2,11
+Philippines (the),1970,9,3816
+Philippines (the),1971,4,246
+Philippines (the),1972,4,1088
+Philippines (the),1973,5,363
+Philippines (the),1974,9,297
+Philippines (the),1975,3,39
+Philippines (the),1976,7,6405
+Philippines (the),1977,12,204
+Philippines (the),1978,16,709
+Philippines (the),1979,6,62
+Philippines (the),1980,9,264
+Philippines (the),1981,12,1552
+Philippines (the),1982,13,596
+Philippines (the),1983,7,158
+Philippines (the),1984,5,2679
+Philippines (the),1985,7,567
+Philippines (the),1986,7,179
+Philippines (the),1987,6,1094
+Philippines (the),1988,8,842
+Philippines (the),1989,12,521
+Philippines (the),1990,13,3351
+Philippines (the),1991,12,6793
+Philippines (the),1992,9,250
+Philippines (the),1993,11,671
+Philippines (the),1994,19,418
+Philippines (the),1995,16,1725
+Philippines (the),1996,7,113
+Philippines (the),1997,4,67
+Philippines (the),1998,7,806
+Philippines (the),1999,18,380
+Philippines (the),2000,13,748
+Philippines (the),2001,11,630
+Philippines (the),2002,13,322
+Philippines (the),2003,10,350
+Philippines (the),2004,13,1950
+Philippines (the),2005,4,39
+Philippines (the),2006,20,2984
+Philippines (the),2007,16,129
+Philippines (the),2008,20,959
+Philippines (the),2009,25,1307
+Philippines (the),2010,15,1113
+Philippines (the),2011,36,1989
+Philippines (the),2012,22,2415
+Philippines (the),2013,14,7750
+Philippines (the),2014,13,331
+Philippines (the),2015,16,201
+Philippines (the),2016,11,87
+Philippines (the),2017,14,233
+Philippines (the),2018,12,832
+Philippines (the),2019,18,1005
+Philippines (the),2020,9,202
+Philippines (the),2021,10,54
+Poland,1928,1,82
+Poland,1977,1,0
+Poland,1980,1,0
+Poland,1982,2,0
+Poland,1983,2,0
+Poland,1987,1,0
+Poland,1990,1,0
+Poland,1992,1,35
+Poland,1994,1,1
+Poland,1997,2,105
+Poland,1998,2,73
+Poland,1999,2,157
+Poland,2000,1,84
+Poland,2001,2,297
+Poland,2002,3,192
+Poland,2004,1,0
+Poland,2005,4,193
+Poland,2006,1,0
+Poland,2007,2,19
+Poland,2008,2,84
+Poland,2009,3,307
+Poland,2010,3,219
+Poland,2011,1,26
+Poland,2012,4,274
+Poland,2013,2,29
+Poland,2014,1,78
+Poland,2015,2,78
+Poland,2016,2,23
+Poland,2017,1,6
+Poland,2018,2,9
+Poland,2019,1,4
+Poland,2020,2,3
+Poland,2021,2,0
+Portugal,1909,1,30
+Portugal,1941,1,120
+Portugal,1966,1,25
+Portugal,1967,1,462
+Portugal,1969,1,2
+Portugal,1973,1,11
+Portugal,1979,2,23
+Portugal,1981,1,30
+Portugal,1983,3,19
+Portugal,1985,1,14
+Portugal,1986,1,15
+Portugal,1989,1,0
+Portugal,1991,1,0
+Portugal,1996,2,10
+Portugal,1997,2,29
+Portugal,2000,1,4
+Portugal,2001,2,6
+Portugal,2002,1,1
+Portugal,2003,3,2710
+Portugal,2004,2,2
+Portugal,2005,2,477
+Portugal,2006,2,41
+Portugal,2008,2,2
+Portugal,2010,3,46
+Portugal,2013,3,10
+Portugal,2014,2,1
+Portugal,2015,1,1
+Portugal,2016,1,4
+Portugal,2017,2,109
+Portugal,2018,3,2
+Portugal,2019,1,2
+Puerto Rico,1918,1,116
+Puerto Rico,1928,1,300
+Puerto Rico,1932,1,225
+Puerto Rico,1960,1,0
+Puerto Rico,1970,1,60
+Puerto Rico,1975,1,26
+Puerto Rico,1979,1,3
+Puerto Rico,1981,1,26
+Puerto Rico,1985,2,600
+Puerto Rico,1989,2,0
+Puerto Rico,1992,1,18
+Puerto Rico,1994,1,0
+Puerto Rico,1995,2,1
+Puerto Rico,1996,1,18
+Puerto Rico,1998,1,0
+Puerto Rico,1999,1,1
+Puerto Rico,2001,1,2
+Puerto Rico,2003,2,2
+Puerto Rico,2004,3,2
+Puerto Rico,2007,1,1
+Puerto Rico,2011,2,1
+Puerto Rico,2012,1,0
+Puerto Rico,2014,1,1
+Puerto Rico,2017,2,66
+Puerto Rico,2018,2,0
+Puerto Rico,2020,3,5
+Qatar,2018,1,0
+Romania,1908,1,0
+Romania,1913,1,0
+Romania,1926,1,1000
+Romania,1928,2,6
+Romania,1934,1,0
+Romania,1940,1,980
+Romania,1945,2,0
+Romania,1970,1,215
+Romania,1975,1,60
+Romania,1977,1,1641
+Romania,1983,1,0
+Romania,1984,1,0
+Romania,1990,1,9
+Romania,1991,3,108
+Romania,1993,2,3
+Romania,1994,3,2
+Romania,1995,1,2
+Romania,1996,2,16
+Romania,1997,2,32
+Romania,1998,3,111
+Romania,1999,4,34
+Romania,2000,5,29
+Romania,2001,3,17
+Romania,2002,5,19
+Romania,2003,2,3
+Romania,2004,6,49
+Romania,2005,9,163
+Romania,2006,7,77
+Romania,2007,6,80
+Romania,2008,3,48
+Romania,2009,3,22
+Romania,2010,2,78
+Romania,2012,1,86
+Romania,2013,1,9
+Romania,2014,3,17
+Romania,2015,1,1
+Romania,2016,2,3
+Romania,2017,1,9
+Romania,2018,3,2
+Romania,2019,1,4
+Romania,2020,1,3
+Romania,2021,1,1
+Russian Federation (the),1992,3,31
+Russian Federation (the),1993,6,478
+Russian Federation (the),1994,9,111
+Russian Federation (the),1995,8,2379
+Russian Federation (the),1996,4,23
+Russian Federation (the),1997,5,38
+Russian Federation (the),1998,8,94
+Russian Federation (the),1999,10,208
+Russian Federation (the),2000,25,284
+Russian Federation (the),2001,11,798
+Russian Federation (the),2002,12,572
+Russian Federation (the),2003,5,3
+Russian Federation (the),2004,8,36
+Russian Federation (the),2005,9,147
+Russian Federation (the),2006,4,0
+Russian Federation (the),2007,3,2
+Russian Federation (the),2008,1,13
+Russian Federation (the),2010,8,55844
+Russian Federation (the),2011,3,1
+Russian Federation (the),2012,8,415
+Russian Federation (the),2013,3,4
+Russian Federation (the),2014,1,6
+Russian Federation (the),2015,2,31
+Russian Federation (the),2016,3,0
+Russian Federation (the),2017,2,16
+Russian Federation (the),2018,2,10
+Russian Federation (the),2019,5,59
+Russian Federation (the),2021,5,14
+Rwanda,1974,1,0
+Rwanda,1976,1,0
+Rwanda,1978,2,17
+Rwanda,1984,1,0
+Rwanda,1988,1,48
+Rwanda,1989,1,237
+Rwanda,1991,1,32
+Rwanda,1996,2,10
+Rwanda,1998,1,55
+Rwanda,1999,4,76
+Rwanda,2000,1,10
+Rwanda,2001,2,12
+Rwanda,2002,3,197
+Rwanda,2003,2,0
+Rwanda,2004,1,4
+Rwanda,2006,2,59
+Rwanda,2007,2,30
+Rwanda,2008,2,36
+Rwanda,2010,2,21
+Rwanda,2011,1,14
+Rwanda,2012,1,5
+Rwanda,2015,1,2
+Rwanda,2016,2,117
+Rwanda,2017,2,3
+Rwanda,2018,4,76
+Rwanda,2019,2,28
+Rwanda,2020,5,111
+Rwanda,2021,2,0
+Réunion,1948,1,165
+Réunion,1977,1,0
+Réunion,1980,2,35
+Réunion,1984,1,0
+Réunion,1987,1,10
+Réunion,1989,1,10
+Réunion,1993,1,14
+Réunion,2000,1,2
+Réunion,2002,1,0
+Réunion,2005,1,0
+Réunion,2007,1,2
+Réunion,2014,1,1
+Réunion,2018,1,0
+Saint Barthélemy,2017,1,4
+"Saint Helena, Ascension and Tristan da Cunha",2001,1,0
+Saint Kitts and Nevis,1928,1,0
+Saint Kitts and Nevis,1955,1,0
+Saint Kitts and Nevis,1984,1,0
+Saint Kitts and Nevis,1987,1,0
+Saint Kitts and Nevis,1989,1,1
+Saint Kitts and Nevis,1990,1,0
+Saint Kitts and Nevis,1995,1,0
+Saint Kitts and Nevis,1998,1,5
+Saint Kitts and Nevis,1999,1,0
+Saint Kitts and Nevis,2017,1,0
+Saint Lucia,1960,1,0
+Saint Lucia,1963,1,10
+Saint Lucia,1967,1,0
+Saint Lucia,1980,1,9
+Saint Lucia,1983,1,0
+Saint Lucia,1986,1,0
+Saint Lucia,1987,1,0
+Saint Lucia,1988,1,0
+Saint Lucia,1994,1,4
+Saint Lucia,1996,1,0
+Saint Lucia,1999,1,0
+Saint Lucia,2004,1,0
+Saint Lucia,2007,2,1
+Saint Lucia,2010,3,14
+Saint Lucia,2013,1,6
+Saint Lucia,2016,1,0
+Saint Lucia,2020,1,0
+Saint Lucia,2021,1,1
+Saint Martin (French Part),2017,1,12
+Saint Vincent and the Grenadines,1902,1,1565
+Saint Vincent and the Grenadines,1955,1,122
+Saint Vincent and the Grenadines,1967,1,2
+Saint Vincent and the Grenadines,1971,1,0
+Saint Vincent and the Grenadines,1977,1,0
+Saint Vincent and the Grenadines,1979,1,2
+Saint Vincent and the Grenadines,1980,1,0
+Saint Vincent and the Grenadines,1986,1,0
+Saint Vincent and the Grenadines,1987,2,0
+Saint Vincent and the Grenadines,1992,1,3
+Saint Vincent and the Grenadines,1999,1,0
+Saint Vincent and the Grenadines,2002,1,4
+Saint Vincent and the Grenadines,2004,1,0
+Saint Vincent and the Grenadines,2005,1,0
+Saint Vincent and the Grenadines,2010,2,0
+Saint Vincent and the Grenadines,2011,1,0
+Saint Vincent and the Grenadines,2013,1,12
+Saint Vincent and the Grenadines,2016,2,1
+Saint Vincent and the Grenadines,2020,1,8
+Saint Vincent and the Grenadines,2021,2,0
+Samoa,1964,1,250
+Samoa,1966,1,10
+Samoa,1968,1,0
+Samoa,1983,2,0
+Samoa,1989,1,0
+Samoa,1990,1,8
+Samoa,1991,1,13
+Samoa,2001,1,0
+Samoa,2004,1,1
+Samoa,2005,1,9
+Samoa,2009,1,148
+Samoa,2012,1,12
+Samoa,2015,1,0
+Samoa,2018,1,0
+Samoa,2019,1,39
+Sao Tome and Principe,1983,1,0
+Sao Tome and Principe,1986,1,150
+Sao Tome and Principe,1989,1,31
+Sao Tome and Principe,2005,1,25
+Saudi Arabia,1964,1,20
+Saudi Arabia,1982,1,0
+Saudi Arabia,1985,1,32
+Saudi Arabia,2000,2,133
+Saudi Arabia,2001,1,35
+Saudi Arabia,2002,1,19
+Saudi Arabia,2003,2,12
+Saudi Arabia,2004,1,5
+Saudi Arabia,2005,2,63
+Saudi Arabia,2009,1,161
+Saudi Arabia,2010,2,24
+Saudi Arabia,2011,1,11
+Saudi Arabia,2012,1,19
+Saudi Arabia,2013,2,39
+Saudi Arabia,2015,2,23
+Saudi Arabia,2016,3,24
+Saudi Arabia,2017,1,4
+Saudi Arabia,2019,3,20
+Saudi Arabia,2020,1,3
+Senegal,1910,1,0
+Senegal,1940,1,0
+Senegal,1965,1,60
+Senegal,1966,2,0
+Senegal,1969,1,0
+Senegal,1976,1,0
+Senegal,1978,2,5
+Senegal,1979,1,0
+Senegal,1980,1,0
+Senegal,1983,1,0
+Senegal,1984,1,0
+Senegal,1985,2,300
+Senegal,1986,1,0
+Senegal,1987,1,0
+Senegal,1988,3,0
+Senegal,1993,1,0
+Senegal,1994,1,0
+Senegal,1995,1,188
+Senegal,1998,2,372
+Senegal,1999,2,187
+Senegal,2000,1,0
+Senegal,2002,4,46
+Senegal,2003,1,8
+Senegal,2004,3,8
+Senegal,2005,2,303
+Senegal,2007,2,24
+Senegal,2008,1,1
+Senegal,2009,1,6
+Senegal,2010,2,2
+Senegal,2011,2,0
+Senegal,2012,1,19
+Senegal,2013,1,8
+Senegal,2014,2,0
+Senegal,2016,1,5
+Senegal,2018,1,0
+Senegal,2019,1,6
+Senegal,2020,1,7
+Serbia,2007,2,0
+Serbia,2009,2,0
+Serbia,2010,6,9
+Serbia,2012,3,25
+Serbia,2013,2,0
+Serbia,2014,5,56
+Serbia,2016,2,0
+Serbia,2017,1,6
+Serbia,2018,1,0
+Serbia,2019,1,0
+Serbia,2020,1,0
+Serbia,2021,1,0
+Serbia Montenegro,1992,1,1
+Serbia Montenegro,1999,3,11
+Serbia Montenegro,2000,4,3
+Serbia Montenegro,2001,1,0
+Serbia Montenegro,2002,2,1
+Serbia Montenegro,2005,3,5
+Serbia Montenegro,2006,2,0
+Seychelles,1997,1,5
+Seychelles,2002,1,0
+Seychelles,2004,1,3
+Seychelles,2005,1,0
+Seychelles,2013,1,0
+Seychelles,2014,1,0
+Seychelles,2016,1,0
+Sierra Leone,1975,1,1
+Sierra Leone,1984,1,60
+Sierra Leone,1985,1,352
+Sierra Leone,1996,4,238
+Sierra Leone,1997,2,51
+Sierra Leone,1998,1,55
+Sierra Leone,1999,3,146
+Sierra Leone,2000,1,38
+Sierra Leone,2001,1,12
+Sierra Leone,2003,1,10
+Sierra Leone,2004,2,66
+Sierra Leone,2005,1,20
+Sierra Leone,2007,1,0
+Sierra Leone,2008,1,170
+Sierra Leone,2009,1,103
+Sierra Leone,2010,2,16
+Sierra Leone,2011,1,21
+Sierra Leone,2012,1,300
+Sierra Leone,2013,1,0
+Sierra Leone,2014,1,3956
+Sierra Leone,2015,1,10
+Sierra Leone,2017,1,1102
+Sierra Leone,2019,2,7
+Singapore,1998,1,1
+Singapore,2000,1,2
+Singapore,2002,1,33
+Singapore,2016,1,0
+Sint Maarten (Dutch part),2017,1,4
+Slovakia,1997,1,0
+Slovakia,1998,1,54
+Slovakia,1999,1,2
+Slovakia,2000,1,6
+Slovakia,2001,1,1
+Slovakia,2002,1,0
+Slovakia,2003,1,0
+Slovakia,2004,2,3
+Slovakia,2005,2,1
+Slovakia,2006,2,1
+Slovakia,2007,1,1
+Slovakia,2010,3,126
+Slovakia,2012,1,5
+Slovakia,2013,1,1
+Slovakia,2017,1,0
+Slovakia,2019,1,1
+Slovakia,2020,1,1
+Slovakia,2021,1,1
+Slovenia,1998,1,0
+Slovenia,2003,1,289
+Slovenia,2004,1,1
+Slovenia,2005,1,0
+Slovenia,2007,2,6
+Slovenia,2012,1,0
+Slovenia,2014,2,4
+Slovenia,2020,1,1
+Solomon Islands,1931,1,50
+Solomon Islands,1956,1,200
+Solomon Islands,1966,1,3
+Solomon Islands,1967,1,12
+Solomon Islands,1968,1,1
+Solomon Islands,1971,1,0
+Solomon Islands,1975,1,200
+Solomon Islands,1977,2,52
+Solomon Islands,1979,1,2
+Solomon Islands,1982,1,0
+Solomon Islands,1985,1,0
+Solomon Islands,1986,1,101
+Solomon Islands,1988,1,1
+Solomon Islands,1992,1,0
+Solomon Islands,1993,1,4
+Solomon Islands,1997,1,0
+Solomon Islands,1998,1,0
+Solomon Islands,2002,1,0
+Solomon Islands,2003,2,0
+Solomon Islands,2007,1,52
+Solomon Islands,2009,1,21
+Solomon Islands,2010,3,2
+Solomon Islands,2011,1,0
+Solomon Islands,2012,1,0
+Solomon Islands,2013,3,18
+Solomon Islands,2014,1,47
+Solomon Islands,2015,3,9
+Solomon Islands,2016,2,0
+Solomon Islands,2018,1,0
+Solomon Islands,2020,1,28
+Somalia,1961,1,200
+Somalia,1964,1,50
+Somalia,1965,1,0
+Somalia,1969,1,0
+Somalia,1973,1,19000
+Somalia,1977,2,0
+Somalia,1980,1,0
+Somalia,1981,1,5
+Somalia,1983,1,0
+Somalia,1985,1,1262
+Somalia,1986,1,1307
+Somalia,1987,2,600
+Somalia,1988,1,0
+Somalia,1989,2,34
+Somalia,1994,3,230
+Somalia,1995,1,20
+Somalia,1996,2,250
+Somalia,1997,4,2811
+Somalia,1998,2,481
+Somalia,1999,2,36
+Somalia,2000,7,688
+Somalia,2001,2,33
+Somalia,2002,3,93
+Somalia,2003,2,1
+Somalia,2004,3,298
+Somalia,2005,5,27
+Somalia,2006,10,246
+Somalia,2007,3,1158
+Somalia,2008,3,13
+Somalia,2009,1,0
+Somalia,2010,3,20011
+Somalia,2011,2,0
+Somalia,2012,2,31
+Somalia,2013,3,169
+Somalia,2014,2,0
+Somalia,2015,5,0
+Somalia,2016,2,506
+Somalia,2017,1,302
+Somalia,2018,2,58
+Somalia,2019,4,23
+Somalia,2020,3,41
+Somalia,2021,2,25
+South Africa,1952,1,35
+South Africa,1959,1,51
+South Africa,1964,1,0
+South Africa,1968,1,0
+South Africa,1969,1,9
+South Africa,1974,1,26
+South Africa,1977,1,4
+South Africa,1978,1,26
+South Africa,1980,1,0
+South Africa,1981,2,104
+South Africa,1983,1,10
+South Africa,1984,2,64
+South Africa,1986,1,0
+South Africa,1987,1,506
+South Africa,1988,2,25
+South Africa,1990,3,12
+South Africa,1991,1,5
+South Africa,1993,2,19
+South Africa,1994,2,2
+South Africa,1995,2,207
+South Africa,1996,4,98
+South Africa,1997,2,15
+South Africa,1998,2,43
+South Africa,1999,5,57
+South Africa,2000,6,275
+South Africa,2001,6,50
+South Africa,2002,10,127
+South Africa,2003,2,1
+South Africa,2004,3,5
+South Africa,2005,1,2
+South Africa,2006,2,12
+South Africa,2007,3,48
+South Africa,2008,4,115
+South Africa,2009,4,33
+South Africa,2010,1,40
+South Africa,2011,3,46
+South Africa,2012,2,13
+South Africa,2013,1,3
+South Africa,2014,2,33
+South Africa,2015,1,0
+South Africa,2016,3,24
+South Africa,2017,5,32
+South Africa,2019,6,102
+South Africa,2020,2,13
+South Africa,2021,2,35
+South Sudan,2008,3,17
+South Sudan,2009,1,0
+South Sudan,2010,2,0
+South Sudan,2012,2,47
+South Sudan,2013,3,99
+South Sudan,2014,2,149
+South Sudan,2015,1,47
+South Sudan,2016,4,83
+South Sudan,2019,4,60
+South Sudan,2020,1,0
+South Sudan,2021,2,7
+Soviet Union,1902,1,4562
+Soviet Union,1917,1,2500000
+Soviet Union,1921,1,1200000
+Soviet Union,1923,2,23
+Soviet Union,1946,1,400
+Soviet Union,1948,1,110000
+Soviet Union,1949,2,15500
+Soviet Union,1952,1,0
+Soviet Union,1956,1,0
+Soviet Union,1961,1,145
+Soviet Union,1966,1,10
+Soviet Union,1974,1,13
+Soviet Union,1976,1,0
+Soviet Union,1981,2,0
+Soviet Union,1982,2,0
+Soviet Union,1983,4,0
+Soviet Union,1984,4,400
+Soviet Union,1985,4,29
+Soviet Union,1986,2,3
+Soviet Union,1987,4,188
+Soviet Union,1988,2,25000
+Soviet Union,1989,5,389
+Soviet Union,1990,8,67
+Soviet Union,1991,8,367
+Spain,1941,1,20
+Spain,1953,1,50
+Spain,1956,1,11
+Spain,1957,1,77
+Spain,1962,1,445
+Spain,1971,2,400
+Spain,1972,1,0
+Spain,1973,2,519
+Spain,1978,1,2
+Spain,1979,1,20
+Spain,1980,1,0
+Spain,1981,1,0
+Spain,1982,2,77
+Spain,1983,2,45
+Spain,1984,3,26
+Spain,1985,3,40
+Spain,1987,2,5
+Spain,1989,3,45
+Spain,1990,3,9
+Spain,1991,1,0
+Spain,1994,4,42
+Spain,1995,2,30
+Spain,1996,2,85
+Spain,1997,3,26
+Spain,1998,2,0
+Spain,1999,3,6
+Spain,2000,5,38
+Spain,2001,2,12
+Spain,2002,2,6
+Spain,2003,2,15095
+Spain,2004,3,29
+Spain,2005,2,20
+Spain,2006,3,25
+Spain,2007,4,6
+Spain,2009,2,20
+Spain,2010,2,5
+Spain,2011,2,11
+Spain,2012,2,14
+Spain,2013,2,0
+Spain,2014,1,3
+Spain,2015,2,8
+Spain,2016,1,5
+Spain,2017,2,4
+Spain,2018,4,24
+Spain,2019,8,27
+Spain,2020,1,17
+Spain,2021,2,4
+Sri Lanka,1957,1,200
+Sri Lanka,1964,1,206
+Sri Lanka,1966,1,23
+Sri Lanka,1967,2,26
+Sri Lanka,1969,1,62
+Sri Lanka,1974,1,27
+Sri Lanka,1977,3,27
+Sri Lanka,1978,3,750
+Sri Lanka,1979,1,0
+Sri Lanka,1980,1,0
+Sri Lanka,1981,2,7
+Sri Lanka,1982,3,54
+Sri Lanka,1983,1,3
+Sri Lanka,1984,4,51
+Sri Lanka,1985,1,0
+Sri Lanka,1986,1,43
+Sri Lanka,1987,2,53
+Sri Lanka,1988,1,0
+Sri Lanka,1989,1,325
+Sri Lanka,1990,2,33
+Sri Lanka,1991,1,27
+Sri Lanka,1992,2,15
+Sri Lanka,1993,3,73
+Sri Lanka,1994,3,0
+Sri Lanka,1995,1,3
+Sri Lanka,1996,1,0
+Sri Lanka,1997,2,46
+Sri Lanka,1998,2,3
+Sri Lanka,1999,2,7
+Sri Lanka,2000,4,12
+Sri Lanka,2001,2,0
+Sri Lanka,2002,1,2
+Sri Lanka,2003,1,235
+Sri Lanka,2004,3,35493
+Sri Lanka,2005,1,6
+Sri Lanka,2006,1,25
+Sri Lanka,2007,3,33
+Sri Lanka,2008,4,57
+Sri Lanka,2009,4,349
+Sri Lanka,2010,2,35
+Sri Lanka,2011,5,254
+Sri Lanka,2012,3,53
+Sri Lanka,2013,3,117
+Sri Lanka,2014,7,336
+Sri Lanka,2015,2,10
+Sri Lanka,2016,2,203
+Sri Lanka,2017,4,649
+Sri Lanka,2018,3,34
+Sri Lanka,2019,7,58
+Sri Lanka,2020,3,10
+Sri Lanka,2021,4,22
+Sudan (the),1940,1,1500
+Sudan (the),1950,1,0
+Sudan (the),1965,1,0
+Sudan (the),1966,1,0
+Sudan (the),1975,1,0
+Sudan (the),1976,1,150
+Sudan (the),1978,1,34
+Sudan (the),1980,1,0
+Sudan (the),1983,3,150000
+Sudan (the),1986,1,0
+Sudan (the),1987,3,60
+Sudan (the),1988,5,2866
+Sudan (the),1990,2,0
+Sudan (the),1991,2,12
+Sudan (the),1993,2,24
+Sudan (the),1994,1,8
+Sudan (the),1996,5,852
+Sudan (the),1997,1,8
+Sudan (the),1998,6,3269
+Sudan (the),1999,8,395
+Sudan (the),2000,1,186
+Sudan (the),2001,1,3
+Sudan (the),2002,4,82
+Sudan (the),2003,2,47
+Sudan (the),2004,3,98
+Sudan (the),2005,5,655
+Sudan (the),2006,8,1169
+Sudan (the),2007,4,734
+Sudan (the),2008,2,15
+Sudan (the),2009,1,20
+Sudan (the),2010,2,36
+Sudan (the),2011,2,20
+Sudan (the),2012,2,206
+Sudan (the),2013,1,76
+Sudan (the),2014,1,39
+Sudan (the),2015,3,36
+Sudan (the),2016,2,190
+Sudan (the),2017,2,682
+Sudan (the),2018,3,46
+Sudan (the),2019,4,102
+Sudan (the),2020,1,155
+Sudan (the),2021,2,52
+Suriname,1969,1,0
+Suriname,2006,1,3
+Suriname,2008,1,2
+Suriname,2021,1,0
+Swaziland,1981,1,500
+Swaziland,1984,2,53
+Swaziland,1990,1,0
+Swaziland,1992,1,30
+Swaziland,1996,1,80
+Swaziland,2000,2,32
+Swaziland,2001,1,0
+Swaziland,2005,1,0
+Swaziland,2006,1,1
+Swaziland,2007,2,2
+Swaziland,2008,1,0
+Swaziland,2014,1,11
+Swaziland,2016,1,0
+Swaziland,2019,1,0
+Swaziland,2021,1,0
+Sweden,1976,1,0
+Sweden,1977,2,13
+Sweden,1985,1,11
+Sweden,1990,2,0
+Sweden,1999,1,3
+Sweden,2002,3,1
+Sweden,2005,2,7
+Sweden,2013,1,7
+Sweden,2018,1,0
+Sweden,2020,1,1
+Sweden,2021,1,0
+Switzerland,1951,1,92
+Switzerland,1965,1,90
+Switzerland,1968,1,20
+Switzerland,1970,1,30
+Switzerland,1975,1,13
+Switzerland,1976,1,0
+Switzerland,1977,1,0
+Switzerland,1982,1,0
+Switzerland,1983,3,0
+Switzerland,1984,1,0
+Switzerland,1985,1,0
+Switzerland,1986,2,0
+Switzerland,1987,2,1
+Switzerland,1988,1,0
+Switzerland,1990,4,5
+Switzerland,1993,3,2
+Switzerland,1994,1,0
+Switzerland,1997,1,0
+Switzerland,1998,1,0
+Switzerland,1999,3,45
+Switzerland,2000,1,16
+Switzerland,2001,1,0
+Switzerland,2002,4,5
+Switzerland,2003,2,1039
+Switzerland,2005,2,6
+Switzerland,2006,2,1
+Switzerland,2007,3,1
+Switzerland,2009,1,0
+Switzerland,2010,2,0
+Switzerland,2011,1,0
+Switzerland,2012,2,11
+Switzerland,2013,2,0
+Switzerland,2014,1,2
+Switzerland,2017,1,8
+Switzerland,2018,1,0
+Switzerland,2019,1,4
+Switzerland,2020,1,0
+Switzerland,2021,2,0
+Syrian Arab Republic,1967,1,0
+Syrian Arab Republic,1974,1,0
+Syrian Arab Republic,1977,2,88
+Syrian Arab Republic,1999,1,0
+Syrian Arab Republic,2001,1,27
+Syrian Arab Republic,2002,1,80
+Syrian Arab Republic,2004,1,5
+Syrian Arab Republic,2006,1,6
+Syrian Arab Republic,2008,1,0
+Syrian Arab Republic,2015,2,13
+Syrian Arab Republic,2019,1,2
+Syrian Arab Republic,2020,1,3
+Syrian Arab Republic,2021,2,1
+Taiwan (Province of China),1904,2,148
+Taiwan (Province of China),1906,2,1273
+Taiwan (Province of China),1909,1,9
+Taiwan (Province of China),1910,1,60
+Taiwan (Province of China),1911,1,1000
+Taiwan (Province of China),1916,2,181
+Taiwan (Province of China),1917,1,54
+Taiwan (Province of China),1922,1,5
+Taiwan (Province of China),1924,1,1000
+Taiwan (Province of China),1930,2,4
+Taiwan (Province of China),1935,2,6022
+Taiwan (Province of China),1936,1,10
+Taiwan (Province of China),1941,1,319
+Taiwan (Province of China),1946,1,58
+Taiwan (Province of China),1951,3,185
+Taiwan (Province of China),1953,1,67
+Taiwan (Province of China),1958,1,31
+Taiwan (Province of China),1959,2,1062
+Taiwan (Province of China),1960,1,199
+Taiwan (Province of China),1961,1,106
+Taiwan (Province of China),1962,1,107
+Taiwan (Province of China),1963,1,15
+Taiwan (Province of China),1964,1,107
+Taiwan (Province of China),1965,2,55
+Taiwan (Province of China),1966,1,36
+Taiwan (Province of China),1967,1,69
+Taiwan (Province of China),1969,2,269
+Taiwan (Province of China),1977,3,106
+Taiwan (Province of China),1981,1,26
+Taiwan (Province of China),1983,1,82
+Taiwan (Province of China),1984,1,31
+Taiwan (Province of China),1986,4,92
+Taiwan (Province of China),1987,1,61
+Taiwan (Province of China),1989,1,13
+Taiwan (Province of China),1990,2,5
+Taiwan (Province of China),1991,1,33
+Taiwan (Province of China),1992,1,8
+Taiwan (Province of China),1994,5,45
+Taiwan (Province of China),1996,2,65
+Taiwan (Province of China),1997,2,54
+Taiwan (Province of China),1998,4,70
+Taiwan (Province of China),1999,2,2265
+Taiwan (Province of China),2000,2,103
+Taiwan (Province of China),2001,5,195
+Taiwan (Province of China),2002,4,49
+Taiwan (Province of China),2003,1,3
+Taiwan (Province of China),2004,5,79
+Taiwan (Province of China),2005,5,33
+Taiwan (Province of China),2006,4,8
+Taiwan (Province of China),2007,2,18
+Taiwan (Province of China),2008,5,54
+Taiwan (Province of China),2009,1,630
+Taiwan (Province of China),2010,3,34
+Taiwan (Province of China),2012,3,20
+Taiwan (Province of China),2013,5,10
+Taiwan (Province of China),2014,2,0
+Taiwan (Province of China),2015,3,9
+Taiwan (Province of China),2016,5,212
+Taiwan (Province of China),2017,2,6
+Taiwan (Province of China),2018,2,91
+Taiwan (Province of China),2019,1,2
+Taiwan (Province of China),2020,1,1
+Taiwan (Province of China),2021,2,18
+Tajikistan,1911,1,90
+Tajikistan,1930,1,175
+Tajikistan,1990,1,0
+Tajikistan,1992,3,1601
+Tajikistan,1993,1,5
+Tajikistan,1994,1,0
+Tajikistan,1995,1,0
+Tajikistan,1996,2,0
+Tajikistan,1997,2,208
+Tajikistan,1998,3,62
+Tajikistan,1999,3,30
+Tajikistan,2000,2,0
+Tajikistan,2001,3,1
+Tajikistan,2002,6,35
+Tajikistan,2003,4,7
+Tajikistan,2004,2,0
+Tajikistan,2005,3,24
+Tajikistan,2006,3,25
+Tajikistan,2007,4,49
+Tajikistan,2008,2,0
+Tajikistan,2009,1,21
+Tajikistan,2010,4,96
+Tajikistan,2011,2,0
+Tajikistan,2012,3,3
+Tajikistan,2013,1,0
+Tajikistan,2014,2,20
+Tajikistan,2015,4,12
+Tajikistan,2016,2,4
+Tajikistan,2017,3,13
+Tajikistan,2018,1,6
+Tajikistan,2019,1,4
+Tajikistan,2020,1,2
+Tajikistan,2021,3,24
+"Tanzania, United Republic of",1964,2,4
+"Tanzania, United Republic of",1967,1,0
+"Tanzania, United Republic of",1968,1,40
+"Tanzania, United Republic of",1974,1,25
+"Tanzania, United Republic of",1977,3,500
+"Tanzania, United Republic of",1978,1,0
+"Tanzania, United Republic of",1979,1,0
+"Tanzania, United Republic of",1980,1,12
+"Tanzania, United Republic of",1982,1,0
+"Tanzania, United Republic of",1983,1,163
+"Tanzania, United Republic of",1984,1,0
+"Tanzania, United Republic of",1985,1,10
+"Tanzania, United Republic of",1986,2,0
+"Tanzania, United Republic of",1987,1,90
+"Tanzania, United Republic of",1988,2,0
+"Tanzania, United Republic of",1989,1,10
+"Tanzania, United Republic of",1990,4,389
+"Tanzania, United Republic of",1991,2,574
+"Tanzania, United Republic of",1992,1,2231
+"Tanzania, United Republic of",1993,2,54
+"Tanzania, United Republic of",1994,2,35
+"Tanzania, United Republic of",1995,2,3
+"Tanzania, United Republic of",1996,1,0
+"Tanzania, United Republic of",1997,5,2412
+"Tanzania, United Republic of",1998,4,2522
+"Tanzania, United Republic of",1999,1,56
+"Tanzania, United Republic of",2000,6,74
+"Tanzania, United Republic of",2001,5,43
+"Tanzania, United Republic of",2002,3,20
+"Tanzania, United Republic of",2003,2,0
+"Tanzania, United Republic of",2004,2,10
+"Tanzania, United Republic of",2005,3,9
+"Tanzania, United Republic of",2006,8,70
+"Tanzania, United Republic of",2007,2,119
+"Tanzania, United Republic of",2008,4,73
+"Tanzania, United Republic of",2009,4,50
+"Tanzania, United Republic of",2011,4,37
+"Tanzania, United Republic of",2012,1,10
+"Tanzania, United Republic of",2014,2,31
+"Tanzania, United Republic of",2015,4,641
+"Tanzania, United Republic of",2016,4,33
+"Tanzania, United Republic of",2017,1,7
+"Tanzania, United Republic of",2018,1,15
+"Tanzania, United Republic of",2019,7,50
+"Tanzania, United Republic of",2020,4,43
+"Tanzania, United Republic of",2021,2,1
+Thailand,1962,1,769
+Thailand,1966,1,6
+Thailand,1975,1,239
+Thailand,1977,1,100
+Thailand,1978,3,146
+Thailand,1980,1,57
+Thailand,1981,2,55
+Thailand,1983,1,50
+Thailand,1984,2,17
+Thailand,1985,1,18
+Thailand,1986,1,42
+Thailand,1987,1,24
+Thailand,1988,1,664
+Thailand,1989,1,458
+Thailand,1990,1,36
+Thailand,1991,4,55
+Thailand,1992,4,6
+Thailand,1993,6,45
+Thailand,1994,7,130
+Thailand,1995,3,258
+Thailand,1996,2,100
+Thailand,1997,3,212
+Thailand,1999,7,22
+Thailand,2000,6,198
+Thailand,2001,7,222
+Thailand,2002,7,192
+Thailand,2003,5,16
+Thailand,2004,8,8389
+Thailand,2005,6,86
+Thailand,2006,3,280
+Thailand,2007,5,53
+Thailand,2008,6,39
+Thailand,2009,1,15
+Thailand,2010,3,260
+Thailand,2011,6,923
+Thailand,2012,2,0
+Thailand,2013,3,84
+Thailand,2014,8,93
+Thailand,2015,2,3
+Thailand,2016,4,35
+Thailand,2017,6,150
+Thailand,2019,3,26
+Thailand,2020,7,44
+Thailand,2021,4,16
+Timor-Leste,2001,1,1
+Timor-Leste,2003,2,3
+Timor-Leste,2005,1,22
+Timor-Leste,2006,1,0
+Timor-Leste,2007,3,1
+Timor-Leste,2014,1,2
+Timor-Leste,2015,1,0
+Timor-Leste,2016,1,0
+Timor-Leste,2020,1,3
+Timor-Leste,2021,1,41
+Togo,1966,1,0
+Togo,1971,1,0
+Togo,1980,1,0
+Togo,1988,1,50
+Togo,1989,1,0
+Togo,1994,1,0
+Togo,1995,2,3
+Togo,1996,2,360
+Togo,1998,2,239
+Togo,1999,1,0
+Togo,2001,2,235
+Togo,2002,1,95
+Togo,2003,1,40
+Togo,2006,1,0
+Togo,2007,1,41
+Togo,2008,2,12
+Togo,2009,1,0
+Togo,2010,3,82
+Togo,2013,1,7
+Togo,2015,1,24
+Togo,2017,1,0
+Togo,2020,1,11
+Tokelau,1914,1,0
+Tokelau,1925,1,0
+Tokelau,1966,1,0
+Tokelau,1987,1,0
+Tokelau,1990,1,0
+Tokelau,2005,1,0
+Tonga,1946,1,0
+Tonga,1961,1,2
+Tonga,1973,1,3
+Tonga,1977,2,1
+Tonga,1982,2,7
+Tonga,1990,1,1
+Tonga,1997,1,0
+Tonga,1998,2,0
+Tonga,2001,1,0
+Tonga,2004,1,0
+Tonga,2009,1,9
+Tonga,2011,1,0
+Tonga,2014,1,1
+Tonga,2015,1,0
+Tonga,2016,3,0
+Tonga,2018,1,0
+Tonga,2019,2,0
+Tonga,2020,1,0
+Trinidad and Tobago,1933,1,13
+Trinidad and Tobago,1963,1,24
+Trinidad and Tobago,1974,1,2
+Trinidad and Tobago,1990,1,0
+Trinidad and Tobago,1993,2,5
+Trinidad and Tobago,1996,1,0
+Trinidad and Tobago,1997,2,0
+Trinidad and Tobago,2004,2,3
+Trinidad and Tobago,2005,1,0
+Trinidad and Tobago,2010,1,0
+Trinidad and Tobago,2018,1,0
+Tunisia,1957,1,13
+Tunisia,1962,1,40
+Tunisia,1964,2,49
+Tunisia,1969,1,540
+Tunisia,1973,2,111
+Tunisia,1977,1,0
+Tunisia,1979,1,0
+Tunisia,1982,1,117
+Tunisia,1986,1,23
+Tunisia,1988,3,0
+Tunisia,1990,1,37
+Tunisia,2003,2,12
+Tunisia,2007,2,16
+Tunisia,2009,1,17
+Tunisia,2017,1,0
+Tunisia,2018,2,13
+Tunisia,2020,1,6
+Tunisia,2021,1,0
+Turkey,1900,1,140
+Turkey,1903,3,6260
+Turkey,1912,1,923
+Turkey,1914,1,4000
+Turkey,1924,2,110
+Turkey,1925,2,203
+Turkey,1928,1,50
+Turkey,1934,2,120
+Turkey,1935,1,540
+Turkey,1938,1,149
+Turkey,1939,3,33035
+Turkey,1940,2,53
+Turkey,1941,2,445
+Turkey,1942,3,3033
+Turkey,1943,4,5140
+Turkey,1944,3,4007
+Turkey,1945,2,600
+Turkey,1946,2,852
+Turkey,1948,2,332
+Turkey,1949,1,320
+Turkey,1950,1,20
+Turkey,1951,1,54
+Turkey,1952,3,217
+Turkey,1953,2,1237
+Turkey,1956,1,138
+Turkey,1957,2,152
+Turkey,1964,4,42
+Turkey,1965,1,461
+Turkey,1966,4,2430
+Turkey,1967,2,280
+Turkey,1968,3,269
+Turkey,1969,1,53
+Turkey,1970,2,1086
+Turkey,1971,2,935
+Turkey,1972,1,30
+Turkey,1974,1,33
+Turkey,1975,1,2385
+Turkey,1976,5,3913
+Turkey,1977,2,30
+Turkey,1978,2,0
+Turkey,1979,1,0
+Turkey,1980,2,115
+Turkey,1981,1,10
+Turkey,1983,1,1346
+Turkey,1984,3,6
+Turkey,1985,2,13
+Turkey,1986,2,15
+Turkey,1987,2,41
+Turkey,1988,2,77
+Turkey,1990,2,69
+Turkey,1991,2,43
+Turkey,1992,2,914
+Turkey,1993,1,135
+Turkey,1994,2,30
+Turkey,1995,4,231
+Turkey,1996,2,0
+Turkey,1998,6,239
+Turkey,1999,6,17982
+Turkey,2000,6,16
+Turkey,2001,7,50
+Turkey,2002,3,86
+Turkey,2003,5,186
+Turkey,2004,11,89
+Turkey,2005,8,43
+Turkey,2006,3,79
+Turkey,2007,4,19
+Turkey,2008,1,2
+Turkey,2009,4,62
+Turkey,2010,2,64
+Turkey,2011,4,655
+Turkey,2012,1,13
+Turkey,2013,1,7
+Turkey,2014,1,0
+Turkey,2015,2,17
+Turkey,2017,2,0
+Turkey,2018,1,24
+Turkey,2019,4,19
+Turkey,2020,10,233
+Turkey,2021,2,79
+Turkmenistan,1993,1,0
+Turkmenistan,2000,1,11
+Turks and Caicos Islands (the),1985,1,0
+Turks and Caicos Islands (the),1990,1,0
+Turks and Caicos Islands (the),2004,1,0
+Turks and Caicos Islands (the),2008,3,4
+Turks and Caicos Islands (the),2017,1,0
+Tuvalu,1972,1,6
+Tuvalu,1984,1,0
+Tuvalu,1987,1,0
+Tuvalu,1990,1,0
+Tuvalu,1993,1,0
+Tuvalu,2011,1,0
+Tuvalu,2015,1,0
+Tuvalu,2020,1,0
+Tuvalu,2021,1,0
+Uganda,1901,1,200000
+Uganda,1935,1,2000
+Uganda,1966,1,104
+Uganda,1967,1,0
+Uganda,1979,1,0
+Uganda,1982,1,3
+Uganda,1986,1,27
+Uganda,1987,1,0
+Uganda,1988,1,0
+Uganda,1989,1,156
+Uganda,1990,3,197
+Uganda,1991,1,100
+Uganda,1992,1,50
+Uganda,1994,1,7
+Uganda,1996,1,20
+Uganda,1997,4,120
+Uganda,1998,3,30
+Uganda,1999,4,252
+Uganda,2000,5,259
+Uganda,2001,4,26
+Uganda,2002,4,96
+Uganda,2003,3,60
+Uganda,2004,3,3
+Uganda,2005,3,21
+Uganda,2006,6,206
+Uganda,2007,4,165
+Uganda,2008,3,77
+Uganda,2009,2,17
+Uganda,2010,3,436
+Uganda,2011,2,50
+Uganda,2012,5,174
+Uganda,2013,4,41
+Uganda,2016,3,19
+Uganda,2017,2,20
+Uganda,2018,2,82
+Uganda,2019,9,215
+Uganda,2020,6,35
+Uganda,2021,3,5
+Ukraine,1992,1,0
+Ukraine,1993,2,9
+Ukraine,1994,1,71
+Ukraine,1995,2,204
+Ukraine,1996,1,0
+Ukraine,1997,3,11
+Ukraine,1998,1,18
+Ukraine,2000,4,10
+Ukraine,2001,1,9
+Ukraine,2003,1,0
+Ukraine,2005,2,801
+Ukraine,2006,2,2
+Ukraine,2007,2,0
+Ukraine,2008,2,43
+Ukraine,2009,1,27
+Ukraine,2010,1,6
+Ukraine,2012,3,195
+Ukraine,2013,1,2
+Ukraine,2016,2,40
+Ukraine,2017,1,37
+Ukraine,2018,1,0
+Ukraine,2020,3,19
+Ukraine,2021,1,1
+United Arab Emirates (the),2017,1,0
+United Kingdom of Great Britain and Northern Ireland (the),1952,2,4034
+United Kingdom of Great Britain and Northern Ireland (the),1966,1,140
+United Kingdom of Great Britain and Northern Ireland (the),1968,1,20
+United Kingdom of Great Britain and Northern Ireland (the),1972,1,0
+United Kingdom of Great Britain and Northern Ireland (the),1976,1,0
+United Kingdom of Great Britain and Northern Ireland (the),1977,1,6
+United Kingdom of Great Britain and Northern Ireland (the),1981,1,12
+United Kingdom of Great Britain and Northern Ireland (the),1983,1,5
+United Kingdom of Great Britain and Northern Ireland (the),1984,2,48
+United Kingdom of Great Britain and Northern Ireland (the),1985,1,34
+United Kingdom of Great Britain and Northern Ireland (the),1986,1,0
+United Kingdom of Great Britain and Northern Ireland (the),1987,1,20
+United Kingdom of Great Britain and Northern Ireland (the),1989,1,13
+United Kingdom of Great Britain and Northern Ireland (the),1990,8,83
+United Kingdom of Great Britain and Northern Ireland (the),1991,2,48
+United Kingdom of Great Britain and Northern Ireland (the),1993,2,4
+United Kingdom of Great Britain and Northern Ireland (the),1994,2,7
+United Kingdom of Great Britain and Northern Ireland (the),1995,1,9
+United Kingdom of Great Britain and Northern Ireland (the),1996,1,5
+United Kingdom of Great Britain and Northern Ireland (the),1997,3,15
+United Kingdom of Great Britain and Northern Ireland (the),1998,4,40
+United Kingdom of Great Britain and Northern Ireland (the),1999,3,11
+United Kingdom of Great Britain and Northern Ireland (the),2000,6,16
+United Kingdom of Great Britain and Northern Ireland (the),2001,3,11
+United Kingdom of Great Britain and Northern Ireland (the),2002,6,15
+United Kingdom of Great Britain and Northern Ireland (the),2003,1,301
+United Kingdom of Great Britain and Northern Ireland (the),2004,1,0
+United Kingdom of Great Britain and Northern Ireland (the),2005,4,11
+United Kingdom of Great Britain and Northern Ireland (the),2007,5,27
+United Kingdom of Great Britain and Northern Ireland (the),2008,3,8
+United Kingdom of Great Britain and Northern Ireland (the),2009,3,8
+United Kingdom of Great Britain and Northern Ireland (the),2010,2,0
+United Kingdom of Great Britain and Northern Ireland (the),2012,5,8
+United Kingdom of Great Britain and Northern Ireland (the),2013,5,773
+United Kingdom of Great Britain and Northern Ireland (the),2014,2,5
+United Kingdom of Great Britain and Northern Ireland (the),2015,2,3
+United Kingdom of Great Britain and Northern Ireland (the),2017,1,0
+United Kingdom of Great Britain and Northern Ireland (the),2018,2,0
+United Kingdom of Great Britain and Northern Ireland (the),2019,3,6
+United Kingdom of Great Britain and Northern Ireland (the),2020,3,2558
+United States of America (the),1900,1,6000
+United States of America (the),1903,3,348
+United States of America (the),1906,3,998
+United States of America (the),1909,3,463
+United States of America (the),1910,1,30
+United States of America (the),1913,1,732
+United States of America (the),1915,2,531
+United States of America (the),1918,2,1034
+United States of America (the),1919,1,500
+United States of America (the),1920,1,224
+United States of America (the),1925,3,765
+United States of America (the),1926,2,268
+United States of America (the),1927,2,333
+United States of America (the),1928,1,1836
+United States of America (the),1932,2,372
+United States of America (the),1933,3,156
+United States of America (the),1935,1,408
+United States of America (the),1936,3,1848
+United States of America (the),1937,1,137
+United States of America (the),1938,2,800
+United States of America (the),1940,2,59
+United States of America (the),1943,1,0
+United States of America (the),1944,2,511
+United States of America (the),1945,3,196
+United States of America (the),1946,2,198
+United States of America (the),1947,5,308
+United States of America (the),1948,2,97
+United States of America (the),1949,3,95
+United States of America (the),1950,4,305
+United States of America (the),1951,3,110
+United States of America (the),1952,5,293
+United States of America (the),1953,6,468
+United States of America (the),1954,3,223
+United States of America (the),1955,6,546
+United States of America (the),1956,4,243
+United States of America (the),1957,3,469
+United States of America (the),1958,4,139
+United States of America (the),1959,2,99
+United States of America (the),1960,2,111
+United States of America (the),1961,2,146
+United States of America (the),1962,3,158
+United States of America (the),1963,3,379
+United States of America (the),1964,6,423
+United States of America (the),1965,3,577
+United States of America (the),1966,6,552
+United States of America (the),1967,5,275
+United States of America (the),1968,3,159
+United States of America (the),1969,7,830
+United States of America (the),1970,3,37
+United States of America (the),1971,3,223
+United States of America (the),1972,5,903
+United States of America (the),1973,7,128
+United States of America (the),1974,2,352
+United States of America (the),1975,5,102
+United States of America (the),1976,1,139
+United States of America (the),1977,6,231
+United States of America (the),1978,5,242
+United States of America (the),1979,4,186
+United States of America (the),1980,8,1398
+United States of America (the),1981,4,60
+United States of America (the),1982,13,514
+United States of America (the),1983,12,332
+United States of America (the),1984,14,545
+United States of America (the),1985,15,375
+United States of America (the),1986,7,62
+United States of America (the),1987,11,239
+United States of America (the),1988,22,27
+United States of America (the),1989,19,259
+United States of America (the),1990,24,214
+United States of America (the),1991,36,132
+United States of America (the),1992,32,98
+United States of America (the),1993,30,542
+United States of America (the),1994,16,275
+United States of America (the),1995,18,879
+United States of America (the),1996,15,360
+United States of America (the),1997,33,252
+United States of America (the),1998,32,366
+United States of America (the),1999,22,485
+United States of America (the),2000,31,162
+United States of America (the),2001,27,153
+United States of America (the),2002,32,444
+United States of America (the),2003,23,231
+United States of America (the),2004,20,219
+United States of America (the),2005,16,1973
+United States of America (the),2006,29,326
+United States of America (the),2007,23,333
+United States of America (the),2008,22,303
+United States of America (the),2009,17,145
+United States of America (the),2010,16,138
+United States of America (the),2011,23,809
+United States of America (the),2012,25,318
+United States of America (the),2013,28,212
+United States of America (the),2014,20,205
+United States of America (the),2015,29,328
+United States of America (the),2016,27,269
+United States of America (the),2017,24,336
+United States of America (the),2018,20,290
+United States of America (the),2019,21,152
+United States of America (the),2020,23,253
+United States of America (the),2021,29,496
+Uruguay,1967,1,8
+Uruguay,1986,1,0
+Uruguay,1991,1,0
+Uruguay,1992,1,0
+Uruguay,1993,1,0
+Uruguay,1997,1,1
+Uruguay,1998,1,1
+Uruguay,1999,2,1
+Uruguay,2000,3,7
+Uruguay,2001,1,0
+Uruguay,2002,2,2
+Uruguay,2003,1,0
+Uruguay,2004,1,0
+Uruguay,2005,1,7
+Uruguay,2007,3,2
+Uruguay,2009,1,1
+Uruguay,2010,1,4
+Uruguay,2015,3,2
+Uruguay,2016,1,8
+Uruguay,2017,1,0
+Uruguay,2018,1,0
+Uruguay,2019,3,0
+Uruguay,2020,2,0
+Uzbekistan,1992,2,10
+Uzbekistan,1998,1,40
+Uzbekistan,1999,1,24
+Uzbekistan,2000,1,0
+Uzbekistan,2005,1,0
+Uzbekistan,2011,1,13
+Uzbekistan,2020,1,4
+Uzbekistan,2021,1,8
+Vanuatu,1940,1,0
+Vanuatu,1951,1,100
+Vanuatu,1959,1,0
+Vanuatu,1972,3,4
+Vanuatu,1975,1,0
+Vanuatu,1977,1,0
+Vanuatu,1979,1,0
+Vanuatu,1981,2,0
+Vanuatu,1985,1,9
+Vanuatu,1987,1,48
+Vanuatu,1988,3,1
+Vanuatu,1989,1,12
+Vanuatu,1990,3,0
+Vanuatu,1992,2,2
+Vanuatu,1993,1,4
+Vanuatu,1994,1,0
+Vanuatu,1997,1,0
+Vanuatu,1998,1,0
+Vanuatu,1999,2,44
+Vanuatu,2001,3,2
+Vanuatu,2002,3,0
+Vanuatu,2004,1,2
+Vanuatu,2005,1,0
+Vanuatu,2006,1,0
+Vanuatu,2008,1,0
+Vanuatu,2009,2,0
+Vanuatu,2011,2,0
+Vanuatu,2014,1,12
+Vanuatu,2015,1,11
+Vanuatu,2016,1,0
+Vanuatu,2017,2,0
+Vanuatu,2018,2,0
+Vanuatu,2020,1,5
+Venezuela (Bolivarian Republic of),1950,1,100
+Venezuela (Bolivarian Republic of),1962,1,30
+Venezuela (Bolivarian Republic of),1967,2,240
+Venezuela (Bolivarian Republic of),1971,1,1
+Venezuela (Bolivarian Republic of),1980,1,0
+Venezuela (Bolivarian Republic of),1981,1,20
+Venezuela (Bolivarian Republic of),1985,1,38
+Venezuela (Bolivarian Republic of),1986,2,3
+Venezuela (Bolivarian Republic of),1987,2,136
+Venezuela (Bolivarian Republic of),1988,3,77
+Venezuela (Bolivarian Republic of),1989,2,37
+Venezuela (Bolivarian Republic of),1990,1,74
+Venezuela (Bolivarian Republic of),1991,1,18
+Venezuela (Bolivarian Republic of),1992,1,32
+Venezuela (Bolivarian Republic of),1993,1,100
+Venezuela (Bolivarian Republic of),1994,2,44
+Venezuela (Bolivarian Republic of),1995,1,0
+Venezuela (Bolivarian Republic of),1996,2,0
+Venezuela (Bolivarian Republic of),1997,2,83
+Venezuela (Bolivarian Republic of),1999,3,30005
+Venezuela (Bolivarian Republic of),2000,2,15
+Venezuela (Bolivarian Republic of),2002,1,4
+Venezuela (Bolivarian Republic of),2003,2,1
+Venezuela (Bolivarian Republic of),2004,2,40
+Venezuela (Bolivarian Republic of),2005,4,97
+Venezuela (Bolivarian Republic of),2006,1,0
+Venezuela (Bolivarian Republic of),2008,1,8
+Venezuela (Bolivarian Republic of),2009,1,0
+Venezuela (Bolivarian Republic of),2010,3,49
+Venezuela (Bolivarian Republic of),2011,3,17
+Venezuela (Bolivarian Republic of),2012,1,0
+Venezuela (Bolivarian Republic of),2015,1,0
+Venezuela (Bolivarian Republic of),2016,1,0
+Venezuela (Bolivarian Republic of),2018,2,2
+Venezuela (Bolivarian Republic of),2019,1,6
+Venezuela (Bolivarian Republic of),2020,1,3
+Venezuela (Bolivarian Republic of),2021,2,46
+Viet Nam,1953,1,1000
+Viet Nam,1956,1,56
+Viet Nam,1964,3,7998
+Viet Nam,1966,1,31
+Viet Nam,1970,1,237
+Viet Nam,1971,2,112
+Viet Nam,1973,1,100
+Viet Nam,1977,1,0
+Viet Nam,1978,2,74
+Viet Nam,1980,3,402
+Viet Nam,1982,1,70
+Viet Nam,1983,3,734
+Viet Nam,1984,3,188
+Viet Nam,1985,2,891
+Viet Nam,1986,2,600
+Viet Nam,1987,3,123
+Viet Nam,1988,2,157
+Viet Nam,1989,3,959
+Viet Nam,1990,5,384
+Viet Nam,1991,7,492
+Viet Nam,1992,5,287
+Viet Nam,1993,4,270
+Viet Nam,1994,3,361
+Viet Nam,1995,2,269
+Viet Nam,1996,7,1056
+Viet Nam,1997,4,3692
+Viet Nam,1998,6,647
+Viet Nam,1999,5,799
+Viet Nam,2000,11,592
+Viet Nam,2001,7,392
+Viet Nam,2002,7,152
+Viet Nam,2003,5,143
+Viet Nam,2004,7,231
+Viet Nam,2005,11,324
+Viet Nam,2006,11,579
+Viet Nam,2007,7,353
+Viet Nam,2008,10,411
+Viet Nam,2009,6,356
+Viet Nam,2010,7,221
+Viet Nam,2011,5,138
+Viet Nam,2012,4,72
+Viet Nam,2013,10,215
+Viet Nam,2014,3,38
+Viet Nam,2015,5,52
+Viet Nam,2016,9,189
+Viet Nam,2017,9,284
+Viet Nam,2018,7,134
+Viet Nam,2019,8,59
+Viet Nam,2020,11,310
+Viet Nam,2021,4,6
+Virgin Island (British),1995,1,0
+Virgin Island (British),1996,1,0
+Virgin Island (British),2017,2,9
+Virgin Island (U.S.),1989,1,0
+Virgin Island (U.S.),1995,2,7
+Virgin Island (U.S.),1998,1,0
+Virgin Island (U.S.),1999,1,3
+Virgin Island (U.S.),2004,1,0
+Virgin Island (U.S.),2017,2,7
+Wallis and Futuna,1965,1,0
+Wallis and Futuna,1966,1,0
+Wallis and Futuna,1986,1,1
+Wallis and Futuna,1993,1,5
+Wallis and Futuna,2012,1,0
+Yemen,1991,2,10
+Yemen,1993,1,31
+Yemen,1996,2,345
+Yemen,1998,2,70
+Yemen,1999,1,0
+Yemen,2000,1,32
+Yemen,2001,3,63
+Yemen,2002,4,53
+Yemen,2003,1,15
+Yemen,2005,4,87
+Yemen,2006,2,30
+Yemen,2007,4,99
+Yemen,2008,1,90
+Yemen,2009,1,11
+Yemen,2010,2,22
+Yemen,2013,1,40
+Yemen,2015,3,29
+Yemen,2016,3,51
+Yemen,2017,3,85
+Yemen,2018,2,49
+Yemen,2019,5,958
+Yemen,2020,5,65
+Yemen,2021,2,24
+Yemen Arab Rep,1941,1,1200
+Yemen Arab Rep,1969,1,0
+Yemen Arab Rep,1973,1,60
+Yemen Arab Rep,1974,1,0
+Yemen Arab Rep,1975,1,52
+Yemen Arab Rep,1977,1,0
+Yemen Arab Rep,1982,1,1507
+Yemen Arab Rep,1987,1,0
+Yemen Arab Rep,1989,1,38
+Yemen P Dem Rep,1972,1,0
+Yemen P Dem Rep,1975,1,0
+Yemen P Dem Rep,1977,1,0
+Yemen P Dem Rep,1981,2,0
+Yemen P Dem Rep,1982,1,482
+Yemen P Dem Rep,1989,1,25
+Yugoslavia,1943,1,19
+Yugoslavia,1963,1,1070
+Yugoslavia,1964,1,0
+Yugoslavia,1965,1,3
+Yugoslavia,1967,1,7
+Yugoslavia,1968,1,1
+Yugoslavia,1969,1,15
+Yugoslavia,1972,1,35
+Yugoslavia,1979,3,143
+Yugoslavia,1980,1,0
+Yugoslavia,1981,2,70
+Yugoslavia,1983,2,12
+Yugoslavia,1985,2,0
+Yugoslavia,1986,1,0
+Yugoslavia,1988,1,38
+Yugoslavia,1990,2,0
+Zambia,1978,1,11
+Zambia,1979,1,0
+Zambia,1981,1,0
+Zambia,1982,1,51
+Zambia,1983,1,0
+Zambia,1986,1,0
+Zambia,1989,1,0
+Zambia,1990,2,85
+Zambia,1991,1,0
+Zambia,1992,1,0
+Zambia,1995,1,0
+Zambia,1998,1,0
+Zambia,1999,4,462
+Zambia,2000,3,163
+Zambia,2001,2,16
+Zambia,2003,3,183
+Zambia,2004,1,2
+Zambia,2005,3,21
+Zambia,2006,1,5
+Zambia,2007,4,19
+Zambia,2008,2,177
+Zambia,2009,2,118
+Zambia,2010,2,9
+Zambia,2011,1,0
+Zambia,2012,1,2
+Zambia,2013,1,0
+Zambia,2014,1,0
+Zambia,2017,1,89
+Zambia,2019,2,4
+Zambia,2020,3,3
+Zimbabwe,1975,1,11
+Zimbabwe,1981,1,0
+Zimbabwe,1990,1,0
+Zimbabwe,1992,1,258
+Zimbabwe,1996,1,1311
+Zimbabwe,1998,4,58
+Zimbabwe,1999,2,52
+Zimbabwe,2000,4,182
+Zimbabwe,2001,2,13
+Zimbabwe,2002,2,4
+Zimbabwe,2003,3,50
+Zimbabwe,2005,2,87
+Zimbabwe,2007,5,94
+Zimbabwe,2008,1,4276
+Zimbabwe,2009,2,55
+Zimbabwe,2010,4,8
+Zimbabwe,2011,2,45
+Zimbabwe,2013,2,125
+Zimbabwe,2014,3,14
+Zimbabwe,2015,1,10
+Zimbabwe,2016,1,31
+Zimbabwe,2017,2,251
+Zimbabwe,2018,1,12
+Zimbabwe,2019,2,654
+Zimbabwe,2021,1,3
